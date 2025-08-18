@@ -34,6 +34,11 @@ def setup_logging(verbosity: int, log_file: Optional[str] = None):
         handlers=handlers,
     )
 
+    # Tame noisy urllib3 retry warnings unless user asked for very verbose logs
+    u3_level = logging.DEBUG if verbosity >= 2 else logging.ERROR
+    for name in ("urllib3", "urllib3.connectionpool", "requests.packages.urllib3"):
+        logging.getLogger(name).setLevel(u3_level)
+
 
 def build_session(timeout: int, retries: int, backoff: float, user_agent: Optional[str]) -> requests.Session:
     session = requests.Session()
@@ -100,7 +105,7 @@ def main():
     parser.add_argument("--max-pages", type=int, help="Limit number of pages to fetch")
     parser.add_argument("--sleep", type=float, default=1.0, help="Sleep seconds between requests")
     parser.add_argument("--fields", nargs="*", default=DEFAULT_FIELDS, help="Fields to fetch in search results")
-    parser.add_argument("--out", "-o", default="iso_metadataz.json", help="Output JSON file for results")
+    parser.add_argument("--out", "-o", default="iso_metadata.json", help="Output JSON file for results")
     parser.add_argument("--timeout", type=int, default=30, help="Request timeout seconds")
     parser.add_argument("--retries", type=int, default=5, help="HTTP retries for transient errors")
     parser.add_argument("--backoff", type=float, default=1.0, help="Retry backoff factor")

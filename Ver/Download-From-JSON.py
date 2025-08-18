@@ -5,7 +5,7 @@ import sys
 import time
 
 # Load the ISO metadata (explicit UTF-8 to avoid Windows cp1252 decode issues)
-with open("iso_metadataz.json", "r", encoding="utf-8") as f:
+with open("../iso_metadata.json", "r", encoding="utf-8") as f:
     iso_list = json.load(f)
 
 # Make sure the output directory exists

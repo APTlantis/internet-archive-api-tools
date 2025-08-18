@@ -1,0 +1,4265 @@
+[
+  {
+    "identifier": "com_0908",
+    "title": "com! 09/2008",
+    "file_name": "com_0908.iso",
+    "download_url": "https://archive.org/download/com_0908/com_0908.iso",
+    "size": "7626139648"
+  },
+  {
+    "identifier": "famelix-2.0_1",
+    "title": "Famelix Linux",
+    "file_name": "famelix-2.0_1.iso",
+    "download_url": "https://archive.org/download/famelix-2.0_1/famelix-2.0_1.iso",
+    "size": "697796608"
+  },
+  {
+    "identifier": "famelix-2.0_1",
+    "title": "Famelix Linux",
+    "file_name": "famelix-2.1-B.iso",
+    "download_url": "https://archive.org/download/famelix-2.0_1/famelix-2.1-B.iso",
+    "size": "731537408"
+  },
+  {
+    "identifier": "dvdcom-1107",
+    "title": "com! 11/2007",
+    "file_name": "DVDcom1107.iso",
+    "download_url": "https://archive.org/download/dvdcom-1107/DVDcom1107.iso",
+    "size": "6632833024"
+  },
+  {
+    "identifier": "externos_201906",
+    "title": "eXternOS",
+    "file_name": "eXternOS.iso",
+    "download_url": "https://archive.org/download/externos_201906/eXternOS.iso",
+    "size": "1684013056"
+  },
+  {
+    "identifier": "grand-theft-auto-vice-city_202110",
+    "title": "Grand Theft Auto: Vice City (Retail Edition)",
+    "file_name": "GTAVC (CD1).iso",
+    "download_url": "https://archive.org/download/grand-theft-auto-vice-city_202110/GTAVC (CD1).iso",
+    "size": "702812160"
+  },
+  {
+    "identifier": "grand-theft-auto-vice-city_202110",
+    "title": "Grand Theft Auto: Vice City (Retail Edition)",
+    "file_name": "GTAVC (CD2).iso",
+    "download_url": "https://archive.org/download/grand-theft-auto-vice-city_202110/GTAVC (CD2).iso",
+    "size": "689336320"
+  },
+  {
+    "identifier": "grand-theft-auto-vice-city_202110",
+    "title": "Grand Theft Auto: Vice City (Retail Edition)",
+    "file_name": "gta-vc no-cd 1-0.zip",
+    "download_url": "https://archive.org/download/grand-theft-auto-vice-city_202110/gta-vc no-cd 1-0.zip",
+    "size": "1260300"
+  },
+  {
+    "identifier": "grand-theft-auto-vice-city_202110",
+    "title": "Grand Theft Auto: Vice City (Retail Edition)",
+    "file_name": "revc(GTA-VC).zip",
+    "download_url": "https://archive.org/download/grand-theft-auto-vice-city_202110/revc(GTA-VC).zip",
+    "size": "7710069"
+  },
+  {
+    "identifier": "celos-1-beta6",
+    "title": "CelOS 1-beta6",
+    "file_name": "CelOS-1-beta6.iso",
+    "download_url": "https://archive.org/download/celos-1-beta6/CelOS-1-beta6.iso",
+    "size": "3488968704"
+  },
+  {
+    "identifier": "com-10-2010",
+    "title": "Com! 10/2010",
+    "file_name": "com! 10:2010.iso",
+    "download_url": "https://archive.org/download/com-10-2010/com! 10:2010.iso",
+    "size": "6307938304"
+  },
+  {
+    "identifier": "com_0507",
+    "title": "com! 05/2007",
+    "file_name": "com_0507.iso",
+    "download_url": "https://archive.org/download/com_0507/com_0507.iso",
+    "size": "7442337792"
+  },
+  {
+    "identifier": "euler-os-v-2.0-sp-5-x-86-64-dvd",
+    "title": "Huawei EulerOS 2.0 SP5 x86-64 DVD ISO",
+    "file_name": "EulerOS-V2.0SP5-x86_64-dvd.iso",
+    "download_url": "https://archive.org/download/euler-os-v-2.0-sp-5-x-86-64-dvd/EulerOS-V2.0SP5-x86_64-dvd.iso",
+    "size": "4883202048"
+  },
+  {
+    "identifier": "rolling-2022-05-28",
+    "title": "Rolling Rhino Remix 2022.05.28",
+    "file_name": "rolling-2022-05-28.iso",
+    "download_url": "https://archive.org/download/rolling-2022-05-28/rolling-2022-05-28.iso",
+    "size": "3554209792"
+  },
+  {
+    "identifier": "korora-live-mate-26-x86_64",
+    "title": "korora-live-mate-26-x86_64",
+    "file_name": "korora-live-mate-26-x86_64.iso",
+    "download_url": "https://archive.org/download/korora-live-mate-26-x86_64/korora-live-mate-26-x86_64.iso",
+    "size": "2781872128"
+  },
+  {
+    "identifier": "lindows-os-4.0.302",
+    "title": "LindowsOS 4.0.302",
+    "file_name": "LindowsOS.iso",
+    "download_url": "https://archive.org/download/lindows-os-4.0.302/LindowsOS.iso",
+    "size": "475572224"
+  },
+  {
+    "identifier": "linux-centos-5.11-x86-64",
+    "title": "CentOS 5.11 x86_64",
+    "file_name": "CentOS-5.11-x86_64-bin-DVD-1of2.iso",
+    "download_url": "https://archive.org/download/linux-centos-5.11-x86-64/CentOS-5.11-x86_64-bin-DVD-1of2.iso",
+    "size": "4674615296"
+  },
+  {
+    "identifier": "linux-centos-5.11-x86-64",
+    "title": "CentOS 5.11 x86_64",
+    "file_name": "CentOS-5.11-x86_64-bin-DVD-2of2.iso",
+    "download_url": "https://archive.org/download/linux-centos-5.11-x86-64/CentOS-5.11-x86_64-bin-DVD-2of2.iso",
+    "size": "912375808"
+  },
+  {
+    "identifier": "linux-centos-5.11-x86-64",
+    "title": "CentOS 5.11 x86_64",
+    "file_name": "CentOS-5.11-x86_64-netinstall.iso",
+    "download_url": "https://archive.org/download/linux-centos-5.11-x86-64/CentOS-5.11-x86_64-netinstall.iso",
+    "size": "15316992"
+  },
+  {
+    "identifier": "linux-centos-6.6-x86-64",
+    "title": "CentOS 6.6 x86_64",
+    "file_name": "CentOS-6.6-x86_64-bin-DVD1.iso",
+    "download_url": "https://archive.org/download/linux-centos-6.6-x86-64/CentOS-6.6-x86_64-bin-DVD1.iso",
+    "size": "4632608768"
+  },
+  {
+    "identifier": "linux-centos-6.6-x86-64",
+    "title": "CentOS 6.6 x86_64",
+    "file_name": "CentOS-6.6-x86_64-bin-DVD2.iso",
+    "download_url": "https://archive.org/download/linux-centos-6.6-x86-64/CentOS-6.6-x86_64-bin-DVD2.iso",
+    "size": "1303465984"
+  },
+  {
+    "identifier": "linux-centos-6.6-x86-64",
+    "title": "CentOS 6.6 x86_64",
+    "file_name": "CentOS-6.6-x86_64-minimal.iso",
+    "download_url": "https://archive.org/download/linux-centos-6.6-x86-64/CentOS-6.6-x86_64-minimal.iso",
+    "size": "401604608"
+  },
+  {
+    "identifier": "linux-centos-6.6-x86-64",
+    "title": "CentOS 6.6 x86_64",
+    "file_name": "CentOS-6.6-x86_64-netinstall.iso",
+    "download_url": "https://archive.org/download/linux-centos-6.6-x86-64/CentOS-6.6-x86_64-netinstall.iso",
+    "size": "232783872"
+  },
+  {
+    "identifier": "linuxmint-20.1-cinnamon-64bit_202505",
+    "title": "Linux Mint 20.1 Ulyssa (January 2021) 64-bit All Editions Official ISO",
+    "file_name": "linuxmint-20.1-cinnamon-64bit.iso",
+    "download_url": "https://archive.org/download/linuxmint-20.1-cinnamon-64bit_202505/linuxmint-20.1-cinnamon-64bit.iso",
+    "size": "2034827264"
+  },
+  {
+    "identifier": "linuxmint-21.3-cinnamon-64bit_202505",
+    "title": "Linux Mint 21.3 Virginia (January, 2024) 64-bit All Editions Official ISO",
+    "file_name": "linuxmint-21.3-cinnamon-64bit.iso",
+    "download_url": "https://archive.org/download/linuxmint-21.3-cinnamon-64bit_202505/linuxmint-21.3-cinnamon-64bit.iso",
+    "size": "3067232256"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-1.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-1.iso",
+    "size": "4698134528"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-10.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-10.iso",
+    "size": "4698576896"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-11.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-11.iso",
+    "size": "4691136512"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-12.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-12.iso",
+    "size": "4698568704"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-13.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-13.iso",
+    "size": "4695396352"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-14.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-14.iso",
+    "size": "4696313856"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-15.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-15.iso",
+    "size": "4694767616"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-16.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-16.iso",
+    "size": "4693035008"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-17.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-17.iso",
+    "size": "4698286080"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-18.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-18.iso",
+    "size": "4697694208"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-19.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-19.iso",
+    "size": "4067213312"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-2.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-2.iso",
+    "size": "4697905152"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-3.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-3.iso",
+    "size": "4697421824"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-4.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-4.iso",
+    "size": "4697593856"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-5.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-5.iso",
+    "size": "4699410432"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-6.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-6.iso",
+    "size": "4698322944"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-7.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-7.iso",
+    "size": "4692477952"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-8.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-8.iso",
+    "size": "4696014848"
+  },
+  {
+    "identifier": "debian-12-bookworm",
+    "title": "Debian 12 \"bookworm\" source code",
+    "file_name": "debian-12.0.0-source-DVD-9.iso",
+    "download_url": "https://archive.org/download/debian-12-bookworm/debian-12.0.0-source-DVD-9.iso",
+    "size": "4691439616"
+  },
+  {
+    "identifier": "tlc302",
+    "title": "Turbo Linux 3.0.2 Chinese Version",
+    "file_name": "tlc302.iso",
+    "download_url": "https://archive.org/download/tlc302/tlc302.iso",
+    "size": "613548032"
+  },
+  {
+    "identifier": "tsurugi_linux__2024.1",
+    "title": "tsurugi_linux_2024.1",
+    "file_name": "tsurugi_linux_2024.1.iso",
+    "download_url": "https://archive.org/download/tsurugi_linux__2024.1/tsurugi_linux_2024.1.iso",
+    "size": "17644795904"
+  },
+  {
+    "identifier": "ubuntu-8.10-umpc-i386",
+    "title": "Ubuntu Linux 8.10 Ultra Mobile PC Edition",
+    "file_name": "ubuntu-8.10-umpc-i386.img",
+    "download_url": "https://archive.org/download/ubuntu-8.10-umpc-i386/ubuntu-8.10-umpc-i386.img",
+    "size": "671481856"
+  },
+  {
+    "identifier": "red-hat-linux-i-3",
+    "title": "Mastering Red Hat Linux 7.1 CD-ROM",
+    "file_name": "Red Hat Linux_i3.iso",
+    "download_url": "https://archive.org/download/red-hat-linux-i-3/Red Hat Linux_i3.iso",
+    "size": "671602688"
+  },
+  {
+    "identifier": "mizi-1.1",
+    "title": "ISO image of Mizi Linux 1.1 (i386)",
+    "file_name": "MiziOS.iso",
+    "download_url": "https://archive.org/download/mizi-1.1/MiziOS.iso",
+    "size": "542103552"
+  },
+  {
+    "identifier": "cbpp-12.1-amd64-20240201",
+    "title": "cbpp-12.1-amd64-20240201",
+    "file_name": "Crunchbangplusplus 12/cbpp-12.1-amd64-20240201.iso",
+    "download_url": "https://archive.org/download/cbpp-12.1-amd64-20240201/Crunchbangplusplus 12/cbpp-12.1-amd64-20240201.iso",
+    "size": "2268332032"
+  },
+  {
+    "identifier": "cbpp-12.1-amd64-20240201",
+    "title": "cbpp-12.1-amd64-20240201",
+    "file_name": "Crunchbangplusplus 12/cbpp-12.1-i386-20240201.iso",
+    "download_url": "https://archive.org/download/cbpp-12.1-amd64-20240201/Crunchbangplusplus 12/cbpp-12.1-i386-20240201.iso",
+    "size": "2070216704"
+  },
+  {
+    "identifier": "Hakin9_200501",
+    "title": "Hakin9 2005 - 01 (1) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2005 - 01 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200501/Hakin9 2005 - 01 [hakin9.live].iso",
+    "size": "657526784"
+  },
+  {
+    "identifier": "solus-os-linux-distro-amd64",
+    "title": "Solus OS Linux (1-3.9)",
+    "file_name": "Solus-3.0-Budgie-2017-Aug-K4.12.iso",
+    "download_url": "https://archive.org/download/solus-os-linux-distro-amd64/Solus-3.0-Budgie-2017-Aug-K4.12.iso",
+    "size": "1231814656"
+  },
+  {
+    "identifier": "solus-os-linux-distro-amd64",
+    "title": "Solus OS Linux (1-3.9)",
+    "file_name": "Solus-3.9999-Budgie-2018-Sep-K4.18.iso",
+    "download_url": "https://archive.org/download/solus-os-linux-distro-amd64/Solus-3.9999-Budgie-2018-Sep-K4.18.iso",
+    "size": "1529937920"
+  },
+  {
+    "identifier": "rosa-desktop-fresh-r4-kde",
+    "title": "ROSA Desktop Fresh R4 KDE",
+    "file_name": "ROSA.FRESH.KDE.R4.i586.iso",
+    "download_url": "https://archive.org/download/rosa-desktop-fresh-r4-kde/ROSA.FRESH.KDE.R4.i586.iso",
+    "size": "1735393280"
+  },
+  {
+    "identifier": "rosa-desktop-fresh-r4-kde",
+    "title": "ROSA Desktop Fresh R4 KDE",
+    "file_name": "ROSA.FRESH.KDE.R4.x86_64.iso",
+    "download_url": "https://archive.org/download/rosa-desktop-fresh-r4-kde/ROSA.FRESH.KDE.R4.x86_64.iso",
+    "size": "1773142016"
+  },
+  {
+    "identifier": "stg-1.50.3_117",
+    "title": "Studio to Go! v1.50",
+    "file_name": "stg-1.50.3_117.iso",
+    "download_url": "https://archive.org/download/stg-1.50.3_117/stg-1.50.3_117.iso",
+    "size": "731648000"
+  },
+  {
+    "identifier": "aircrack-ng-live-cd",
+    "title": "Aircrack Ng Live CD",
+    "file_name": "Aircrack-ng Live CD.iso",
+    "download_url": "https://archive.org/download/aircrack-ng-live-cd/Aircrack-ng Live CD.iso",
+    "size": "57305088"
+  },
+  {
+    "identifier": "yellowdog-5.0-release",
+    "title": "Yellow Dog Linux 5.0 release directory",
+    "file_name": "releases-yellowdog-5.0/en/os/YellowDog/base/minstg2.img",
+    "download_url": "https://archive.org/download/yellowdog-5.0-release/releases-yellowdog-5.0/en/os/YellowDog/base/minstg2.img",
+    "size": "75194368"
+  },
+  {
+    "identifier": "yellowdog-5.0-release",
+    "title": "Yellow Dog Linux 5.0 release directory",
+    "file_name": "releases-yellowdog-5.0/en/os/YellowDog/base/stage2.img",
+    "download_url": "https://archive.org/download/yellowdog-5.0-release/releases-yellowdog-5.0/en/os/YellowDog/base/stage2.img",
+    "size": "75194368"
+  },
+  {
+    "identifier": "yellowdog-6.1-iso",
+    "title": "Yellow Dog Linux 6.1 installer",
+    "file_name": "yellowdog-6.1-ppc-DVD_20081119.iso",
+    "download_url": "https://archive.org/download/yellowdog-6.1-iso/yellowdog-6.1-ppc-DVD_20081119.iso",
+    "size": "3933818880"
+  },
+  {
+    "identifier": "com-2011.10",
+    "title": "com! 10/2011",
+    "file_name": "com! 2011.10.iso",
+    "download_url": "https://archive.org/download/com-2011.10/com! 2011.10.iso",
+    "size": "7213477888"
+  },
+  {
+    "identifier": "Hakin9_200605",
+    "title": "Hakin9 2006 - 05 (10) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2006 - 05 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200605/Hakin9 2006 - 05 [hakin9.live].iso",
+    "size": "722149376"
+  },
+  {
+    "identifier": "pulsar-linux-1.1t.-ratio-amd-64",
+    "title": "Pulsar Linux 1.1t. Ratio Amd 64",
+    "file_name": "Pulsar Linux 1.1t. Ratio amd64.iso",
+    "download_url": "https://archive.org/download/pulsar-linux-1.1t.-ratio-amd-64/Pulsar Linux 1.1t. Ratio amd64.iso",
+    "size": "4068900864"
+  },
+  {
+    "identifier": "pcnet-cd-2006-10-1",
+    "title": "2006-10: PCNET CD 1",
+    "file_name": "PCNET_CD_2006_10_1.iso",
+    "download_url": "https://archive.org/download/pcnet-cd-2006-10-1/PCNET_CD_2006_10_1.iso",
+    "size": "731744256"
+  },
+  {
+    "identifier": "SuseLinux6.4",
+    "title": "SuSE Linux 6.4 (Evaluation Version)",
+    "file_name": "suse linux 6.4.iso",
+    "download_url": "https://archive.org/download/SuseLinux6.4/suse linux 6.4.iso",
+    "size": "674367488"
+  },
+  {
+    "identifier": "GEEXBOX",
+    "title": "GEEXBOX",
+    "file_name": "GEEXBOX.iso",
+    "download_url": "https://archive.org/download/GEEXBOX/GEEXBOX.iso",
+    "size": "144379904"
+  },
+  {
+    "identifier": "mx-23-respin-gnome-x64-20240619_1036",
+    "title": "MX-23 Respin GNOME updated",
+    "file_name": "mx-23-respin-gnome-x64-20240619_1036.iso",
+    "download_url": "https://archive.org/download/mx-23-respin-gnome-x64-20240619_1036/mx-23-respin-gnome-x64-20240619_1036.iso",
+    "size": "1785724928"
+  },
+  {
+    "identifier": "mx-respin-gnome",
+    "title": "MX-23 Respin GNOME",
+    "file_name": "mx-23-respin-gnome-20231116_0955.iso",
+    "download_url": "https://archive.org/download/mx-respin-gnome/mx-23-respin-gnome-20231116_0955.iso",
+    "size": "1730150400"
+  },
+  {
+    "identifier": "mx-respin-xfce",
+    "title": "MX-23 Respin Xfce (updated 2024-10-06)",
+    "file_name": "mx-23-respin-xfce-x64-20241006_0224.iso",
+    "download_url": "https://archive.org/download/mx-respin-xfce/mx-23-respin-xfce-x64-20241006_0224.iso",
+    "size": "1556086784"
+  },
+  {
+    "identifier": "cent-os-7-dvd-x8664",
+    "title": "Cent OS 7 DVD x86_64",
+    "file_name": "CentOS-7-x86_64-DVD-2009.iso",
+    "download_url": "https://archive.org/download/cent-os-7-dvd-x8664/CentOS-7-x86_64-DVD-2009.iso",
+    "size": "4712300544"
+  },
+  {
+    "identifier": "cent-os-8.3.2011bootdvd1",
+    "title": "Cent OS 8.3.2011 (x64) Boot+Dvd1 Iso Images",
+    "file_name": "CentOS-8.3.2011-x86_64-boot.iso",
+    "download_url": "https://archive.org/download/cent-os-8.3.2011bootdvd1/CentOS-8.3.2011-x86_64-boot.iso",
+    "size": "716177408"
+  },
+  {
+    "identifier": "cent-os-8.3.2011bootdvd1",
+    "title": "Cent OS 8.3.2011 (x64) Boot+Dvd1 Iso Images",
+    "file_name": "CentOS-8.3.2011-x86_64-dvd1.iso",
+    "download_url": "https://archive.org/download/cent-os-8.3.2011bootdvd1/CentOS-8.3.2011-x86_64-dvd1.iso",
+    "size": "9264168960"
+  },
+  {
+    "identifier": "monomax-os",
+    "title": "Monomax OS",
+    "file_name": "monomaxos.iso",
+    "download_url": "https://archive.org/download/monomax-os/monomaxos.iso",
+    "size": "668360704"
+  },
+  {
+    "identifier": "dld-6-01-lite-9-99",
+    "title": "DLD_6.01_Lite_9/1999",
+    "file_name": "DLD6_01_Lite_-_9-99.iso",
+    "download_url": "https://archive.org/download/dld-6-01-lite-9-99/DLD6_01_Lite_-_9-99.iso",
+    "size": "674979840"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion7",
+    "title": "Rogue Class Linux version 7",
+    "file_name": "rcl-7-disc1.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion7/rcl-7-disc1.iso",
+    "size": "546826240"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion7",
+    "title": "Rogue Class Linux version 7",
+    "file_name": "rcl-7-disc2.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion7/rcl-7-disc2.iso",
+    "size": "345939968"
+  },
+  {
+    "identifier": "wowlinux-7-1-paran",
+    "title": "WOWLINUX 7.1 Paran release",
+    "file_name": "WOWLINUX_PARAN_1.iso",
+    "download_url": "https://archive.org/download/wowlinux-7-1-paran/WOWLINUX_PARAN_1.iso",
+    "size": "678756352"
+  },
+  {
+    "identifier": "wowlinux-7-1-paran",
+    "title": "WOWLINUX 7.1 Paran release",
+    "file_name": "WOWLINUX_PARAN_2.iso",
+    "download_url": "https://archive.org/download/wowlinux-7-1-paran/WOWLINUX_PARAN_2.iso",
+    "size": "524806144"
+  },
+  {
+    "identifier": "ubuntu-gnome-13.10",
+    "title": "Ubuntu Gnome 13.10",
+    "file_name": "ubuntu-gnome-13.10-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-gnome-13.10/ubuntu-gnome-13.10-desktop-amd64.iso",
+    "size": "907018240"
+  },
+  {
+    "identifier": "ubuntu-gnome-13.10",
+    "title": "Ubuntu Gnome 13.10",
+    "file_name": "ubuntu-gnome-13.10-desktop-i386.iso",
+    "download_url": "https://archive.org/download/ubuntu-gnome-13.10/ubuntu-gnome-13.10-desktop-i386.iso",
+    "size": "918552576"
+  },
+  {
+    "identifier": "tsurugi_lab_2020.1",
+    "title": "tsurugi_lab_2020.1",
+    "file_name": "tsurugi_lab_2020.1.iso",
+    "download_url": "https://archive.org/download/tsurugi_lab_2020.1/tsurugi_lab_2020.1.iso",
+    "size": "4373610496"
+  },
+  {
+    "identifier": "tsurugi_linux_2023.2",
+    "title": "tsurugi_linux_2023.2",
+    "file_name": "tsurugi_linux_2023.2.iso",
+    "download_url": "https://archive.org/download/tsurugi_linux_2023.2/tsurugi_linux_2023.2.iso",
+    "size": "16624273408"
+  },
+  {
+    "identifier": "ubuntu-24.04-desktop-amd64_202505",
+    "title": "Ubuntu 24.04 LTS Noble Numbat (April, 2024) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-24.04-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-24.04-desktop-amd64_202505/ubuntu-24.04-desktop-amd64.iso",
+    "size": "6114656256"
+  },
+  {
+    "identifier": "ubuntu-24.04.1-desktop-amd64_202505",
+    "title": "Ubuntu 24.04.1 LTS Noble Numbat (August, 2024) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-24.04.1-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-24.04.1-desktop-amd64_202505/ubuntu-24.04.1-desktop-amd64.iso",
+    "size": "6203355136"
+  },
+  {
+    "identifier": "mx-21-respin-windowmaker-20231121_0234",
+    "title": "MX-21 Respin Window Maker (updated 2024-10-02)",
+    "file_name": "mx-21-respin-windowmaker-x64-20241002_1119.iso",
+    "download_url": "https://archive.org/download/mx-21-respin-windowmaker-20231121_0234/mx-21-respin-windowmaker-x64-20241002_1119.iso",
+    "size": "1569718272"
+  },
+  {
+    "identifier": "solidrnetv3-3dist",
+    "title": "Linux Distro \"Solidrnet v3.3\"",
+    "file_name": "solidrnetv3-3dist.iso",
+    "download_url": "https://archive.org/download/solidrnetv3-3dist/solidrnetv3-3dist.iso",
+    "size": "1664481280"
+  },
+  {
+    "identifier": "pinguy-os-12.04-shell-x-86-64",
+    "title": "Pinguy OS 12.04 [CD ISO]",
+    "file_name": "Pinguy_OS_12.04-shell-x86-64.iso",
+    "download_url": "https://archive.org/download/pinguy-os-12.04-shell-x-86-64/Pinguy_OS_12.04-shell-x86-64.iso",
+    "size": "1852841984"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion9",
+    "title": "Rogue Class Linux version 9",
+    "file_name": "rcl-9-disc1.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion9/rcl-9-disc1.iso",
+    "size": "603834368"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion9",
+    "title": "Rogue Class Linux version 9",
+    "file_name": "rcl-9-disc2.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion9/rcl-9-disc2.iso",
+    "size": "399990784"
+  },
+  {
+    "identifier": "linux-xp-desktop",
+    "title": "Linux XP Desktop",
+    "file_name": "Linux XP Desktop.iso",
+    "download_url": "https://archive.org/download/linux-xp-desktop/Linux XP Desktop.iso",
+    "size": "650620928"
+  },
+  {
+    "identifier": "pcnet-cd-2006-08-1",
+    "title": "2006-08: PCNET CD 1",
+    "file_name": "PCNET_CD_2006_08_1.iso",
+    "download_url": "https://archive.org/download/pcnet-cd-2006-08-1/PCNET_CD_2006_08_1.iso",
+    "size": "730368000"
+  },
+  {
+    "identifier": "mx-19-respin-xfce-20231120_1410",
+    "title": "MX-19 Respin Xfce",
+    "file_name": "mx-19-respin-xfce-20231120_1410.iso",
+    "download_url": "https://archive.org/download/mx-19-respin-xfce-20231120_1410/mx-19-respin-xfce-20231120_1410.iso",
+    "size": "1629487104"
+  },
+  {
+    "identifier": "ubuntu-23.04-desktop-amd64_202505",
+    "title": "Ubuntu 23.04 Lunar Lobster (April, 2023) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-23.04-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-23.04-desktop-amd64_202505/ubuntu-23.04-desktop-amd64.iso",
+    "size": "4932407296"
+  },
+  {
+    "identifier": "kubuntu-5.10-i-386",
+    "title": "Kubuntu 5.10 I 386",
+    "file_name": "Kubuntu 5.10 i386.iso",
+    "download_url": "https://archive.org/download/kubuntu-5.10-i-386/Kubuntu 5.10 i386.iso",
+    "size": "671594496"
+  },
+  {
+    "identifier": "linuxmint-21.2-cinnamon-64bit_202505",
+    "title": "Linux Mint 21.2 Victoria (July, 2023) 64-bit All Editions Official ISO",
+    "file_name": "linuxmint-21.2-cinnamon-64bit.iso",
+    "download_url": "https://archive.org/download/linuxmint-21.2-cinnamon-64bit_202505/linuxmint-21.2-cinnamon-64bit.iso",
+    "size": "3026413568"
+  },
+  {
+    "identifier": "anduin-os-1.0.7-zh-cn",
+    "title": "Anduin OS 1.0.7 Zh CN",
+    "file_name": "AnduinOS-1.0.7-zh_CN.iso",
+    "download_url": "https://archive.org/download/anduin-os-1.0.7-zh-cn/AnduinOS-1.0.7-zh_CN.iso",
+    "size": "1925009408"
+  },
+  {
+    "identifier": "anduin-os-1.3.1-zh-cn",
+    "title": "Anduin OS 1.3.1 Zh CN",
+    "file_name": "AnduinOS-1.3.1-zh_CN.iso",
+    "download_url": "https://archive.org/download/anduin-os-1.3.1-zh-cn/AnduinOS-1.3.1-zh_CN.iso",
+    "size": "2048401408"
+  },
+  {
+    "identifier": "1-2009_20230927",
+    "title": "com! 01/2009",
+    "file_name": "1-2009.iso",
+    "download_url": "https://archive.org/download/1-2009_20230927/1-2009.iso",
+    "size": "8484339712"
+  },
+  {
+    "identifier": "antix-23-respin-386-20231125_1821",
+    "title": "antiX-23 Respin i386",
+    "file_name": "antix-23-respin-386-20231125_1821.iso",
+    "download_url": "https://archive.org/download/antix-23-respin-386-20231125_1821/antix-23-respin-386-20231125_1821.iso",
+    "size": "1177550848"
+  },
+  {
+    "identifier": "deep-water-0.3.0-128-mb",
+    "title": "Deep Water 0.3.0 128 MB",
+    "file_name": "Deep-Water0.3.0-128MB.iso",
+    "download_url": "https://archive.org/download/deep-water-0.3.0-128-mb/Deep-Water0.3.0-128MB.iso",
+    "size": "31981568"
+  },
+  {
+    "identifier": "FlonixCDEditionBuild41",
+    "title": "Flonix CD Edition Build 41",
+    "file_name": "Flonix_CD_Edition_build41.iso",
+    "download_url": "https://archive.org/download/FlonixCDEditionBuild41/Flonix_CD_Edition_build41.iso",
+    "size": "63660032"
+  },
+  {
+    "identifier": "ubuntu-20.04-desktop-amd64_202505",
+    "title": "Ubuntu 20.04 LTS Focal Fossa (April, 2020) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-20.04-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-20.04-desktop-amd64_202505/ubuntu-20.04-desktop-amd64.iso",
+    "size": "2715254784"
+  },
+  {
+    "identifier": "kondara-mnu-linux-2000",
+    "title": "Kondara MNU Linux 2000",
+    "file_name": "Kondara_MNU_Linux_2000-AlphaSystemsBinaryCD.iso",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-2000/Kondara_MNU_Linux_2000-AlphaSystemsBinaryCD.iso",
+    "size": "652679168"
+  },
+  {
+    "identifier": "kondara-mnu-linux-2000",
+    "title": "Kondara MNU Linux 2000",
+    "file_name": "Kondara_MNU_Linux_2000-PC-AT-BinaryCD.iso",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-2000/Kondara_MNU_Linux_2000-PC-AT-BinaryCD.iso",
+    "size": "675411968"
+  },
+  {
+    "identifier": "kondara-mnu-linux-2000",
+    "title": "Kondara MNU Linux 2000",
+    "file_name": "Kondara_MNU_Linux_2000-SourceCD.iso",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-2000/Kondara_MNU_Linux_2000-SourceCD.iso",
+    "size": "645638144"
+  },
+  {
+    "identifier": "kondara-mnu-linux-2000",
+    "title": "Kondara MNU Linux 2000",
+    "file_name": "Kondara_MNU_Linux_2000-ZooCD.iso",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-2000/Kondara_MNU_Linux_2000-ZooCD.iso",
+    "size": "465637376"
+  },
+  {
+    "identifier": "red-hat-linux-archives-spring-1996-4-cd-rom-box-3.0.3-kernel",
+    "title": "Red Hat Linux Archives Spring 1996 4 CD-ROM Box 3.0.3 Kernel",
+    "file_name": "Red Hat Linux Archives 3.0.3 Disk 1.iso",
+    "download_url": "https://archive.org/download/red-hat-linux-archives-spring-1996-4-cd-rom-box-3.0.3-kernel/Red Hat Linux Archives 3.0.3 Disk 1.iso",
+    "size": "609824768"
+  },
+  {
+    "identifier": "red-hat-linux-archives-spring-1996-4-cd-rom-box-3.0.3-kernel",
+    "title": "Red Hat Linux Archives Spring 1996 4 CD-ROM Box 3.0.3 Kernel",
+    "file_name": "Red Hat Linux Archives 3.0.3 Disk 2.iso",
+    "download_url": "https://archive.org/download/red-hat-linux-archives-spring-1996-4-cd-rom-box-3.0.3-kernel/Red Hat Linux Archives 3.0.3 Disk 2.iso",
+    "size": "653111296"
+  },
+  {
+    "identifier": "red-hat-linux-archives-spring-1996-4-cd-rom-box-3.0.3-kernel",
+    "title": "Red Hat Linux Archives Spring 1996 4 CD-ROM Box 3.0.3 Kernel",
+    "file_name": "Red Hat Linux Archives 3.0.3 Disk 3.iso",
+    "download_url": "https://archive.org/download/red-hat-linux-archives-spring-1996-4-cd-rom-box-3.0.3-kernel/Red Hat Linux Archives 3.0.3 Disk 3.iso",
+    "size": "658395136"
+  },
+  {
+    "identifier": "red-hat-linux-archives-spring-1996-4-cd-rom-box-3.0.3-kernel",
+    "title": "Red Hat Linux Archives Spring 1996 4 CD-ROM Box 3.0.3 Kernel",
+    "file_name": "Red Hat Linux Archives 3.0.3 Disk 4.iso",
+    "download_url": "https://archive.org/download/red-hat-linux-archives-spring-1996-4-cd-rom-box-3.0.3-kernel/Red Hat Linux Archives 3.0.3 Disk 4.iso",
+    "size": "643420160"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "TLEmanual.zip",
+    "download_url": "https://archive.org/download/linux-tle-collections/TLEmanual.zip",
+    "size": "25844485"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-4.1_r2-disc_1.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-4.1_r2-disc_1.iso",
+    "size": "731611136"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-4.1_r2-disc_2.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-4.1_r2-disc_2.iso",
+    "size": "728563712"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-4.1_r2-disc_3.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-4.1_r2-disc_3.iso",
+    "size": "731676672"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-4.1_r2-disc_4.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-4.1_r2-disc_4.iso",
+    "size": "679739392"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.0-i386-cd1.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.0-i386-cd1.iso",
+    "size": "731185152"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.0-i386-cd2.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.0-i386-cd2.iso",
+    "size": "731316224"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.0-i386-cd3.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.0-i386-cd3.iso",
+    "size": "496336896"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.0-src-cd4.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.0-src-cd4.iso",
+    "size": "714801152"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.0-src-cd5.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.0-src-cd5.iso",
+    "size": "722927616"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.5-i386-cd1.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.5-i386-cd1.iso",
+    "size": "709537792"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.5-i386-cd2.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.5-i386-cd2.iso",
+    "size": "729206784"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.5-i386-cd3.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.5-i386-cd3.iso",
+    "size": "715132928"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.5-i386-livecd.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.5-i386-livecd.iso",
+    "size": "733874176"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.5-src-cd4.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.5-src-cd4.iso",
+    "size": "674957312"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.5-src-cd5.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.5-src-cd5.iso",
+    "size": "675000320"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-5.5-src-cd6.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-5.5-src-cd6.iso",
+    "size": "675000320"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-7.0-i386-cd1.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-7.0-i386-cd1.iso",
+    "size": "722493440"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-7.0-i386-cd2.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-7.0-i386-cd2.iso",
+    "size": "726390784"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-7.0-i386-cd3.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-7.0-i386-cd3.iso",
+    "size": "651558912"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-8.0-i386.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-8.0-i386.iso",
+    "size": "721901568"
+  },
+  {
+    "identifier": "linux-tle-collections",
+    "title": "LinuxTLE collections",
+    "file_name": "iso/linux-tle-8.0.1-i386.iso",
+    "download_url": "https://archive.org/download/linux-tle-collections/iso/linux-tle-8.0.1-i386.iso",
+    "size": "728590336"
+  },
+  {
+    "identifier": "polippix-1.1_prosa",
+    "title": "polippix-1.1_prosa",
+    "file_name": "polippix-1.1_prosa.iso",
+    "download_url": "https://archive.org/download/polippix-1.1_prosa/polippix-1.1_prosa.iso",
+    "size": "731035648"
+  },
+  {
+    "identifier": "pureos-9.0-gnome-live_20200806-amd64.hybrid",
+    "title": "pureos-9.0-gnome-live_20200806-amd64.hybrid",
+    "file_name": "pureos-9.0-gnome-live_20200806-amd64.hybrid.iso",
+    "download_url": "https://archive.org/download/pureos-9.0-gnome-live_20200806-amd64.hybrid/pureos-9.0-gnome-live_20200806-amd64.hybrid.iso",
+    "size": "1501102080"
+  },
+  {
+    "identifier": "px-os-v-1.0",
+    "title": "PX OS V 1.0",
+    "file_name": "PX_OS_v1.0.iso",
+    "download_url": "https://archive.org/download/px-os-v-1.0/PX_OS_v1.0.iso",
+    "size": "977188864"
+  },
+  {
+    "identifier": "yellowdog-5.0.2-iso-cds",
+    "title": "Yellow Dog Linux 5.0.2 CD installer",
+    "file_name": "yellowdog-5.0.2-20070627-disc1.iso",
+    "download_url": "https://archive.org/download/yellowdog-5.0.2-iso-cds/yellowdog-5.0.2-20070627-disc1.iso",
+    "size": "669192192"
+  },
+  {
+    "identifier": "yellowdog-5.0.2-iso-cds",
+    "title": "Yellow Dog Linux 5.0.2 CD installer",
+    "file_name": "yellowdog-5.0.2-20070627-disc2.iso",
+    "download_url": "https://archive.org/download/yellowdog-5.0.2-iso-cds/yellowdog-5.0.2-20070627-disc2.iso",
+    "size": "659484672"
+  },
+  {
+    "identifier": "yellowdog-5.0.2-iso-cds",
+    "title": "Yellow Dog Linux 5.0.2 CD installer",
+    "file_name": "yellowdog-5.0.2-20070627-disc3.iso",
+    "download_url": "https://archive.org/download/yellowdog-5.0.2-iso-cds/yellowdog-5.0.2-20070627-disc3.iso",
+    "size": "653285376"
+  },
+  {
+    "identifier": "yellowdog-5.0.2-iso-cds",
+    "title": "Yellow Dog Linux 5.0.2 CD installer",
+    "file_name": "yellowdog-5.0.2-20070627-disc4.iso",
+    "download_url": "https://archive.org/download/yellowdog-5.0.2-iso-cds/yellowdog-5.0.2-20070627-disc4.iso",
+    "size": "665042944"
+  },
+  {
+    "identifier": "yellowdog-5.0.2-iso-cds",
+    "title": "Yellow Dog Linux 5.0.2 CD installer",
+    "file_name": "yellowdog-5.0.2-20070627-disc5.iso",
+    "download_url": "https://archive.org/download/yellowdog-5.0.2-iso-cds/yellowdog-5.0.2-20070627-disc5.iso",
+    "size": "668291072"
+  },
+  {
+    "identifier": "yellowdog-5.0.2-iso-cds",
+    "title": "Yellow Dog Linux 5.0.2 CD installer",
+    "file_name": "yellowdog-5.0.2-20070627-disc6.iso",
+    "download_url": "https://archive.org/download/yellowdog-5.0.2-iso-cds/yellowdog-5.0.2-20070627-disc6.iso",
+    "size": "412971008"
+  },
+  {
+    "identifier": "cle09p1",
+    "title": "Chinese Linux Extensions v0.9p1",
+    "file_name": "cle-0.9p1-1.i386.iso",
+    "download_url": "https://archive.org/download/cle09p1/cle-0.9p1-1.i386.iso",
+    "size": "680198144"
+  },
+  {
+    "identifier": "bolgenos",
+    "title": "BolgenOS 1.2 (CD) [2010]",
+    "file_name": "bolgenos.iso",
+    "download_url": "https://archive.org/download/bolgenos/bolgenos.iso",
+    "size": "645869568"
+  },
+  {
+    "identifier": "ubuntu-22.10-desktop-amd64",
+    "title": "Ubuntu 22.10 Kinetic Kudu (October, 2022) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-22.10-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-22.10-desktop-amd64/ubuntu-22.10-desktop-amd64.iso",
+    "size": "4071903232"
+  },
+  {
+    "identifier": "mx-23.2-x-64",
+    "title": "MX 23.2 X 64",
+    "file_name": "MX-23.2_x64.iso",
+    "download_url": "https://archive.org/download/mx-23.2-x-64/MX-23.2_x64.iso",
+    "size": "2256535552"
+  },
+  {
+    "identifier": "solidrnetv5-dist",
+    "title": "Linux Distro \"Solidrnet v5\"",
+    "file_name": "Guide-Utilisateur-Octobre-2014_jp2.zip",
+    "download_url": "https://archive.org/download/solidrnetv5-dist/Guide-Utilisateur-Octobre-2014_jp2.zip",
+    "size": "41396084"
+  },
+  {
+    "identifier": "solidrnetv5-dist",
+    "title": "Linux Distro \"Solidrnet v5\"",
+    "file_name": "solidrnetv5-dist.iso",
+    "download_url": "https://archive.org/download/solidrnetv5-dist/solidrnetv5-dist.iso",
+    "size": "2549088256"
+  },
+  {
+    "identifier": "tsurugi_lab_2023.1_beta",
+    "title": "tsurugi_lab_2023.1_beta",
+    "file_name": "tsurugi_lab_2023.1_beta.iso",
+    "download_url": "https://archive.org/download/tsurugi_lab_2023.1_beta/tsurugi_lab_2023.1_beta.iso",
+    "size": "11886147584"
+  },
+  {
+    "identifier": "mizi-linux-1.5",
+    "title": "Mizi Linux 1.5",
+    "file_name": "미지리눅스 1.5 CD1.iso",
+    "download_url": "https://archive.org/download/mizi-linux-1.5/미지리눅스 1.5 CD1.iso",
+    "size": "333508608"
+  },
+  {
+    "identifier": "mizi-linux-1.5",
+    "title": "Mizi Linux 1.5",
+    "file_name": "미지리눅스 1.5 CD2.iso",
+    "download_url": "https://archive.org/download/mizi-linux-1.5/미지리눅스 1.5 CD2.iso",
+    "size": "432377856"
+  },
+  {
+    "identifier": "gelecek-linux-1.0",
+    "title": "Gelecek Linux 1.0",
+    "file_name": "gelecek-linux-1.0.iso",
+    "download_url": "https://archive.org/download/gelecek-linux-1.0/gelecek-linux-1.0.iso",
+    "size": "652552192"
+  },
+  {
+    "identifier": "debris-2.0",
+    "title": "debris-2.0",
+    "file_name": "debris-2.0.iso",
+    "download_url": "https://archive.org/download/debris-2.0/debris-2.0.iso",
+    "size": "195196928"
+  },
+  {
+    "identifier": "dd-linux-image-library",
+    "title": "Diverse Linux Distributions",
+    "file_name": "Damn Small Linux - dsl-4.4.10.iso",
+    "download_url": "https://archive.org/download/dd-linux-image-library/Damn Small Linux - dsl-4.4.10.iso",
+    "size": "52328448"
+  },
+  {
+    "identifier": "edubuntu-13.10-beta2-amd64",
+    "title": "Edubuntu 13.10 Beta 2 amd64",
+    "file_name": "edubuntu-13.10-beta2-dvd-amd64.iso",
+    "download_url": "https://archive.org/download/edubuntu-13.10-beta2-amd64/edubuntu-13.10-beta2-dvd-amd64.iso",
+    "size": "3044507648"
+  },
+  {
+    "identifier": "conectiva-linux-4.2-servidor-disc-3-of-3",
+    "title": "Conectiva Linux 4.2 Servidor Completo / Full Set",
+    "file_name": "Conectiva Linux 4.2 Servidor Disc 1 of 3.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-4.2-servidor-disc-3-of-3/Conectiva Linux 4.2 Servidor Disc 1 of 3.iso",
+    "size": "676155392"
+  },
+  {
+    "identifier": "conectiva-linux-4.2-servidor-disc-3-of-3",
+    "title": "Conectiva Linux 4.2 Servidor Completo / Full Set",
+    "file_name": "Conectiva Linux 4.2 Servidor Disc 2 of 3.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-4.2-servidor-disc-3-of-3/Conectiva Linux 4.2 Servidor Disc 2 of 3.iso",
+    "size": "621146112"
+  },
+  {
+    "identifier": "conectiva-linux-4.2-servidor-disc-3-of-3",
+    "title": "Conectiva Linux 4.2 Servidor Completo / Full Set",
+    "file_name": "Conectiva Linux 4.2 Servidor Disc 3 of 3.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-4.2-servidor-disc-3-of-3/Conectiva Linux 4.2 Servidor Disc 3 of 3.iso",
+    "size": "678539264"
+  },
+  {
+    "identifier": "cr-os-suse-linux-i686-last-rel",
+    "title": "Cr OS Linux i686-2.4.1290",
+    "file_name": "Cr_OS_Linux.i686-2.4.1290.iso",
+    "download_url": "https://archive.org/download/cr-os-suse-linux-i686-last-rel/Cr_OS_Linux.i686-2.4.1290.iso",
+    "size": "866123776"
+  },
+  {
+    "identifier": "polippix-2.1",
+    "title": "Polippix 2.1",
+    "file_name": "Polippix 2.1.iso",
+    "download_url": "https://archive.org/download/polippix-2.1/Polippix 2.1.iso",
+    "size": "701308928"
+  },
+  {
+    "identifier": "mx-21-respin-lxde-20231119_0828",
+    "title": "MX-21 Respin LXDE",
+    "file_name": "mx-21-respin-lxde-20231119_0828.iso",
+    "download_url": "https://archive.org/download/mx-21-respin-lxde-20231119_0828/mx-21-respin-lxde-20231119_0828.iso",
+    "size": "1418723328"
+  },
+  {
+    "identifier": "mx-21-respin-xfce-20231120_0231",
+    "title": "MX-21 Respin Xfce",
+    "file_name": "mx-21-respin-xfce-20231120_0231.iso",
+    "download_url": "https://archive.org/download/mx-21-respin-xfce-20231120_0231/mx-21-respin-xfce-20231120_0231.iso",
+    "size": "1442840576"
+  },
+  {
+    "identifier": "korora-live-gnome-26-x86_64",
+    "title": "korora-live-gnome-26-x86_64",
+    "file_name": "korora-live-gnome-26-x86_64.iso",
+    "download_url": "https://archive.org/download/korora-live-gnome-26-x86_64/korora-live-gnome-26-x86_64.iso",
+    "size": "2518679552"
+  },
+  {
+    "identifier": "mx-respin-budgie",
+    "title": "MX-23 Respin Budgie",
+    "file_name": "mx-23-respin-budgie-20231114_0745.iso",
+    "download_url": "https://archive.org/download/mx-respin-budgie/mx-23-respin-budgie-20231114_0745.iso",
+    "size": "1751121920"
+  },
+  {
+    "identifier": "mx-respin-enlightenment",
+    "title": "MX-23 Respin Enlightenment (updated 2024-09-27)",
+    "file_name": "mx-23-respin-enlightenment-20231116_0530.iso",
+    "download_url": "https://archive.org/download/mx-respin-enlightenment/mx-23-respin-enlightenment-20231116_0530.iso",
+    "size": "1755316224"
+  },
+  {
+    "identifier": "mx-respin-enlightenment",
+    "title": "MX-23 Respin Enlightenment (updated 2024-09-27)",
+    "file_name": "mx-respin-23-enlightenment-x64-20240927_0941.iso",
+    "download_url": "https://archive.org/download/mx-respin-enlightenment/mx-respin-23-enlightenment-x64-20240927_0941.iso",
+    "size": "1956642816"
+  },
+  {
+    "identifier": "mx-23-respin-icewm-20231117_0932",
+    "title": "MX-23 Respin IceWM (updated 2024-09-29)",
+    "file_name": "mx-23-respin-icewm-x64-20240929_0738.iso",
+    "download_url": "https://archive.org/download/mx-23-respin-icewm-20231117_0932/mx-23-respin-icewm-x64-20240929_0738.iso",
+    "size": "1547698176"
+  },
+  {
+    "identifier": "Hakin9_200504",
+    "title": "Hakin9 2005 - 04 (4) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2005 - 04 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200504/Hakin9 2005 - 04 [hakin9.live].iso",
+    "size": "714481664"
+  },
+  {
+    "identifier": "iro1.0_alpha2_amd64",
+    "title": "iro1.0 Alpha2",
+    "file_name": "iro1.0_alpha2_amd64.iso",
+    "download_url": "https://archive.org/download/iro1.0_alpha2_amd64/iro1.0_alpha2_amd64.iso",
+    "size": "2502950912"
+  },
+  {
+    "identifier": "com-2012.11",
+    "title": "com! 11/2012",
+    "file_name": "com! 2012.11.iso",
+    "download_url": "https://archive.org/download/com-2012.11/com! 2012.11.iso",
+    "size": "7479238656"
+  },
+  {
+    "identifier": "linuxmint-22-cinnamon-64bit_20250507",
+    "title": "Linux Mint 22 Wilma (July, 2024) 64-bit All Editions Official ISO",
+    "file_name": "linuxmint-22-cinnamon-64bit.iso",
+    "download_url": "https://archive.org/download/linuxmint-22-cinnamon-64bit_20250507/linuxmint-22-cinnamon-64bit.iso",
+    "size": "2907832320"
+  },
+  {
+    "identifier": "cafeina-linux",
+    "title": "CaFeina GNU/Linux",
+    "file_name": "CaFeina-Linux.iso",
+    "download_url": "https://archive.org/download/cafeina-linux/CaFeina-Linux.iso",
+    "size": "674977792"
+  },
+  {
+    "identifier": "ubuntustudio-17.10-dvd-amd64",
+    "title": "ubuntustudio-17.10-dvd-amd64",
+    "file_name": "ubuntustudio-17.10-dvd-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntustudio-17.10-dvd-amd64/ubuntustudio-17.10-dvd-amd64.iso",
+    "size": "2868903936"
+  },
+  {
+    "identifier": "conectiva-linux-5.0",
+    "title": "Conectiva Linux 5.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 5.0 Disc 1 of 6.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-5.0/Conectiva Linux 5.0 Disc 1 of 6.iso",
+    "size": "655407104"
+  },
+  {
+    "identifier": "conectiva-linux-5.0",
+    "title": "Conectiva Linux 5.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 5.0 Disc 2 of 6.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-5.0/Conectiva Linux 5.0 Disc 2 of 6.iso",
+    "size": "399089664"
+  },
+  {
+    "identifier": "conectiva-linux-5.0",
+    "title": "Conectiva Linux 5.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 5.0 Disc 3 of 6.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-5.0/Conectiva Linux 5.0 Disc 3 of 6.iso",
+    "size": "471889920"
+  },
+  {
+    "identifier": "conectiva-linux-5.0",
+    "title": "Conectiva Linux 5.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 5.0 Disc 4 of 6.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-5.0/Conectiva Linux 5.0 Disc 4 of 6.iso",
+    "size": "232847360"
+  },
+  {
+    "identifier": "conectiva-linux-5.0",
+    "title": "Conectiva Linux 5.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 5.0 Disc 5 of 6.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-5.0/Conectiva Linux 5.0 Disc 5 of 6.iso",
+    "size": "637986816"
+  },
+  {
+    "identifier": "conectiva-linux-5.0",
+    "title": "Conectiva Linux 5.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 5.0 Disc 6 of 6.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-5.0/Conectiva Linux 5.0 Disc 6 of 6.iso",
+    "size": "598001664"
+  },
+  {
+    "identifier": "com_1110",
+    "title": "com! 11/2010",
+    "file_name": "com_1110.iso",
+    "download_url": "https://archive.org/download/com_1110/com_1110.iso",
+    "size": "7373508608"
+  },
+  {
+    "identifier": "TongfangPioneerLinuxCHS",
+    "title": "Tongfang Pioneer Linux (Chinese)",
+    "file_name": "同方LINUX中文操作系统（适农版）先锋桌面操作系统V1.0.iso",
+    "download_url": "https://archive.org/download/TongfangPioneerLinuxCHS/同方LINUX中文操作系统（适农版）先锋桌面操作系统V1.0.iso",
+    "size": "1519405056"
+  },
+  {
+    "identifier": "com_1007",
+    "title": "com! 10/2007",
+    "file_name": "com_1007.iso",
+    "download_url": "https://archive.org/download/com_1007/com_1007.iso",
+    "size": "6241943552"
+  },
+  {
+    "identifier": "com_0809",
+    "title": "com! 08/2009",
+    "file_name": "com_0809.iso",
+    "download_url": "https://archive.org/download/com_0809/com_0809.iso",
+    "size": "7570984960"
+  },
+  {
+    "identifier": "floppinux_0.2.1",
+    "title": "FLOPPINUX 0.2.1 FDD Image",
+    "file_name": "floppinux_0.2.1.img",
+    "download_url": "https://archive.org/download/floppinux_0.2.1/floppinux_0.2.1.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "soltros-os-07.27.2025",
+    "title": "soltros-os-07.27.2025",
+    "file_name": "soltros-os-07.27.2025.iso",
+    "download_url": "https://archive.org/download/soltros-os-07.27.2025/soltros-os-07.27.2025.iso",
+    "size": "6741817344"
+  },
+  {
+    "identifier": "applixware-rh-437",
+    "title": "ApplixWare For Red Hat Linux 4.3.7",
+    "file_name": "CD1-Red Hat Linux Intel 5.0.iso",
+    "download_url": "https://archive.org/download/applixware-rh-437/CD1-Red Hat Linux Intel 5.0.iso",
+    "size": "603598848"
+  },
+  {
+    "identifier": "applixware-rh-437",
+    "title": "ApplixWare For Red Hat Linux 4.3.7",
+    "file_name": "CD2-ApplixWare for Red Hat Linux 4.3.7.iso",
+    "download_url": "https://archive.org/download/applixware-rh-437/CD2-ApplixWare for Red Hat Linux 4.3.7.iso",
+    "size": "611364864"
+  },
+  {
+    "identifier": "com_1206",
+    "title": "com! 12/2006",
+    "file_name": "com_1206.iso",
+    "download_url": "https://archive.org/download/com_1206/com_1206.iso",
+    "size": "1493827584"
+  },
+  {
+    "identifier": "Hakin9_200505",
+    "title": "Hakin9 2005 - 05 (5) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2005 - 05 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200505/Hakin9 2005 - 05 [hakin9.live].iso",
+    "size": "726294528"
+  },
+  {
+    "identifier": "com-2013.07",
+    "title": "com! 07/2013",
+    "file_name": "com! 2013.07.iso",
+    "download_url": "https://archive.org/download/com-2013.07/com! 2013.07.iso",
+    "size": "8150558720"
+  },
+  {
+    "identifier": "jlime",
+    "title": "JLime",
+    "file_name": "Releases/JLime/Donkey/Donkey-Install-v6-1.0.1.zip",
+    "download_url": "https://archive.org/download/jlime/Releases/JLime/Donkey/Donkey-Install-v6-1.0.1.zip",
+    "size": "26042872"
+  },
+  {
+    "identifier": "jlime",
+    "title": "JLime",
+    "file_name": "Releases/JLime/Shrek/jlime.img",
+    "download_url": "https://archive.org/download/jlime/Releases/JLime/Shrek/jlime.img",
+    "size": "10485760"
+  },
+  {
+    "identifier": "vinelinux-v63",
+    "title": "Vine Linux 6.3",
+    "file_name": "Vine63-CD-i686.iso",
+    "download_url": "https://archive.org/download/vinelinux-v63/Vine63-CD-i686.iso",
+    "size": "710934528"
+  },
+  {
+    "identifier": "vinelinux-v63",
+    "title": "Vine Linux 6.3",
+    "file_name": "Vine63-CD-x86_64.iso",
+    "download_url": "https://archive.org/download/vinelinux-v63/Vine63-CD-x86_64.iso",
+    "size": "731906048"
+  },
+  {
+    "identifier": "vixta-linux",
+    "title": "Vixta Linux",
+    "file_name": "Vixta_Linux.iso",
+    "download_url": "https://archive.org/download/vixta-linux/Vixta_Linux.iso",
+    "size": "750790656"
+  },
+  {
+    "identifier": "pingo-2.0",
+    "title": "Pingo Linux 2.0",
+    "file_name": "OKO_Pingo 2.0 Docs.iso",
+    "download_url": "https://archive.org/download/pingo-2.0/OKO_Pingo 2.0 Docs.iso",
+    "size": "362776576"
+  },
+  {
+    "identifier": "pingo-2.0",
+    "title": "Pingo Linux 2.0",
+    "file_name": "Pingo 2.0 CD1.iso",
+    "download_url": "https://archive.org/download/pingo-2.0/Pingo 2.0 CD1.iso",
+    "size": "660277248"
+  },
+  {
+    "identifier": "pingo-2.0",
+    "title": "Pingo Linux 2.0",
+    "file_name": "Pingo 2.0 CD2.iso",
+    "download_url": "https://archive.org/download/pingo-2.0/Pingo 2.0 CD2.iso",
+    "size": "677169152"
+  },
+  {
+    "identifier": "pingo-2.0",
+    "title": "Pingo Linux 2.0",
+    "file_name": "Pingo 2.0 CD3.iso",
+    "download_url": "https://archive.org/download/pingo-2.0/Pingo 2.0 CD3.iso",
+    "size": "594020352"
+  },
+  {
+    "identifier": "g-os-3.0-gadgets",
+    "title": "gOS 3.0 Gadgets",
+    "file_name": "gOS 3.0 Gadgets.iso",
+    "download_url": "https://archive.org/download/g-os-3.0-gadgets/gOS 3.0 Gadgets.iso",
+    "size": "727277568"
+  },
+  {
+    "identifier": "slo-tech-linux-2.0",
+    "title": "Slo-Tech Linux 2.0",
+    "file_name": "Slo-Tech Linux 2.0.iso",
+    "download_url": "https://archive.org/download/slo-tech-linux-2.0/Slo-Tech Linux 2.0.iso",
+    "size": "4457060352"
+  },
+  {
+    "identifier": "xpud-v089",
+    "title": "xPUD 0.8.9",
+    "file_name": "xpud-0.8.9.iso",
+    "download_url": "https://archive.org/download/xpud-v089/xpud-0.8.9.iso",
+    "size": "51052544"
+  },
+  {
+    "identifier": "com-2011.12",
+    "title": "com! 12/2011",
+    "file_name": "com! 2011.12.iso",
+    "download_url": "https://archive.org/download/com-2011.12/com! 2011.12.iso",
+    "size": "6656032768"
+  },
+  {
+    "identifier": "com-2010.12",
+    "title": "com! 12/2010",
+    "file_name": "com! 2010.12.iso",
+    "download_url": "https://archive.org/download/com-2010.12/com! 2010.12.iso",
+    "size": "8419819520"
+  },
+  {
+    "identifier": "did-ji-x.-3.0.x-64",
+    "title": "Did Ji X. 3.0.x-64",
+    "file_name": "DidJiX.2.0.x86.iso",
+    "download_url": "https://archive.org/download/did-ji-x.-3.0.x-64/DidJiX.2.0.x86.iso",
+    "size": "419430400"
+  },
+  {
+    "identifier": "did-ji-x.-3.0.x-64",
+    "title": "Did Ji X. 3.0.x-64",
+    "file_name": "DidJiX.3.0.x64.iso",
+    "download_url": "https://archive.org/download/did-ji-x.-3.0.x-64/DidJiX.3.0.x64.iso",
+    "size": "458227712"
+  },
+  {
+    "identifier": "linux-centos-5.11-i386",
+    "title": "CentOS 5.11 i386",
+    "file_name": "CentOS-5.11-i386-bin-DVD-1of2.iso",
+    "download_url": "https://archive.org/download/linux-centos-5.11-i386/CentOS-5.11-i386-bin-DVD-1of2.iso",
+    "size": "4114038784"
+  },
+  {
+    "identifier": "linux-centos-5.11-i386",
+    "title": "CentOS 5.11 i386",
+    "file_name": "CentOS-5.11-i386-bin-DVD-2of2.iso",
+    "download_url": "https://archive.org/download/linux-centos-5.11-i386/CentOS-5.11-i386-bin-DVD-2of2.iso",
+    "size": "735852544"
+  },
+  {
+    "identifier": "linux-centos-5.11-i386",
+    "title": "CentOS 5.11 i386",
+    "file_name": "CentOS-5.11-i386-netinstall.iso",
+    "download_url": "https://archive.org/download/linux-centos-5.11-i386/CentOS-5.11-i386-netinstall.iso",
+    "size": "14172160"
+  },
+  {
+    "identifier": "linux-toolkit-march-1997",
+    "title": "Linux Toolkit - March 1997",
+    "file_name": "Linux Toolkit - March 1997 - Disc 1.iso",
+    "download_url": "https://archive.org/download/linux-toolkit-march-1997/Linux Toolkit - March 1997 - Disc 1.iso",
+    "size": "655003648"
+  },
+  {
+    "identifier": "linux-toolkit-march-1997",
+    "title": "Linux Toolkit - March 1997",
+    "file_name": "Linux Toolkit - March 1997 - Disc 2.iso",
+    "download_url": "https://archive.org/download/linux-toolkit-march-1997/Linux Toolkit - March 1997 - Disc 2.iso",
+    "size": "655331328"
+  },
+  {
+    "identifier": "linux-toolkit-march-1997",
+    "title": "Linux Toolkit - March 1997",
+    "file_name": "Linux Toolkit - March 1997 - Disc 3.iso",
+    "download_url": "https://archive.org/download/linux-toolkit-march-1997/Linux Toolkit - March 1997 - Disc 3.iso",
+    "size": "665544704"
+  },
+  {
+    "identifier": "linux-toolkit-march-1997",
+    "title": "Linux Toolkit - March 1997",
+    "file_name": "Linux Toolkit - March 1997 - Disc 4.iso",
+    "download_url": "https://archive.org/download/linux-toolkit-march-1997/Linux Toolkit - March 1997 - Disc 4.iso",
+    "size": "670576640"
+  },
+  {
+    "identifier": "linux-toolkit-march-1997",
+    "title": "Linux Toolkit - March 1997",
+    "file_name": "Linux Toolkit - March 1997 - Disc 5.iso",
+    "download_url": "https://archive.org/download/linux-toolkit-march-1997/Linux Toolkit - March 1997 - Disc 5.iso",
+    "size": "678017024"
+  },
+  {
+    "identifier": "linux-toolkit-march-1997",
+    "title": "Linux Toolkit - March 1997",
+    "file_name": "Linux Toolkit - March 1997 - Disc 6.iso",
+    "download_url": "https://archive.org/download/linux-toolkit-march-1997/Linux Toolkit - March 1997 - Disc 6.iso",
+    "size": "654657536"
+  },
+  {
+    "identifier": "yellowdog-6.2-release",
+    "title": "Yellow Dog Linux 6.2 release directory",
+    "file_name": "releases-yellowdog-6.2/os/images/boot.iso",
+    "download_url": "https://archive.org/download/yellowdog-6.2-release/releases-yellowdog-6.2/os/images/boot.iso",
+    "size": "36225024"
+  },
+  {
+    "identifier": "yellowdog-6.2-release",
+    "title": "Yellow Dog Linux 6.2 release directory",
+    "file_name": "releases-yellowdog-6.2/os/images/minstg2.img",
+    "download_url": "https://archive.org/download/yellowdog-6.2-release/releases-yellowdog-6.2/os/images/minstg2.img",
+    "size": "37740544"
+  },
+  {
+    "identifier": "yellowdog-6.2-release",
+    "title": "Yellow Dog Linux 6.2 release directory",
+    "file_name": "releases-yellowdog-6.2/os/images/netboot/ppc32.img",
+    "download_url": "https://archive.org/download/yellowdog-6.2-release/releases-yellowdog-6.2/os/images/netboot/ppc32.img",
+    "size": "5866964"
+  },
+  {
+    "identifier": "yellowdog-6.2-release",
+    "title": "Yellow Dog Linux 6.2 release directory",
+    "file_name": "releases-yellowdog-6.2/os/images/netboot/ppc64.img",
+    "download_url": "https://archive.org/download/yellowdog-6.2-release/releases-yellowdog-6.2/os/images/netboot/ppc64.img",
+    "size": "6552940"
+  },
+  {
+    "identifier": "yellowdog-6.2-release",
+    "title": "Yellow Dog Linux 6.2 release directory",
+    "file_name": "releases-yellowdog-6.2/os/images/stage2.img",
+    "download_url": "https://archive.org/download/yellowdog-6.2-release/releases-yellowdog-6.2/os/images/stage2.img",
+    "size": "83959808"
+  },
+  {
+    "identifier": "gnustep-live-cd-2.5.1-amd64",
+    "title": "GNUstep Live CD 2.5.1 ( AMD64)",
+    "file_name": "GNUSTEP-amd64-2.5.1.iso",
+    "download_url": "https://archive.org/download/gnustep-live-cd-2.5.1-amd64/GNUSTEP-amd64-2.5.1.iso",
+    "size": "463294464"
+  },
+  {
+    "identifier": "floralinux-libre-xfce-r12.11-x64-20250519_2328",
+    "title": "Flora Linux-libre Xfce (based on debian 12)",
+    "file_name": "floralinux-libre-xfce-r12.11-x64-20250519_2328.iso",
+    "download_url": "https://archive.org/download/floralinux-libre-xfce-r12.11-x64-20250519_2328/floralinux-libre-xfce-r12.11-x64-20250519_2328.iso",
+    "size": "1295843328"
+  },
+  {
+    "identifier": "PenaOS",
+    "title": "PenaOS",
+    "file_name": "PenaOS.iso",
+    "download_url": "https://archive.org/download/PenaOS/PenaOS.iso",
+    "size": "732655616"
+  },
+  {
+    "identifier": "stg-20_94",
+    "title": "Studio to Go! v2.0",
+    "file_name": "stg-20_94.iso",
+    "download_url": "https://archive.org/download/stg-20_94/stg-20_94.iso",
+    "size": "718569472"
+  },
+  {
+    "identifier": "winbian-linux-version-2.3.1-amd-64-rtm",
+    "title": "Winbian Linux Version 2.3.1",
+    "file_name": "Winbian_Linux_Version_2.3.1-amd64-RTM.iso",
+    "download_url": "https://archive.org/download/winbian-linux-version-2.3.1-amd-64-rtm/Winbian_Linux_Version_2.3.1-amd64-RTM.iso",
+    "size": "2645622784"
+  },
+  {
+    "identifier": "systemrescue-9.03-i686",
+    "title": "SystemRescue 9.03 (i686)",
+    "file_name": "systemrescue-9.03-i686.iso",
+    "download_url": "https://archive.org/download/systemrescue-9.03-i686/systemrescue-9.03-i686.iso",
+    "size": "794820608"
+  },
+  {
+    "identifier": "Hakin9_200601",
+    "title": "Hakin9 2006 - 01 (6) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2006 - 01 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200601/Hakin9 2006 - 01 [hakin9.live].iso",
+    "size": "723992576"
+  },
+  {
+    "identifier": "com-2010.02",
+    "title": "com! 02/2010",
+    "file_name": "com! 2010.02.iso",
+    "download_url": "https://archive.org/download/com-2010.02/com! 2010.02.iso",
+    "size": "8531705856"
+  },
+  {
+    "identifier": "LinXPCHS",
+    "title": "LinXP (Chinese)",
+    "file_name": "linxp.iso",
+    "download_url": "https://archive.org/download/LinXPCHS/linxp.iso",
+    "size": "354709504"
+  },
+  {
+    "identifier": "Trisquel-9.0",
+    "title": "Trisquel GNU/Linux 9.0 \"Etiona\"",
+    "file_name": "trisquel_9.0_amd64.iso",
+    "download_url": "https://archive.org/download/Trisquel-9.0/trisquel_9.0_amd64.iso",
+    "size": "2715254784"
+  },
+  {
+    "identifier": "Trisquel-9.0",
+    "title": "Trisquel GNU/Linux 9.0 \"Etiona\"",
+    "file_name": "trisquel_9.0_i686.iso",
+    "download_url": "https://archive.org/download/Trisquel-9.0/trisquel_9.0_i686.iso",
+    "size": "2734686208"
+  },
+  {
+    "identifier": "GameDrift",
+    "title": "Game Drift",
+    "file_name": "GameDrift121.iso",
+    "download_url": "https://archive.org/download/GameDrift/GameDrift121.iso",
+    "size": "643289088"
+  },
+  {
+    "identifier": "GameDrift",
+    "title": "Game Drift",
+    "file_name": "GameDrift121.x64.iso",
+    "download_url": "https://archive.org/download/GameDrift/GameDrift121.x64.iso",
+    "size": "724615168"
+  },
+  {
+    "identifier": "guadalinexedu-20.04-alpha01",
+    "title": "guadalinexedu-20.04-alpha01",
+    "file_name": "INF01-Procedimiento_creacion_llavero_GuadalinexEdu_20.04-v01r01_jp2.zip",
+    "download_url": "https://archive.org/download/guadalinexedu-20.04-alpha01/INF01-Procedimiento_creacion_llavero_GuadalinexEdu_20.04-v01r01_jp2.zip",
+    "size": "8944571"
+  },
+  {
+    "identifier": "guadalinexedu-20.04-alpha01",
+    "title": "guadalinexedu-20.04-alpha01",
+    "file_name": "guadalinexedu-20.04-alpha01.iso",
+    "download_url": "https://archive.org/download/guadalinexedu-20.04-alpha01/guadalinexedu-20.04-alpha01.iso",
+    "size": "2353891328"
+  },
+  {
+    "identifier": "Puppy_Linux_Quirky_SlaQ",
+    "title": "Puppy_Linux_Quirky_SlaQ",
+    "file_name": "slaq-8.1.6-amd64.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_Quirky_SlaQ/slaq-8.1.6-amd64.iso",
+    "size": "318767104"
+  },
+  {
+    "identifier": "ubuntu-22.04.1-desktop-amd64_202505",
+    "title": "Ubuntu 22.04.1 LTS Jammy Jellyfish (August, 2022) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-22.04.1-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-22.04.1-desktop-amd64_202505/ubuntu-22.04.1-desktop-amd64.iso",
+    "size": "3826831360"
+  },
+  {
+    "identifier": "com-2010.03",
+    "title": "com! 03/2010",
+    "file_name": "com! 2010.03.iso",
+    "download_url": "https://archive.org/download/com-2010.03/com! 2010.03.iso",
+    "size": "6404362240"
+  },
+  {
+    "identifier": "yellowdog-6.1-release_202408",
+    "title": "Yellow Dog Linux 6.1 release directory",
+    "file_name": "releases-yellowdog-6.1/os/images/boot.iso",
+    "download_url": "https://archive.org/download/yellowdog-6.1-release_202408/releases-yellowdog-6.1/os/images/boot.iso",
+    "size": "35780608"
+  },
+  {
+    "identifier": "yellowdog-6.1-release_202408",
+    "title": "Yellow Dog Linux 6.1 release directory",
+    "file_name": "releases-yellowdog-6.1/os/images/minstg2.img",
+    "download_url": "https://archive.org/download/yellowdog-6.1-release_202408/releases-yellowdog-6.1/os/images/minstg2.img",
+    "size": "38268928"
+  },
+  {
+    "identifier": "yellowdog-6.1-release_202408",
+    "title": "Yellow Dog Linux 6.1 release directory",
+    "file_name": "releases-yellowdog-6.1/os/images/netboot/ppc32.img",
+    "download_url": "https://archive.org/download/yellowdog-6.1-release_202408/releases-yellowdog-6.1/os/images/netboot/ppc32.img",
+    "size": "5872932"
+  },
+  {
+    "identifier": "yellowdog-6.1-release_202408",
+    "title": "Yellow Dog Linux 6.1 release directory",
+    "file_name": "releases-yellowdog-6.1/os/images/netboot/ppc64.img",
+    "download_url": "https://archive.org/download/yellowdog-6.1-release_202408/releases-yellowdog-6.1/os/images/netboot/ppc64.img",
+    "size": "6429964"
+  },
+  {
+    "identifier": "yellowdog-6.1-release_202408",
+    "title": "Yellow Dog Linux 6.1 release directory",
+    "file_name": "releases-yellowdog-6.1/os/images/stage2.img",
+    "download_url": "https://archive.org/download/yellowdog-6.1-release_202408/releases-yellowdog-6.1/os/images/stage2.img",
+    "size": "86155264"
+  },
+  {
+    "identifier": "grandlinux-5-pro",
+    "title": "GrandLinux 5.0 Professional",
+    "file_name": "GRANDLINUX5_APP.iso",
+    "download_url": "https://archive.org/download/grandlinux-5-pro/GRANDLINUX5_APP.iso",
+    "size": "727003136"
+  },
+  {
+    "identifier": "grandlinux-5-pro",
+    "title": "GrandLinux 5.0 Professional",
+    "file_name": "GRANDLINUX5_OS1.iso",
+    "download_url": "https://archive.org/download/grandlinux-5-pro/GRANDLINUX5_OS1.iso",
+    "size": "720568320"
+  },
+  {
+    "identifier": "grandlinux-5-pro",
+    "title": "GrandLinux 5.0 Professional",
+    "file_name": "GRANDLINUX5_OS2.iso",
+    "download_url": "https://archive.org/download/grandlinux-5-pro/GRANDLINUX5_OS2.iso",
+    "size": "729055232"
+  },
+  {
+    "identifier": "grandlinux-5-pro",
+    "title": "GrandLinux 5.0 Professional",
+    "file_name": "GRANDLINUX5_OS3.iso",
+    "download_url": "https://archive.org/download/grandlinux-5-pro/GRANDLINUX5_OS3.iso",
+    "size": "729251840"
+  },
+  {
+    "identifier": "grandlinux-5-pro",
+    "title": "GrandLinux 5.0 Professional",
+    "file_name": "GRANDLINUX5_SRC1.iso",
+    "download_url": "https://archive.org/download/grandlinux-5-pro/GRANDLINUX5_SRC1.iso",
+    "size": "730699776"
+  },
+  {
+    "identifier": "grandlinux-5-pro",
+    "title": "GrandLinux 5.0 Professional",
+    "file_name": "GRANDLINUX5_SRC2.iso",
+    "download_url": "https://archive.org/download/grandlinux-5-pro/GRANDLINUX5_SRC2.iso",
+    "size": "467922944"
+  },
+  {
+    "identifier": "yellowdog-5.0.2-iso",
+    "title": "Yellow Dog Linux 5.0.2 installer",
+    "file_name": "yellowdog-5.0.2-20070711.iso",
+    "download_url": "https://archive.org/download/yellowdog-5.0.2-iso/yellowdog-5.0.2-20070711.iso",
+    "size": "3948318720"
+  },
+  {
+    "identifier": "kondara-mnu-linux-ver-11",
+    "title": "Kondara MNU Linux Version 1.1",
+    "file_name": "Kondara_MNU_Linux_Ver11-AlphaBinaryCD.iso",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-ver-11/Kondara_MNU_Linux_Ver11-AlphaBinaryCD.iso",
+    "size": "663566336"
+  },
+  {
+    "identifier": "kondara-mnu-linux-ver-11",
+    "title": "Kondara MNU Linux Version 1.1",
+    "file_name": "Kondara_MNU_Linux_Ver11-SourceCD.iso",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-ver-11/Kondara_MNU_Linux_Ver11-SourceCD.iso",
+    "size": "658071552"
+  },
+  {
+    "identifier": "kondara-mnu-linux-ver-11",
+    "title": "Kondara MNU Linux Version 1.1",
+    "file_name": "Kondara_MNU_Linux_Ver11-ZooCD.iso",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-ver-11/Kondara_MNU_Linux_Ver11-ZooCD.iso",
+    "size": "556382208"
+  },
+  {
+    "identifier": "kondara-mnu-linux-ver-11",
+    "title": "Kondara MNU Linux Version 1.1",
+    "file_name": "Kondara_MNU_Linux_Ver11-i586BinaryCD.iso",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-ver-11/Kondara_MNU_Linux_Ver11-i586BinaryCD.iso",
+    "size": "652765184"
+  },
+  {
+    "identifier": "kondara-mnu-linux-ver-11",
+    "title": "Kondara MNU Linux Version 1.1",
+    "file_name": "Kondara_MNU_Linux_Ver11-i586BootFloppy.img",
+    "download_url": "https://archive.org/download/kondara-mnu-linux-ver-11/Kondara_MNU_Linux_Ver11-i586BootFloppy.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "ubuntustudio-17.10-dvd-i386",
+    "title": "ubuntustudio-17.10-dvd-i386",
+    "file_name": "ubuntustudio-17.10-dvd-i386.iso",
+    "download_url": "https://archive.org/download/ubuntustudio-17.10-dvd-i386/ubuntustudio-17.10-dvd-i386.iso",
+    "size": "2924544000"
+  },
+  {
+    "identifier": "mx-respin-ukui",
+    "title": "MX-21 Respin UKUI",
+    "file_name": "mx-21-respin-ukui-20231118_1516.iso",
+    "download_url": "https://archive.org/download/mx-respin-ukui/mx-21-respin-ukui-20231118_1516.iso",
+    "size": "1600126976"
+  },
+  {
+    "identifier": "rolling-2022-07-01",
+    "title": "Rolling Rhino Remix 2022.07.01",
+    "file_name": "rolling-2022-07-01.iso",
+    "download_url": "https://archive.org/download/rolling-2022-07-01/rolling-2022-07-01.iso",
+    "size": "3813439488"
+  },
+  {
+    "identifier": "runtu-lite-18.04_beta_20180404",
+    "title": "runtu-lite-18.04_beta_20180404",
+    "file_name": "runtu-lite-18.04_beta_20180404.iso",
+    "download_url": "https://archive.org/download/runtu-lite-18.04_beta_20180404/runtu-lite-18.04_beta_20180404.iso",
+    "size": "615514112"
+  },
+  {
+    "identifier": "red-flag-v11-alpha",
+    "title": "Red Flag Linux 11.0 (Alpha)",
+    "file_name": "RedFlag-Desktop-11.0-alpha-LiveCD-amd64-20210924.iso",
+    "download_url": "https://archive.org/download/red-flag-v11-alpha/RedFlag-Desktop-11.0-alpha-LiveCD-amd64-20210924.iso",
+    "size": "2885681152"
+  },
+  {
+    "identifier": "post-x-05",
+    "title": "PostX",
+    "file_name": "PostX05.iso",
+    "download_url": "https://archive.org/download/post-x-05/PostX05.iso",
+    "size": "664797184"
+  },
+  {
+    "identifier": "com_0106",
+    "title": "com! 01/2006",
+    "file_name": "com_0106.iso",
+    "download_url": "https://archive.org/download/com_0106/com_0106.iso",
+    "size": "2159443968"
+  },
+  {
+    "identifier": "cent-os-3.9-i-386-bin-dvd",
+    "title": "Cent OS 3.9 i386 DVD",
+    "file_name": "CentOS-3.9-i386-binDVD.iso",
+    "download_url": "https://archive.org/download/cent-os-3.9-i-386-bin-dvd/CentOS-3.9-i386-binDVD.iso",
+    "size": "1862129664"
+  },
+  {
+    "identifier": "Hakin9_200603",
+    "title": "Hakin9 2006 - 03 (8) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2006 - 03 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200603/Hakin9 2006 - 03 [hakin9.live].iso",
+    "size": "719499264"
+  },
+  {
+    "identifier": "tdl-isos",
+    "title": "Tiny Desktop Linux (TDL) ISOs",
+    "file_name": "tdl-13.1(old t-dsl).iso",
+    "download_url": "https://archive.org/download/tdl-isos/tdl-13.1(old t-dsl).iso",
+    "size": "69451776"
+  },
+  {
+    "identifier": "tdl-isos",
+    "title": "Tiny Desktop Linux (TDL) ISOs",
+    "file_name": "tdl-14.iso",
+    "download_url": "https://archive.org/download/tdl-isos/tdl-14.iso",
+    "size": "69969920"
+  },
+  {
+    "identifier": "tdl-isos",
+    "title": "Tiny Desktop Linux (TDL) ISOs",
+    "file_name": "tdl-15.iso",
+    "download_url": "https://archive.org/download/tdl-isos/tdl-15.iso",
+    "size": "76908544"
+  },
+  {
+    "identifier": "tdl-isos",
+    "title": "Tiny Desktop Linux (TDL) ISOs",
+    "file_name": "tdl-16.1.iso",
+    "download_url": "https://archive.org/download/tdl-isos/tdl-16.1.iso",
+    "size": "77496320"
+  },
+  {
+    "identifier": "tdl-isos",
+    "title": "Tiny Desktop Linux (TDL) ISOs",
+    "file_name": "tdl-16.iso",
+    "download_url": "https://archive.org/download/tdl-isos/tdl-16.iso",
+    "size": "78436352"
+  },
+  {
+    "identifier": "prvi-in-drugi-soupek",
+    "title": "Prvi in drugi Šoupek (includes Pingo Linux 4.0)",
+    "file_name": "Soupek1.iso",
+    "download_url": "https://archive.org/download/prvi-in-drugi-soupek/Soupek1.iso",
+    "size": "1344372736"
+  },
+  {
+    "identifier": "prvi-in-drugi-soupek",
+    "title": "Prvi in drugi Šoupek (includes Pingo Linux 4.0)",
+    "file_name": "Soupek2 - Pingo Linux 4.0.iso",
+    "download_url": "https://archive.org/download/prvi-in-drugi-soupek/Soupek2 - Pingo Linux 4.0.iso",
+    "size": "2930278400"
+  },
+  {
+    "identifier": "CoCreateLinux103",
+    "title": "Co-CreateLinux (共创桌面 Linux)1.0.3 Install CD",
+    "file_name": "[共创LINUX桌面系统].BABY-i386-disc1.[XiDong.Net].iso",
+    "download_url": "https://archive.org/download/CoCreateLinux103/[共创LINUX桌面系统].BABY-i386-disc1.[XiDong.Net].iso",
+    "size": "718927872"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "Elive_0.1_nibeta_nialpha.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/Elive_0.1_nibeta_nialpha.iso",
+    "size": "595322880"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "Elive_0.3.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/Elive_0.3.iso",
+    "size": "676931584"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "Elive_0.4.0.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/Elive_0.4.0.iso",
+    "size": "733644800"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "Elive_0.4.2.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/Elive_0.4.2.iso",
+    "size": "725415936"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "Elive_0.5_Revolution.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/Elive_0.5_Revolution.iso",
+    "size": "726120448"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "Elive_0.6_Revolution_rl2.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/Elive_0.6_Revolution_rl2.iso",
+    "size": "686313472"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "Elive_1.0_Gem.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/Elive_1.0_Gem.iso",
+    "size": "710500352"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "elive_2.0_Topaz_new-kernel_up003.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/elive_2.0_Topaz_new-kernel_up003.iso",
+    "size": "721281024"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "elive_2.0_Topaz_old-kernel_up001.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/elive_2.0_Topaz_old-kernel_up001.iso",
+    "size": "731031552"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "elive_3.0.6_stable_hybrid.iso",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/elive_3.0.6_stable_hybrid.iso",
+    "size": "3117514752"
+  },
+  {
+    "identifier": "elive_3.0.6_stable_usb",
+    "title": "Elive Linux images",
+    "file_name": "elive_3.0.6_stable_usb.img",
+    "download_url": "https://archive.org/download/elive_3.0.6_stable_usb/elive_3.0.6_stable_usb.img",
+    "size": "3257925632"
+  },
+  {
+    "identifier": "conectiva-linux-4.0-disc-1-of-3",
+    "title": "Conectiva Linux 4.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 4.0 Disc 1 of 3.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-4.0-disc-1-of-3/Conectiva Linux 4.0 Disc 1 of 3.iso",
+    "size": "656955392"
+  },
+  {
+    "identifier": "conectiva-linux-4.0-disc-1-of-3",
+    "title": "Conectiva Linux 4.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 4.0 Disc 2 of 3.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-4.0-disc-1-of-3/Conectiva Linux 4.0 Disc 2 of 3.iso",
+    "size": "554289152"
+  },
+  {
+    "identifier": "conectiva-linux-4.0-disc-1-of-3",
+    "title": "Conectiva Linux 4.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 4.0 Disc 3 of 3.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-4.0-disc-1-of-3/Conectiva Linux 4.0 Disc 3 of 3.iso",
+    "size": "647960576"
+  },
+  {
+    "identifier": "feri-x-2.1",
+    "title": "FeriX 2.1",
+    "file_name": "FeriX 2.1.iso",
+    "download_url": "https://archive.org/download/feri-x-2.1/FeriX 2.1.iso",
+    "size": "2279008256"
+  },
+  {
+    "identifier": "snapshot-20240518_1239",
+    "title": "antix-23.1-snapshot-20240518_1239",
+    "file_name": "snapshot-20240518_1239.iso",
+    "download_url": "https://archive.org/download/snapshot-20240518_1239/snapshot-20240518_1239.iso",
+    "size": "3457155072"
+  },
+  {
+    "identifier": "Hakin9_200502",
+    "title": "Hakin9 2005 - 02 (2) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2005 - 02 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200502/Hakin9 2005 - 02 [hakin9.live].iso",
+    "size": "613275648"
+  },
+  {
+    "identifier": "win-linux-2000",
+    "title": "WinLinux 2000",
+    "file_name": "WinLinux 2000.iso",
+    "download_url": "https://archive.org/download/win-linux-2000/WinLinux 2000.iso",
+    "size": "228454400"
+  },
+  {
+    "identifier": "rolling-2022-08-01",
+    "title": "rolling-2022-08-01",
+    "file_name": "rolling-2022-08-01.iso",
+    "download_url": "https://archive.org/download/rolling-2022-08-01/rolling-2022-08-01.iso",
+    "size": "3861161984"
+  },
+  {
+    "identifier": "lxfdvd-60",
+    "title": "Linux Format Magazine Issue 60 - LXF60 - December 2004",
+    "file_name": "LXFDVD60/LXFDVD60.iso",
+    "download_url": "https://archive.org/download/lxfdvd-60/LXFDVD60/LXFDVD60.iso",
+    "size": "4038414336"
+  },
+  {
+    "identifier": "meego-netbook-ia32-1.2.0",
+    "title": "MeeGo 1.2.0 x86",
+    "file_name": "meego-netbook-ia32-1.2.0.img",
+    "download_url": "https://archive.org/download/meego-netbook-ia32-1.2.0/meego-netbook-ia32-1.2.0.img",
+    "size": "905969664"
+  },
+  {
+    "identifier": "educaandos-20.04-instalador-centros",
+    "title": "educaandos-20.04-instalador-centros",
+    "file_name": "educaandos-20.04-instalador-centros.iso",
+    "download_url": "https://archive.org/download/educaandos-20.04-instalador-centros/educaandos-20.04-instalador-centros.iso",
+    "size": "2792257536"
+  },
+  {
+    "identifier": "owobuntu-22.04.4-2024.08.05-amd64",
+    "title": "OwObuntu 22.04.4 First Release",
+    "file_name": "owobuntu-22.04.4-2024.08.05-amd64.iso",
+    "download_url": "https://archive.org/download/owobuntu-22.04.4-2024.08.05-amd64/owobuntu-22.04.4-2024.08.05-amd64.iso",
+    "size": "5312696320"
+  },
+  {
+    "identifier": "pcnet-cd-2006-09",
+    "title": "2006-09: PCNET CD 1",
+    "file_name": "PCNET_CD_2006_09.iso",
+    "download_url": "https://archive.org/download/pcnet-cd-2006-09/PCNET_CD_2006_09.iso",
+    "size": "712996864"
+  },
+  {
+    "identifier": "pclinuxos-ZEN-mini-2011-7",
+    "title": "pclinuxos-ZEN-mini-2011-7",
+    "file_name": "pclinuxos-ZEN-mini-2011-7.iso",
+    "download_url": "https://archive.org/download/pclinuxos-ZEN-mini-2011-7/pclinuxos-ZEN-mini-2011-7.iso",
+    "size": "387598336"
+  },
+  {
+    "identifier": "mx-21-respin-gnome-20231118_0651",
+    "title": "MX-21 Respin GNOME",
+    "file_name": "mx-21-respin-gnome-20231118_0651.iso",
+    "download_url": "https://archive.org/download/mx-21-respin-gnome-20231118_0651/mx-21-respin-gnome-20231118_0651.iso",
+    "size": "1635778560"
+  },
+  {
+    "identifier": "mx-respin-icewm",
+    "title": "MX-21 Respin IceWM",
+    "file_name": "mx-21-respin-icewm-20231117_0629.iso",
+    "download_url": "https://archive.org/download/mx-respin-icewm/mx-21-respin-icewm-20231117_0629.iso",
+    "size": "1356857344"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "BL_2000_R2_FINAL.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/BL_2000_R2_FINAL.iso",
+    "size": "609157120"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "BL_2000_R3_FINAL.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/BL_2000_R3_FINAL.iso",
+    "size": "619243520"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SLD2003.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SLD2003.iso",
+    "size": "679870464"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SLD2003_SL.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SLD2003_SL.iso",
+    "size": "534577152"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SLD2003_SRC1.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SLD2003_SRC1.iso",
+    "size": "605093888"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SLD2003_SRC2.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SLD2003_SRC2.iso",
+    "size": "446824448"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SLS2003.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SLS2003.iso",
+    "size": "639238144"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SLS2003_SL.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SLS2003_SL.iso",
+    "size": "485490688"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SLS2003_SRC1.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SLS2003_SRC1.iso",
+    "size": "606535680"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SLS2003_SRC2.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SLS2003_SRC2.iso",
+    "size": "345997312"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SOTL_2002_DESKTOP_SOURCES.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SOTL_2002_DESKTOP_SOURCES.iso",
+    "size": "734593024"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "SOTO_2003.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/SOTO_2003.iso",
+    "size": "670203904"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "lba-linux_r1.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/lba-linux_r1.iso",
+    "size": "595462144"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "lba-linux_r1_CD2.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/lba-linux_r1_CD2.iso",
+    "size": "498448384"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "lba-linux_r1_CD3.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/lba-linux_r1_CD3.iso",
+    "size": "635254784"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "lba-linux_r1_beta.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/lba-linux_r1_beta.iso",
+    "size": "607545344"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources_202105",
+    "title": "SOT Linux",
+    "file_name": "soto-2002-en.zip",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources_202105/soto-2002-en.zip",
+    "size": "43384764"
+  },
+  {
+    "identifier": "com-2010.06",
+    "title": "com! 06/2010",
+    "file_name": "com! 2010.06.iso",
+    "download_url": "https://archive.org/download/com-2010.06/com! 2010.06.iso",
+    "size": "5868519424"
+  },
+  {
+    "identifier": "antix-respin-iso",
+    "title": "antiX-23 Respin x86_64",
+    "file_name": "antix-23-respin-x64-20231125_1157.iso",
+    "download_url": "https://archive.org/download/antix-respin-iso/antix-23-respin-x64-20231125_1157.iso",
+    "size": "1194328064"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-36-GNOME-2022-09-16.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-36-GNOME-2022-09-16.iso",
+    "size": "5181603840"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-36-GNOME-2022-10-10.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-36-GNOME-2022-10-10.iso",
+    "size": "3730358272"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-36-GNOME-2022-12-04.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-36-GNOME-2022-12-04.iso",
+    "size": "3700523008"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-37-GNOME-2023-01-13.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-37-GNOME-2023-01-13.iso",
+    "size": "2958329856"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-37-GNOME-2023-02-05.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-37-GNOME-2023-02-05.iso",
+    "size": "3136446464"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-37-GNOME-2023-04-02.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-37-GNOME-2023-04-02.iso",
+    "size": "3197573120"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-38-GNOME-2023-07-27.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-38-GNOME-2023-07-27.iso",
+    "size": "3326240768"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-39-GNOME-2023-12-30.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-39-GNOME-2023-12-30.iso",
+    "size": "3522918400"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "GNOME/Nobara-39-GNOME-Nvidia-2023-12-30.iso",
+    "download_url": "https://archive.org/download/Nobara/GNOME/Nobara-39-GNOME-Nvidia-2023-12-30.iso",
+    "size": "3948087296"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-36-KDE-2022-09-16.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-36-KDE-2022-09-16.iso",
+    "size": "5191925760"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-36-KDE-2022-10-10.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-36-KDE-2022-10-10.iso",
+    "size": "3804708864"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-36-KDE-2022-12-05.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-36-KDE-2022-12-05.iso",
+    "size": "4018667520"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-37-KDE-2023-01-13.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-37-KDE-2023-01-13.iso",
+    "size": "3281223680"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-37-KDE-2023-02-05.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-37-KDE-2023-02-05.iso",
+    "size": "3407433728"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-37-KDE-2023-04-02.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-37-KDE-2023-04-02.iso",
+    "size": "3520268288"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-38-KDE-2023-07-27.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-38-KDE-2023-07-27.iso",
+    "size": "3621705728"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-39-KDE-2023-12-30.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-39-KDE-2023-12-30.iso",
+    "size": "3619233792"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "KDE Plasma/Nobara-39-KDE-Nvidia-2023-12-30.iso",
+    "download_url": "https://archive.org/download/Nobara/KDE Plasma/Nobara-39-KDE-Nvidia-2023-12-30.iso",
+    "size": "4043765760"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-36-Official-2022-09-16.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-36-Official-2022-09-16.iso",
+    "size": "5181603840"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-36-Official-2022-10-10.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-36-Official-2022-10-10.iso",
+    "size": "3730358272"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-36-Official-2022-12-05.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-36-Official-2022-12-05.iso",
+    "size": "3700523008"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-37-Official-2023-01-13.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-37-Official-2023-01-13.iso",
+    "size": "2958149632"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-37-Official-2023-02-05.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-37-Official-2023-02-05.iso",
+    "size": "3137236992"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-37-Official-2023-04-02.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-37-Official-2023-04-02.iso",
+    "size": "3197677568"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-38-Official-2023-07-27.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-38-Official-2023-07-27.iso",
+    "size": "3326476288"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-39-Official-2023-12-30.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-39-Official-2023-12-30.iso",
+    "size": "3698184192"
+  },
+  {
+    "identifier": "Nobara",
+    "title": "Nobara",
+    "file_name": "Official/Nobara-39-Official-Nvidia-2023-12-30.iso",
+    "download_url": "https://archive.org/download/Nobara/Official/Nobara-39-Official-Nvidia-2023-12-30.iso",
+    "size": "4122400768"
+  },
+  {
+    "identifier": "Hakin9_200602",
+    "title": "Hakin9 2006 - 02 (7) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2006 - 02 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200602/Hakin9 2006 - 02 [hakin9.live].iso",
+    "size": "729493504"
+  },
+  {
+    "identifier": "com1005",
+    "title": "com! 10/2005",
+    "file_name": "com1005.iso",
+    "download_url": "https://archive.org/download/com1005/com1005.iso",
+    "size": "4304928768"
+  },
+  {
+    "identifier": "exton-multibootcd-6os-1870mb-190215",
+    "title": "exton-multibootcd-6os-1870mb-190215",
+    "file_name": "exton-multibootcd-6os-1870mb-190215.iso",
+    "download_url": "https://archive.org/download/exton-multibootcd-6os-1870mb-190215/exton-multibootcd-6os-1870mb-190215.iso",
+    "size": "2016964608"
+  },
+  {
+    "identifier": "Hakin9_200604",
+    "title": "Hakin9 2006 - 04 (9) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2006 - 04 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200604/Hakin9 2006 - 04 [hakin9.live].iso",
+    "size": "703862784"
+  },
+  {
+    "identifier": "com0306_202309",
+    "title": "com! 03/2006",
+    "file_name": "com0306.iso",
+    "download_url": "https://archive.org/download/com0306_202309/com0306.iso",
+    "size": "1605632000"
+  },
+  {
+    "identifier": "mx-19-respin-mate-20231120_0340",
+    "title": "MX-19 Respin MATE",
+    "file_name": "mx-19-respin-mate-20231120_0340.iso",
+    "download_url": "https://archive.org/download/mx-19-respin-mate-20231120_0340/mx-19-respin-mate-20231120_0340.iso",
+    "size": "1706033152"
+  },
+  {
+    "identifier": "mx-21-respin-mate-20231119_1244",
+    "title": "MX-21 Respin MATE",
+    "file_name": "mx-21-respin-mate-20231119_1244.iso",
+    "download_url": "https://archive.org/download/mx-21-respin-mate-20231119_1244/mx-21-respin-mate-20231119_1244.iso",
+    "size": "1610612736"
+  },
+  {
+    "identifier": "polippix_2.0_Beta3",
+    "title": "polippix_2.0_Beta3",
+    "file_name": "polippix_2.0_Beta3.iso",
+    "download_url": "https://archive.org/download/polippix_2.0_Beta3/polippix_2.0_Beta3.iso",
+    "size": "715962368"
+  },
+  {
+    "identifier": "garuda2011",
+    "title": "Garuda OS",
+    "file_name": "garuda2011.iso",
+    "download_url": "https://archive.org/download/garuda2011/garuda2011.iso",
+    "size": "3889707008"
+  },
+  {
+    "identifier": "denix2.9-full",
+    "title": "Denix 2.9.0 Full",
+    "file_name": "denix2.9-full.iso",
+    "download_url": "https://archive.org/download/denix2.9-full/denix2.9-full.iso",
+    "size": "1034348544"
+  },
+  {
+    "identifier": "DREAMLINUXCD2.0LinuxLST1.8PlusUndSlakware2.01994",
+    "title": "DREAM LINUX CD 2.0 ( Linux LST 1.8 Plus und Slackware 2.0) [1994]",
+    "file_name": "DREAM LINUX CD 2.0 (Linux LST 1.8 Plus und Slakware 2.0) [1994].iso",
+    "download_url": "https://archive.org/download/DREAMLINUXCD2.0LinuxLST1.8PlusUndSlakware2.01994/DREAM LINUX CD 2.0 (Linux LST 1.8 Plus und Slakware 2.0) [1994].iso",
+    "size": "654698496"
+  },
+  {
+    "identifier": "CoCreateOS2005CHS",
+    "title": "Co-Create OS 2005 (Chinese)",
+    "file_name": "Co-Create_OS_2005.iso",
+    "download_url": "https://archive.org/download/CoCreateOS2005CHS/Co-Create_OS_2005.iso",
+    "size": "714493952"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "Sparkybonsai_2.0_64.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/Sparkybonsai_2.0_64.iso",
+    "size": "378505216"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "Sparkybonsai_2.0_64_modules.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/Sparkybonsai_2.0_64_modules.iso",
+    "size": "957495296"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "Sparkybonsai_2.1_64.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/Sparkybonsai_2.1_64.iso",
+    "size": "420366336"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "Sparkybonsai_2.1_64_FAT.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/Sparkybonsai_2.1_64_FAT.iso",
+    "size": "941627392"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "Sparkybonsai_2.1_FAT_x86_non-pae.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/Sparkybonsai_2.1_FAT_x86_non-pae.iso",
+    "size": "871737344"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "Sparkybonsai_2.1_FAT_x86_pae.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/Sparkybonsai_2.1_FAT_x86_pae.iso",
+    "size": "872065024"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "Sparkybonsai_2.1_x86_non-pae.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/Sparkybonsai_2.1_x86_non-pae.iso",
+    "size": "425519104"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "Sparkybonsai_2.1_x86_pae.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/Sparkybonsai_2.1_x86_pae.iso",
+    "size": "425846784"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "sparky-kernel-5.11.15-amd64.zip",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/sparky-kernel-5.11.15-amd64.zip",
+    "size": "97600558"
+  },
+  {
+    "identifier": "Puppy_Linux_SparkyBonsai",
+    "title": "Puppy_Linux_SparkyBonsai",
+    "file_name": "sparkybonsai-64-2019.iso",
+    "download_url": "https://archive.org/download/Puppy_Linux_SparkyBonsai/sparkybonsai-64-2019.iso",
+    "size": "391118848"
+  },
+  {
+    "identifier": "tsurugi_lab_2019.2",
+    "title": "tsurugi_lab_2019.2",
+    "file_name": "tsurugi_lab_2019.2.iso",
+    "download_url": "https://archive.org/download/tsurugi_lab_2019.2/tsurugi_lab_2019.2.iso",
+    "size": "4263510016"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion10",
+    "title": "Rogue Class Linux version 10",
+    "file_name": "rcl-10-disc1.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion10/rcl-10-disc1.iso",
+    "size": "596264960"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion10",
+    "title": "Rogue Class Linux version 10",
+    "file_name": "rcl-10-disc2.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion10/rcl-10-disc2.iso",
+    "size": "478896128"
+  },
+  {
+    "identifier": "LDR0497_6cd",
+    "title": "LINUX Developer's Resource - April 1997",
+    "file_name": "LDR_04971.ISO",
+    "download_url": "https://archive.org/download/LDR0497_6cd/LDR_04971.ISO",
+    "size": "679286784"
+  },
+  {
+    "identifier": "LDR0497_6cd",
+    "title": "LINUX Developer's Resource - April 1997",
+    "file_name": "LDR_04972.ISO",
+    "download_url": "https://archive.org/download/LDR0497_6cd/LDR_04972.ISO",
+    "size": "677382144"
+  },
+  {
+    "identifier": "LDR0497_6cd",
+    "title": "LINUX Developer's Resource - April 1997",
+    "file_name": "LDR_04973.ISO",
+    "download_url": "https://archive.org/download/LDR0497_6cd/LDR_04973.ISO",
+    "size": "679485440"
+  },
+  {
+    "identifier": "LDR0497_6cd",
+    "title": "LINUX Developer's Resource - April 1997",
+    "file_name": "LDR_04974.ISO",
+    "download_url": "https://archive.org/download/LDR0497_6cd/LDR_04974.ISO",
+    "size": "677660672"
+  },
+  {
+    "identifier": "LDR0497_6cd",
+    "title": "LINUX Developer's Resource - April 1997",
+    "file_name": "LDR_04975.ISO",
+    "download_url": "https://archive.org/download/LDR0497_6cd/LDR_04975.ISO",
+    "size": "672815104"
+  },
+  {
+    "identifier": "LDR0497_6cd",
+    "title": "LINUX Developer's Resource - April 1997",
+    "file_name": "LDR_04976.ISO",
+    "download_url": "https://archive.org/download/LDR0497_6cd/LDR_04976.ISO",
+    "size": "677236736"
+  },
+  {
+    "identifier": "linux-platinum-cd-lst-1.8-slackware-computer-solutions-grafing-1994",
+    "title": "Linux Platinum CD LST 1.8 Slackware Computer Solutions Grafing 1994",
+    "file_name": "Linux Platinum CD LST 1.8 Slackware Computer Solutions Grafing 1994.ISO",
+    "download_url": "https://archive.org/download/linux-platinum-cd-lst-1.8-slackware-computer-solutions-grafing-1994/Linux Platinum CD LST 1.8 Slackware Computer Solutions Grafing 1994.ISO",
+    "size": "670556160"
+  },
+  {
+    "identifier": "linspire-7-x64",
+    "title": "linspire-7-x64 linux distribution",
+    "file_name": "linspire-7-x64.iso",
+    "download_url": "https://archive.org/download/linspire-7-x64/linspire-7-x64.iso",
+    "size": "2106589184"
+  },
+  {
+    "identifier": "com-2010.04",
+    "title": "com! 04/2010",
+    "file_name": "com! 2010.04.iso",
+    "download_url": "https://archive.org/download/com-2010.04/com! 2010.04.iso",
+    "size": "6868217856"
+  },
+  {
+    "identifier": "linuxmint-20.2-cinnamon-64bit_202505",
+    "title": "Linux Mint 20.2 Uma (July, 2021) 64-bit All Editions Official ISO",
+    "file_name": "linuxmint-20.2-cinnamon-64bit.iso",
+    "download_url": "https://archive.org/download/linuxmint-20.2-cinnamon-64bit_202505/linuxmint-20.2-cinnamon-64bit.iso",
+    "size": "2162147328"
+  },
+  {
+    "identifier": "it-at-school-3.8.1-debian-lenny",
+    "title": "IT At School 3.8.1 Debian Lenny",
+    "file_name": "IT-at-School-3.8.1-Debian-Lenny.iso",
+    "download_url": "https://archive.org/download/it-at-school-3.8.1-debian-lenny/IT-at-School-3.8.1-Debian-Lenny.iso",
+    "size": "1424910336"
+  },
+  {
+    "identifier": "booyo-2005",
+    "title": "Booyo 2005 (Korea Linux Center Desktop 2005)",
+    "file_name": "Booyo 2005 CD1.iso",
+    "download_url": "https://archive.org/download/booyo-2005/Booyo 2005 CD1.iso",
+    "size": "728588288"
+  },
+  {
+    "identifier": "booyo-2005",
+    "title": "Booyo 2005 (Korea Linux Center Desktop 2005)",
+    "file_name": "Booyo 2005 CD2.iso",
+    "download_url": "https://archive.org/download/booyo-2005/Booyo 2005 CD2.iso",
+    "size": "581996544"
+  },
+  {
+    "identifier": "openEuler-22.03-LTS",
+    "title": "openEuler 22.03 LTS",
+    "file_name": "openEuler-22.03-LTS-x86_64-dvd.iso",
+    "download_url": "https://archive.org/download/openEuler-22.03-LTS/openEuler-22.03-LTS-x86_64-dvd.iso",
+    "size": "3646947328"
+  },
+  {
+    "identifier": "com-09-2010",
+    "title": "Com! 09/2010",
+    "file_name": "com! 09:2010.iso",
+    "download_url": "https://archive.org/download/com-09-2010/com! 09:2010.iso",
+    "size": "8520237056"
+  },
+  {
+    "identifier": "com-2010.06_202507",
+    "title": "Com! 06/2010",
+    "file_name": "com! 2010.06.iso",
+    "download_url": "https://archive.org/download/com-2010.06_202507/com! 2010.06.iso",
+    "size": "5868519424"
+  },
+  {
+    "identifier": "boss-live-cd",
+    "title": "com! BOSS Live CD 01/2007",
+    "file_name": "BOSS LiveCD.iso",
+    "download_url": "https://archive.org/download/boss-live-cd/BOSS LiveCD.iso",
+    "size": "689008640"
+  },
+  {
+    "identifier": "slitaz-rolling",
+    "title": "slitaz-rolling",
+    "file_name": "slitaz-rolling.iso",
+    "download_url": "https://archive.org/download/slitaz-rolling/slitaz-rolling.iso",
+    "size": "55361536"
+  },
+  {
+    "identifier": "Hakin9_200701",
+    "title": "Hakin9 2007 - 01 (12) Coverdiscs",
+    "file_name": "Hakin9 2007 - 01 - Disc 1 of 2 - [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200701/Hakin9 2007 - 01 - Disc 1 of 2 - [hakin9.live].iso",
+    "size": "719472640"
+  },
+  {
+    "identifier": "Hakin9_200701",
+    "title": "Hakin9 2007 - 01 (12) Coverdiscs",
+    "file_name": "Hakin9 2007 - 01 - Disc 2 of 2 - [CISCO course - docs].iso",
+    "download_url": "https://archive.org/download/Hakin9_200701/Hakin9 2007 - 01 - Disc 2 of 2 - [CISCO course - docs].iso",
+    "size": "246306816"
+  },
+  {
+    "identifier": "axos-project",
+    "title": "AxOS project ISOs download",
+    "file_name": "AxOS-25.06-x86_64.iso",
+    "download_url": "https://archive.org/download/axos-project/AxOS-25.06-x86_64.iso",
+    "size": "1979416576"
+  },
+  {
+    "identifier": "axos-project",
+    "title": "AxOS project ISOs download",
+    "file_name": "AxOS-nvidia-25.06-x86_64.iso",
+    "download_url": "https://archive.org/download/axos-project/AxOS-nvidia-25.06-x86_64.iso",
+    "size": "2742812672"
+  },
+  {
+    "identifier": "jedex_legacy",
+    "title": "jedex_legacy",
+    "file_name": "jedex_legacy.iso",
+    "download_url": "https://archive.org/download/jedex_legacy/jedex_legacy.iso",
+    "size": "709480448"
+  },
+  {
+    "identifier": "yellowdog-6.2-iso",
+    "title": "Yellow Dog Linux 6.2 installer",
+    "file_name": "yellowdog-6.2-ppc-DVD_20090629.iso",
+    "download_url": "https://archive.org/download/yellowdog-6.2-iso/yellowdog-6.2-ppc-DVD_20090629.iso",
+    "size": "4032239616"
+  },
+  {
+    "identifier": "blackPantherOS-v18.1-x86_64-Renegade-DVD",
+    "title": "blackPantherOS v18.1 x86_64 Renegade DVD",
+    "file_name": "blackPantherOS-v18.1-x86_64-Renegade-DVD.iso",
+    "download_url": "https://archive.org/download/blackPantherOS-v18.1-x86_64-Renegade-DVD/blackPantherOS-v18.1-x86_64-Renegade-DVD.iso",
+    "size": "1330642944"
+  },
+  {
+    "identifier": "com-07-2010",
+    "title": "Com! 07/2010",
+    "file_name": "com! 07:2010.iso",
+    "download_url": "https://archive.org/download/com-07-2010/com! 07:2010.iso",
+    "size": "7064027136"
+  },
+  {
+    "identifier": "debian_1.3.1_iso",
+    "title": "Debian 1.3.1 CD images",
+    "file_name": "Debian-1.3.1-bo-binary.iso",
+    "download_url": "https://archive.org/download/debian_1.3.1_iso/Debian-1.3.1-bo-binary.iso",
+    "size": "398385152"
+  },
+  {
+    "identifier": "debian_1.3.1_iso",
+    "title": "Debian 1.3.1 CD images",
+    "file_name": "Debian-1.3.1-bo-source.iso",
+    "download_url": "https://archive.org/download/debian_1.3.1_iso/Debian-1.3.1-bo-source.iso",
+    "size": "492845056"
+  },
+  {
+    "identifier": "debian-12.8.0-amd64-full.iso",
+    "title": "debian-12.8.0-amd64-full.iso",
+    "file_name": "debian-12.8.0-amd64-DVD-1.iso",
+    "download_url": "https://archive.org/download/debian-12.8.0-amd64-full.iso/debian-12.8.0-amd64-DVD-1.iso",
+    "size": "3998007296"
+  },
+  {
+    "identifier": "floralinux-libre-gnome-r12.11-x64-20250520_0407",
+    "title": "Flora Linux-libre GNOME (based on debian 12)",
+    "file_name": "floralinux-libre-gnome-r12.11-x64-20250520_0407.iso",
+    "download_url": "https://archive.org/download/floralinux-libre-gnome-r12.11-x64-20250520_0407/floralinux-libre-gnome-r12.11-x64-20250520_0407.iso",
+    "size": "1293287424"
+  },
+  {
+    "identifier": "deepinlinux",
+    "title": "deepin linux iso",
+    "file_name": "deepinlinux15.10.iso",
+    "download_url": "https://archive.org/download/deepinlinux/deepinlinux15.10.iso",
+    "size": "2438049792"
+  },
+  {
+    "identifier": "deepinlinux",
+    "title": "deepin linux iso",
+    "file_name": "deepinlinux15.iso",
+    "download_url": "https://archive.org/download/deepinlinux/deepinlinux15.iso",
+    "size": "1888485376"
+  },
+  {
+    "identifier": "com-2008.06",
+    "title": "com! 06/2008",
+    "file_name": "com! 2008.06.iso",
+    "download_url": "https://archive.org/download/com-2008.06/com! 2008.06.iso",
+    "size": "8319899648"
+  },
+  {
+    "identifier": "debian-hamm-2.0",
+    "title": "Debian Hamm 2.0",
+    "file_name": "Debian_Hamm_2.0.iso",
+    "download_url": "https://archive.org/download/debian-hamm-2.0/Debian_Hamm_2.0.iso",
+    "size": "621303808"
+  },
+  {
+    "identifier": "happylinux1",
+    "title": "Happy Linux 1.0",
+    "file_name": "HappyApp1.iso",
+    "download_url": "https://archive.org/download/happylinux1/HappyApp1.iso",
+    "size": "573140992"
+  },
+  {
+    "identifier": "happylinux1",
+    "title": "Happy Linux 1.0",
+    "file_name": "HappyLinux1.iso",
+    "download_url": "https://archive.org/download/happylinux1/HappyLinux1.iso",
+    "size": "661596160"
+  },
+  {
+    "identifier": "happylinux1",
+    "title": "Happy Linux 1.0",
+    "file_name": "HappyOffice.iso",
+    "download_url": "https://archive.org/download/happylinux1/HappyOffice.iso",
+    "size": "41734144"
+  },
+  {
+    "identifier": "ubuntu-gnome-13.04",
+    "title": "Ubuntu Gnome 13.04",
+    "file_name": "ubuntu-gnome-13.04-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-gnome-13.04/ubuntu-gnome-13.04-desktop-amd64.iso",
+    "size": "987758592"
+  },
+  {
+    "identifier": "ubuntu-gnome-13.04",
+    "title": "Ubuntu Gnome 13.04",
+    "file_name": "ubuntu-gnome-13.04-desktop-i386.iso",
+    "download_url": "https://archive.org/download/ubuntu-gnome-13.04/ubuntu-gnome-13.04-desktop-i386.iso",
+    "size": "1005584384"
+  },
+  {
+    "identifier": "com0905_1",
+    "title": "com! 09/2005",
+    "file_name": "com0905_1.iso",
+    "download_url": "https://archive.org/download/com0905_1/com0905_1.iso",
+    "size": "730269696"
+  },
+  {
+    "identifier": "com0905_1",
+    "title": "com! 09/2005",
+    "file_name": "com0905_2.iso",
+    "download_url": "https://archive.org/download/com0905_1/com0905_2.iso",
+    "size": "481689600"
+  },
+  {
+    "identifier": "yellowdog-6.0-release_202408",
+    "title": "Yellow Dog Linux 6.0 release directory",
+    "file_name": "releases-yellowdog-6.0/os/images/boot.iso",
+    "download_url": "https://archive.org/download/yellowdog-6.0-release_202408/releases-yellowdog-6.0/os/images/boot.iso",
+    "size": "36261888"
+  },
+  {
+    "identifier": "yellowdog-6.0-release_202408",
+    "title": "Yellow Dog Linux 6.0 release directory",
+    "file_name": "releases-yellowdog-6.0/os/images/minstg2.img",
+    "download_url": "https://archive.org/download/yellowdog-6.0-release_202408/releases-yellowdog-6.0/os/images/minstg2.img",
+    "size": "37629952"
+  },
+  {
+    "identifier": "yellowdog-6.0-release_202408",
+    "title": "Yellow Dog Linux 6.0 release directory",
+    "file_name": "releases-yellowdog-6.0/os/images/netboot/ppc32.img",
+    "download_url": "https://archive.org/download/yellowdog-6.0-release_202408/releases-yellowdog-6.0/os/images/netboot/ppc32.img",
+    "size": "5746864"
+  },
+  {
+    "identifier": "yellowdog-6.0-release_202408",
+    "title": "Yellow Dog Linux 6.0 release directory",
+    "file_name": "releases-yellowdog-6.0/os/images/netboot/ppc64.img",
+    "download_url": "https://archive.org/download/yellowdog-6.0-release_202408/releases-yellowdog-6.0/os/images/netboot/ppc64.img",
+    "size": "6060516"
+  },
+  {
+    "identifier": "yellowdog-6.0-release_202408",
+    "title": "Yellow Dog Linux 6.0 release directory",
+    "file_name": "releases-yellowdog-6.0/os/images/stage2.img",
+    "download_url": "https://archive.org/download/yellowdog-6.0-release_202408/releases-yellowdog-6.0/os/images/stage2.img",
+    "size": "86179840"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion6",
+    "title": "Rogue Class Linux version 6",
+    "file_name": "rcl-6-disc1.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion6/rcl-6-disc1.iso",
+    "size": "484108288"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion6",
+    "title": "Rogue Class Linux version 6",
+    "file_name": "rcl-6-disc2.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion6/rcl-6-disc2.iso",
+    "size": "309135360"
+  },
+  {
+    "identifier": "ctsp0705",
+    "title": "c't spezial Medien digital 01/2008",
+    "file_name": "ctsp0705.iso",
+    "download_url": "https://archive.org/download/ctsp0705/ctsp0705.iso",
+    "size": "2510880768"
+  },
+  {
+    "identifier": "pearos8-i386",
+    "title": "Pear OS",
+    "file_name": "pearos8-i386.iso",
+    "download_url": "https://archive.org/download/pearos8-i386/pearos8-i386.iso",
+    "size": "1093664768"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "delicate-0.1-alpha.iso",
+    "download_url": "https://archive.org/download/delicate-linux/delicate-0.1-alpha.iso",
+    "size": "266332160"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "delicate-0.1-alpha2.iso",
+    "download_url": "https://archive.org/download/delicate-linux/delicate-0.1-alpha2.iso",
+    "size": "247597056"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "delicate-0.1-alpha3-rev2.iso",
+    "download_url": "https://archive.org/download/delicate-linux/delicate-0.1-alpha3-rev2.iso",
+    "size": "319707136"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "delicate-0.1-alpha3.iso",
+    "download_url": "https://archive.org/download/delicate-linux/delicate-0.1-alpha3.iso",
+    "size": "319707136"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "delicate-0.1-alpha4.iso",
+    "download_url": "https://archive.org/download/delicate-linux/delicate-0.1-alpha4.iso",
+    "size": "465909760"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "delicate-0.1-alpha5.iso",
+    "download_url": "https://archive.org/download/delicate-linux/delicate-0.1-alpha5.iso",
+    "size": "479672320"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "floppies.zip",
+    "download_url": "https://archive.org/download/delicate-linux/floppies.zip",
+    "size": "5074533"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "m68k-pkg.zip",
+    "download_url": "https://archive.org/download/delicate-linux/m68k-pkg.zip",
+    "size": "163054612"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "pkg.zip",
+    "download_url": "https://archive.org/download/delicate-linux/pkg.zip",
+    "size": "526082443"
+  },
+  {
+    "identifier": "delicate-linux",
+    "title": "DeLi(cate)",
+    "file_name": "src.zip",
+    "download_url": "https://archive.org/download/delicate-linux/src.zip",
+    "size": "1385268360"
+  },
+  {
+    "identifier": "celos-1-beta5",
+    "title": "CelOS 1-beta5",
+    "file_name": "CelOS-1-beta5.iso",
+    "download_url": "https://archive.org/download/celos-1-beta5/CelOS-1-beta5.iso",
+    "size": "3352145920"
+  },
+  {
+    "identifier": "cbl-mariner-2022-09-12",
+    "title": "CBL-Mariner (downloaded 2022-09-12)",
+    "file_name": "Mariner-1.0-x86_64.iso",
+    "download_url": "https://archive.org/download/cbl-mariner-2022-09-12/Mariner-1.0-x86_64.iso",
+    "size": "750581760"
+  },
+  {
+    "identifier": "cbl-mariner-2022-09-12",
+    "title": "CBL-Mariner (downloaded 2022-09-12)",
+    "file_name": "Mariner-2.0-x86_64.iso",
+    "download_url": "https://archive.org/download/cbl-mariner-2022-09-12/Mariner-2.0-x86_64.iso",
+    "size": "1166813184"
+  },
+  {
+    "identifier": "anduin-os-1.1.4-zh-cn",
+    "title": "Anduin OS 1.1.4 Zh CN",
+    "file_name": "AnduinOS-1.1.4-zh_CN.iso",
+    "download_url": "https://archive.org/download/anduin-os-1.1.4-zh-cn/AnduinOS-1.1.4-zh_CN.iso",
+    "size": "1930227712"
+  },
+  {
+    "identifier": "REDHATPowerTools5.0I386",
+    "title": "Red Hat Linux 5.0 \"Hurricane\"",
+    "file_name": "REDHAT-Linux-5.0-i386.ISO",
+    "download_url": "https://archive.org/download/REDHATPowerTools5.0I386/REDHAT-Linux-5.0-i386.ISO",
+    "size": "663777280"
+  },
+  {
+    "identifier": "REDHATPowerTools5.0I386",
+    "title": "Red Hat Linux 5.0 \"Hurricane\"",
+    "file_name": "REDHAT-PowerTools-5.0-i386.ISO",
+    "download_url": "https://archive.org/download/REDHATPowerTools5.0I386/REDHAT-PowerTools-5.0-i386.ISO",
+    "size": "669612032"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.alpha.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.alpha.iso",
+    "size": "698126336"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.alpha2.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.alpha2.iso",
+    "size": "662446080"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc1.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc1.iso",
+    "size": "679763968"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc1.lz4.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc1.lz4.iso",
+    "size": "1170714624"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc2.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc2.iso",
+    "size": "692662272"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc2.lz4.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc2.lz4.iso",
+    "size": "1188212736"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc3.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc3.iso",
+    "size": "713064448"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc3.lz4.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc3.lz4.iso",
+    "size": "1236975616"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc4.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc4.iso",
+    "size": "722628608"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc4.lz4.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc4.lz4.iso",
+    "size": "1256275968"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc5.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc5.iso",
+    "size": "718770176"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc5.lz4.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc5.lz4.iso",
+    "size": "1225412608"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc6.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc6.iso",
+    "size": "717930496"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc6.lz4.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc6.lz4.iso",
+    "size": "1223892992"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc7.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc7.iso",
+    "size": "717934592"
+  },
+  {
+    "identifier": "dsl-2024",
+    "title": "Damn Small Linux 2024",
+    "file_name": "dsl-2024.rc7.lz4.iso",
+    "download_url": "https://archive.org/download/dsl-2024/dsl-2024.rc7.lz4.iso",
+    "size": "1223892992"
+  },
+  {
+    "identifier": "krd-10.0",
+    "title": "com! 04/2011",
+    "file_name": "KRD 10.0.iso",
+    "download_url": "https://archive.org/download/krd-10.0/KRD 10.0.iso",
+    "size": "6477891584"
+  },
+  {
+    "identifier": "myixos-x86_64-v2",
+    "title": "myixos-x86_64-v2",
+    "file_name": "myixos-x86_64-v2.iso",
+    "download_url": "https://archive.org/download/myixos-x86_64-v2/myixos-x86_64-v2.iso",
+    "size": "3529621504"
+  },
+  {
+    "identifier": "mx-21-respin-budgie-20231114_0352",
+    "title": "MX-21 Respin Budgie",
+    "file_name": "mx-21-respin-budgie-20231114_0352.iso",
+    "download_url": "https://archive.org/download/mx-21-respin-budgie-20231114_0352/mx-21-respin-budgie-20231114_0352.iso",
+    "size": "1539309568"
+  },
+  {
+    "identifier": "linuxeducacional3",
+    "title": "Linux Educacional 3.0",
+    "file_name": "le3-dvd.iso",
+    "download_url": "https://archive.org/download/linuxeducacional3/le3-dvd.iso",
+    "size": "1175277568"
+  },
+  {
+    "identifier": "rosa.-fresh.-kde.-r-7.x-86-64",
+    "title": "ROSA Fresh KDE R7",
+    "file_name": "ROSA.FRESH.KDE.R7.x86_64.iso",
+    "download_url": "https://archive.org/download/rosa.-fresh.-kde.-r-7.x-86-64/ROSA.FRESH.KDE.R7.x86_64.iso",
+    "size": "2020605952"
+  },
+  {
+    "identifier": "com-05-2010",
+    "title": "Com! 05/2010",
+    "file_name": "com! 05:2010.iso",
+    "download_url": "https://archive.org/download/com-05-2010/com! 05:2010.iso",
+    "size": "6544052224"
+  },
+  {
+    "identifier": "com_0907",
+    "title": "com! 09/2007",
+    "file_name": "com_0907.iso",
+    "download_url": "https://archive.org/download/com_0907/com_0907.iso",
+    "size": "8089862144"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.7.2-1-boot.img",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.7.2-1-boot.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.7.2-1-mod.img",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.7.2-1-mod.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.7.2-1-root.gz.img",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.7.2-1-root.gz.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.7.2-1-scsimod.img",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.7.2-1-scsimod.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.7.2-big.iso",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.7.2-big.iso",
+    "size": "254052352"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.7.2.iso",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.7.2.iso",
+    "size": "133849088"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.8.0-2-boot.img",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.8.0-2-boot.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.8.0-2-mod.img",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.8.0-2-mod.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.8.0-2-root.gz.img",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.8.0-2-root.gz.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.8.0-2-scsimod.img",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.8.0-2-scsimod.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.8.0-core.iso",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.8.0-core.iso",
+    "size": "63252480"
+  },
+  {
+    "identifier": "deli-linux",
+    "title": "DeLi Linux",
+    "file_name": "deli_0.8.0-full.iso",
+    "download_url": "https://archive.org/download/deli-linux/deli_0.8.0-full.iso",
+    "size": "263342080"
+  },
+  {
+    "identifier": "kwlinux-4-pro",
+    "title": "KW Linux 4.0 Professional Edition (Intel)",
+    "file_name": "KWLinux4_APP.iso",
+    "download_url": "https://archive.org/download/kwlinux-4-pro/KWLinux4_APP.iso",
+    "size": "637353984"
+  },
+  {
+    "identifier": "kwlinux-4-pro",
+    "title": "KW Linux 4.0 Professional Edition (Intel)",
+    "file_name": "KWLinux4_OS1.iso",
+    "download_url": "https://archive.org/download/kwlinux-4-pro/KWLinux4_OS1.iso",
+    "size": "673519616"
+  },
+  {
+    "identifier": "kwlinux-4-pro",
+    "title": "KW Linux 4.0 Professional Edition (Intel)",
+    "file_name": "KWLinux4_OS2.iso",
+    "download_url": "https://archive.org/download/kwlinux-4-pro/KWLinux4_OS2.iso",
+    "size": "665794560"
+  },
+  {
+    "identifier": "kwlinux-4-pro",
+    "title": "KW Linux 4.0 Professional Edition (Intel)",
+    "file_name": "KWLinux4_SRC.iso",
+    "download_url": "https://archive.org/download/kwlinux-4-pro/KWLinux4_SRC.iso",
+    "size": "680144896"
+  },
+  {
+    "identifier": "dos-box-games-3",
+    "title": "DOS(Box) Games 3.1",
+    "file_name": "DOS(Box) Games 3.iso",
+    "download_url": "https://archive.org/download/dos-box-games-3/DOS(Box) Games 3.iso",
+    "size": "733708288"
+  },
+  {
+    "identifier": "openkylin-1.0-x86_64_202307",
+    "title": "openKylin-1.0-x86_64",
+    "file_name": "openKylin-1.0-x86_64.iso",
+    "download_url": "https://archive.org/download/openkylin-1.0-x86_64_202307/openKylin-1.0-x86_64.iso",
+    "size": "4547786752"
+  },
+  {
+    "identifier": "flora-linux-libre",
+    "title": "Flora Linux-libre MATE (based on MX-23)",
+    "file_name": "floralinux-libre-x64-20240122_0347.iso",
+    "download_url": "https://archive.org/download/flora-linux-libre/floralinux-libre-x64-20240122_0347.iso",
+    "size": "1560281088"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion8",
+    "title": "Rogue Class Linux version 8",
+    "file_name": "rcl-8-disc1.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion8/rcl-8-disc1.iso",
+    "size": "566804480"
+  },
+  {
+    "identifier": "RogueClassLinuxVersion8",
+    "title": "Rogue Class Linux version 8",
+    "file_name": "rcl-8-disc2.iso",
+    "download_url": "https://archive.org/download/RogueClassLinuxVersion8/rcl-8-disc2.iso",
+    "size": "380672000"
+  },
+  {
+    "identifier": "ubuntu-20.04.2-desktop-amd64",
+    "title": "Ubuntu 20.04.2 LTS Focal Fossa (February, 2021) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-20.04.2-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-20.04.2-desktop-amd64/ubuntu-20.04.2-desktop-amd64.iso",
+    "size": "2877227008"
+  },
+  {
+    "identifier": "x-86-install-cd",
+    "title": "Ark Linux 2008.1",
+    "file_name": "x86 install CD.iso",
+    "download_url": "https://archive.org/download/x-86-install-cd/x86 install CD.iso",
+    "size": "727678976"
+  },
+  {
+    "identifier": "archlinux-surfacert-unofficial-armv7",
+    "title": "Arch Linux for Surface RT Unofficial",
+    "file_name": "archlinux-surfacert-unofficial-armv7.img",
+    "download_url": "https://archive.org/download/archlinux-surfacert-unofficial-armv7/archlinux-surfacert-unofficial-armv7.img",
+    "size": "1610612736"
+  },
+  {
+    "identifier": "epios-desktop-edition-2005.01.smp-beta060110-EN-US",
+    "title": "epios-desktop-edition-2005.01.smp-beta060110-EN-US",
+    "file_name": "epios-desktop-edition-2005.01.smp-beta060110-EN-US.iso",
+    "download_url": "https://archive.org/download/epios-desktop-edition-2005.01.smp-beta060110-EN-US/epios-desktop-edition-2005.01.smp-beta060110-EN-US.iso",
+    "size": "719327232"
+  },
+  {
+    "identifier": "yggdrasil_linux_fall_1994",
+    "title": "Yggdrasil Plug-and-Play Linux [fall 1994]",
+    "file_name": "yggdrasil_linux_fall_1994.iso",
+    "download_url": "https://archive.org/download/yggdrasil_linux_fall_1994/yggdrasil_linux_fall_1994.iso",
+    "size": "596930560"
+  },
+  {
+    "identifier": "wt.-bg.v-1.9",
+    "title": "WEAKERTH4N Linux: BLUE GHOST Edition",
+    "file_name": "WT.BG.v1.9.ISO",
+    "download_url": "https://archive.org/download/wt.-bg.v-1.9/WT.BG.v1.9.ISO",
+    "size": "1419771904"
+  },
+  {
+    "identifier": "mx-respin-mate",
+    "title": "MX-23 Respin MATE (updated 2024-10-07)",
+    "file_name": "mx-23-respin-mate-20231115_0743.iso",
+    "download_url": "https://archive.org/download/mx-respin-mate/mx-23-respin-mate-20231115_0743.iso",
+    "size": "1633681408"
+  },
+  {
+    "identifier": "mx-respin-mate",
+    "title": "MX-23 Respin MATE (updated 2024-10-07)",
+    "file_name": "mx-23-respin-mate-x64-20241007_1234.iso",
+    "download_url": "https://archive.org/download/mx-respin-mate/mx-23-respin-mate-x64-20241007_1234.iso",
+    "size": "1694498816"
+  },
+  {
+    "identifier": "phlak-0.3",
+    "title": "Phlak Linux 0.3",
+    "file_name": "phlak-0.3.iso",
+    "download_url": "https://archive.org/download/phlak-0.3/phlak-0.3.iso",
+    "size": "604639232"
+  },
+  {
+    "identifier": "snowlinux2.2",
+    "title": "Snow 2.2 Linux",
+    "file_name": "snow2.2a.iso",
+    "download_url": "https://archive.org/download/snowlinux2.2/snow2.2a.iso",
+    "size": "563914752"
+  },
+  {
+    "identifier": "snowlinux2.2",
+    "title": "Snow 2.2 Linux",
+    "file_name": "snow2.2b.iso",
+    "download_url": "https://archive.org/download/snowlinux2.2/snow2.2b.iso",
+    "size": "670763008"
+  },
+  {
+    "identifier": "snowlinux2.2",
+    "title": "Snow 2.2 Linux",
+    "file_name": "snow_boot_flop.img",
+    "download_url": "https://archive.org/download/snowlinux2.2/snow_boot_flop.img",
+    "size": "1396736"
+  },
+  {
+    "identifier": "tsurugi_lab_2019.1",
+    "title": "tsurugi_lab_2019.1",
+    "file_name": "tsurugi_lab_2019.1.iso",
+    "download_url": "https://archive.org/download/tsurugi_lab_2019.1/tsurugi_lab_2019.1.iso",
+    "size": "4152360960"
+  },
+  {
+    "identifier": "winbian-linux-version-2.3.2-amd-64-rtm-1.1",
+    "title": "Winbian Linux Version 2.3.2",
+    "file_name": "Winbian_Linux_Version_2.3.2-amd64-RTM-1.1.iso",
+    "download_url": "https://archive.org/download/winbian-linux-version-2.3.2-amd-64-rtm-1.1/Winbian_Linux_Version_2.3.2-amd64-RTM-1.1.iso",
+    "size": "2621161472"
+  },
+  {
+    "identifier": "BFX2006.2R4",
+    "title": "BeaFanatIX 2006.2 R 4",
+    "file_name": "BFX-2006.2_r4.iso",
+    "download_url": "https://archive.org/download/BFX2006.2R4/BFX-2006.2_r4.iso",
+    "size": "168343552"
+  },
+  {
+    "identifier": "rolling-rhino-2022-04-19",
+    "title": "Rolling Rhino Remix 2022.04.19",
+    "file_name": "rolling-rhino-2022-04-19.iso",
+    "download_url": "https://archive.org/download/rolling-rhino-2022-04-19/rolling-rhino-2022-04-19.iso",
+    "size": "3666878464"
+  },
+  {
+    "identifier": "cbpp-10.1-amd64-20190713",
+    "title": "#!++ Crunchbangplusplus cbpp-10.1-amd64-20190713",
+    "file_name": "cbpp-10.1-amd64-20190713.iso",
+    "download_url": "https://archive.org/download/cbpp-10.1-amd64-20190713/cbpp-10.1-amd64-20190713.iso",
+    "size": "1288060928"
+  },
+  {
+    "identifier": "rolling-2022-09-07",
+    "title": "rolling-2022-09-07",
+    "file_name": "rolling-2022-09-07.iso",
+    "download_url": "https://archive.org/download/rolling-2022-09-07/rolling-2022-09-07.iso",
+    "size": "4162727936"
+  },
+  {
+    "identifier": "rolling-rhino-2022-05-03",
+    "title": "Rolling Rhino Remix 2022.05.03",
+    "file_name": "rolling-rhino-2022-05-03.iso",
+    "download_url": "https://archive.org/download/rolling-rhino-2022-05-03/rolling-rhino-2022-05-03.iso",
+    "size": "3926609920"
+  },
+  {
+    "identifier": "ubuntu-20.04.1-desktop-amd64_202505",
+    "title": "ubuntu-20.04.1-desktop-amd64.iso",
+    "file_name": "ubuntu-20.04.1-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-20.04.1-desktop-amd64_202505/ubuntu-20.04.1-desktop-amd64.iso",
+    "size": "2785017856"
+  },
+  {
+    "identifier": "conectiva-linux-6.0",
+    "title": "Conectiva Linux 6.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 6.0 - StarOffice 5.2.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-6.0/Conectiva Linux 6.0 - StarOffice 5.2.iso",
+    "size": "597280768"
+  },
+  {
+    "identifier": "conectiva-linux-6.0",
+    "title": "Conectiva Linux 6.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 6.0 Disc 1 of 5.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-6.0/Conectiva Linux 6.0 Disc 1 of 5.iso",
+    "size": "669460480"
+  },
+  {
+    "identifier": "conectiva-linux-6.0",
+    "title": "Conectiva Linux 6.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 6.0 Disc 2 of 5.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-6.0/Conectiva Linux 6.0 Disc 2 of 5.iso",
+    "size": "473077760"
+  },
+  {
+    "identifier": "conectiva-linux-6.0",
+    "title": "Conectiva Linux 6.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 6.0 Disc 3 of 5.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-6.0/Conectiva Linux 6.0 Disc 3 of 5.iso",
+    "size": "621230080"
+  },
+  {
+    "identifier": "conectiva-linux-6.0",
+    "title": "Conectiva Linux 6.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 6.0 Disc 4 of 5.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-6.0/Conectiva Linux 6.0 Disc 4 of 5.iso",
+    "size": "423022592"
+  },
+  {
+    "identifier": "conectiva-linux-6.0",
+    "title": "Conectiva Linux 6.0 Completo / Full Set",
+    "file_name": "Conectiva Linux 6.0 Disc 5 of 5.iso",
+    "download_url": "https://archive.org/download/conectiva-linux-6.0/Conectiva Linux 6.0 Disc 5 of 5.iso",
+    "size": "652650496"
+  },
+  {
+    "identifier": "ubuntu-21.10-desktop-amd64_202505",
+    "title": "Ubuntu 21.10 Impish Indri (October, 2021) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-21.10-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-21.10-desktop-amd64_202505/ubuntu-21.10-desktop-amd64.iso",
+    "size": "3116482560"
+  },
+  {
+    "identifier": "ubuntu-6.06-i-386",
+    "title": "Ubuntu 6.06 i386",
+    "file_name": "Ubuntu 6.06 i386.iso",
+    "download_url": "https://archive.org/download/ubuntu-6.06-i-386/Ubuntu 6.06 i386.iso",
+    "size": "732051456"
+  },
+  {
+    "identifier": "polippix_2.1",
+    "title": "polippix_2.1",
+    "file_name": "polippix_2.1.iso",
+    "download_url": "https://archive.org/download/polippix_2.1/polippix_2.1.iso",
+    "size": "701308928"
+  },
+  {
+    "identifier": "mx-respin-cinnamon",
+    "title": "MX-21 Respin Cinnamon",
+    "file_name": "mx-21-respin-cinnamon-20231114_0647.iso",
+    "download_url": "https://archive.org/download/mx-respin-cinnamon/mx-21-respin-cinnamon-20231114_0647.iso",
+    "size": "1610612736"
+  },
+  {
+    "identifier": "mx-respin-lxde",
+    "title": "MX-23 Respin LXDE (updated 2024-09-30)",
+    "file_name": "mx-23-respin-lxde-x64-20240930_1258.iso",
+    "download_url": "https://archive.org/download/mx-respin-lxde/mx-23-respin-lxde-x64-20240930_1258.iso",
+    "size": "1516240896"
+  },
+  {
+    "identifier": "diz1full",
+    "title": "Dizinha Linux 1.0 \"Full\"",
+    "file_name": "diz1full.iso",
+    "download_url": "https://archive.org/download/diz1full/diz1full.iso",
+    "size": "218949632"
+  },
+  {
+    "identifier": "floralinux-libre-mate-nomx-x64-20250418_1318",
+    "title": "Flora Linux-libre MATE (based on debian 12)",
+    "file_name": "floralinux-libre-mate-nomx-x64-20250418_1318.iso",
+    "download_url": "https://archive.org/download/floralinux-libre-mate-nomx-x64-20250418_1318/floralinux-libre-mate-nomx-x64-20250418_1318.iso",
+    "size": "1233027072"
+  },
+  {
+    "identifier": "wt6.8.2",
+    "title": "WEAKERTH4N Linux 6.8.2",
+    "file_name": "wt6.8.2.iso",
+    "download_url": "https://archive.org/download/wt6.8.2/wt6.8.2.iso",
+    "size": "1728929792"
+  },
+  {
+    "identifier": "ubuntu-20.10-desktop-amd64_202505",
+    "title": "Ubuntu 20.10 Groovy Gorilla (October, 2020) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-20.10-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-20.10-desktop-amd64_202505/ubuntu-20.10-desktop-amd64.iso",
+    "size": "2942003200"
+  },
+  {
+    "identifier": "ubuntu-gnome-14.10",
+    "title": "Ubuntu Gnome 14.10",
+    "file_name": "ubuntu-gnome-14.10-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-gnome-14.10/ubuntu-gnome-14.10-desktop-amd64.iso",
+    "size": "1046478848"
+  },
+  {
+    "identifier": "ubuntu-gnome-14.10",
+    "title": "Ubuntu Gnome 14.10",
+    "file_name": "ubuntu-gnome-14.10-desktop-i386.iso",
+    "download_url": "https://archive.org/download/ubuntu-gnome-14.10/ubuntu-gnome-14.10-desktop-i386.iso",
+    "size": "1066401792"
+  },
+  {
+    "identifier": "cl9-2",
+    "title": "Conectiva Linux cl9-2",
+    "file_name": "cl9-2.iso",
+    "download_url": "https://archive.org/download/cl9-2/cl9-2.iso",
+    "size": "760994304"
+  },
+  {
+    "identifier": "turbolinux-workstation-6-0-en",
+    "title": "TurboLinux Workstation 6.0 En",
+    "file_name": "TLW-6.0.2.en.companion.iso",
+    "download_url": "https://archive.org/download/turbolinux-workstation-6-0-en/TLW-6.0.2.en.companion.iso",
+    "size": "414177280"
+  },
+  {
+    "identifier": "turbolinux-workstation-6-0-en",
+    "title": "TurboLinux Workstation 6.0 En",
+    "file_name": "TLW-6.0.2.en.install.iso",
+    "download_url": "https://archive.org/download/turbolinux-workstation-6-0-en/TLW-6.0.2.en.install.iso",
+    "size": "619257856"
+  },
+  {
+    "identifier": "turbolinux-workstation-6-0-en",
+    "title": "TurboLinux Workstation 6.0 En",
+    "file_name": "TLW-6.0.2.en.source.iso",
+    "download_url": "https://archive.org/download/turbolinux-workstation-6-0-en/TLW-6.0.2.en.source.iso",
+    "size": "580984832"
+  },
+  {
+    "identifier": "cp6linux-2008-he-final",
+    "title": "cp6linux-2008-he-final",
+    "file_name": "cp6linux-2008-he-final.iso",
+    "download_url": "https://archive.org/download/cp6linux-2008-he-final/cp6linux-2008-he-final.iso",
+    "size": "861646848"
+  },
+  {
+    "identifier": "Hakin9_200606",
+    "title": "Hakin9 2006 - 06 (11) Coverdiscs",
+    "file_name": "Hakin9 2006 - 06 - Disc 1 of 2 - [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200606/Hakin9 2006 - 06 - Disc 1 of 2 - [hakin9.live].iso",
+    "size": "669749248"
+  },
+  {
+    "identifier": "Hakin9_200606",
+    "title": "Hakin9 2006 - 06 (11) Coverdiscs",
+    "file_name": "Hakin9 2006 - 06 - Disc 2 of 2 - [misc].iso",
+    "download_url": "https://archive.org/download/Hakin9_200606/Hakin9 2006 - 06 - Disc 2 of 2 - [misc].iso",
+    "size": "171163648"
+  },
+  {
+    "identifier": "ubuntu-24.04.2-desktop-amd64",
+    "title": "ubuntu-24.04.2-desktop-amd64.iso",
+    "file_name": "ubuntu-24.04.2-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-24.04.2-desktop-amd64/ubuntu-24.04.2-desktop-amd64.iso",
+    "size": "6343219200"
+  },
+  {
+    "identifier": "ubuntu1904beta",
+    "title": "Ubuntu 19.04 Beta x64",
+    "file_name": "ubuntu-19.04-beta-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu1904beta/ubuntu-19.04-beta-desktop-amd64.iso",
+    "size": "2099478528"
+  },
+  {
+    "identifier": "ubuntu1904beta",
+    "title": "Ubuntu 19.04 Beta x64",
+    "file_name": "ubuntu-19.04-beta-live-server-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu1904beta/ubuntu-19.04-beta-live-server-amd64.iso",
+    "size": "785383424"
+  },
+  {
+    "identifier": "ubuntu-22.04-desktop-amd64_202505",
+    "title": "Ubuntu 22.04 LTS Jammy Jellyfish (April, 2022) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-22.04-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-22.04-desktop-amd64_202505/ubuntu-22.04-desktop-amd64.iso",
+    "size": "3654957056"
+  },
+  {
+    "identifier": "com_1205",
+    "title": "com! 12/2005",
+    "file_name": "com_1205.iso",
+    "download_url": "https://archive.org/download/com_1205/com_1205.iso",
+    "size": "4576280576"
+  },
+  {
+    "identifier": "com-Extra-Securi",
+    "title": "com! Extra - April, Mai, Juni 2008",
+    "file_name": "com-Extra-Securi.iso",
+    "download_url": "https://archive.org/download/com-Extra-Securi/com-Extra-Securi.iso",
+    "size": "4246962176"
+  },
+  {
+    "identifier": "sabily-11.10-desktop-full",
+    "title": "sabily-11.10-desktop-full",
+    "file_name": "sabily-11.10-desktop-i386-full.iso",
+    "download_url": "https://archive.org/download/sabily-11.10-desktop-full/sabily-11.10-desktop-i386-full.iso",
+    "size": "1701632000"
+  },
+  {
+    "identifier": "runtu-xfce-16.04.3-amd64_20170806",
+    "title": "Runtu XFCE 16.04",
+    "file_name": "runtu-xfce-16.04.3-amd64_20170806.iso",
+    "download_url": "https://archive.org/download/runtu-xfce-16.04.3-amd64_20170806/runtu-xfce-16.04.3-amd64_20170806.iso",
+    "size": "711983104"
+  },
+  {
+    "identifier": "soltros-20250616",
+    "title": "SoltrOS",
+    "file_name": "soltros-20250616.iso",
+    "download_url": "https://archive.org/download/soltros-20250616/soltros-20250616.iso",
+    "size": "5016584192"
+  },
+  {
+    "identifier": "springlinux-rc-150515",
+    "title": "SpringLinux-rc-150515",
+    "file_name": "springlinux-rc-i686-150515.iso",
+    "download_url": "https://archive.org/download/springlinux-rc-150515/springlinux-rc-i686-150515.iso",
+    "size": "476053504"
+  },
+  {
+    "identifier": "springlinux-rc-150515",
+    "title": "SpringLinux-rc-150515",
+    "file_name": "springlinux-rc-x86_64-150515.iso",
+    "download_url": "https://archive.org/download/springlinux-rc-150515/springlinux-rc-x86_64-150515.iso",
+    "size": "479199232"
+  },
+  {
+    "identifier": "ubuntu-23.10.1-desktop-amd64_20250511",
+    "title": "Ubuntu 23.10 Mantic Minotaur (October, 2023) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-23.10.1-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-23.10.1-desktop-amd64_20250511/ubuntu-23.10.1-desktop-amd64.iso",
+    "size": "5173995520"
+  },
+  {
+    "identifier": "yellowdog-6.1-iso-ps3",
+    "title": "Yellow Dog Linux 6.1 installer for PlayStation 3",
+    "file_name": "yellowdog-6.1-ppc-DVD_20090201_NEW_PS3.iso",
+    "download_url": "https://archive.org/download/yellowdog-6.1-iso-ps3/yellowdog-6.1-ppc-DVD_20090201_NEW_PS3.iso",
+    "size": "3937935360"
+  },
+  {
+    "identifier": "alter-ego-1",
+    "title": "Alter Ego + 1",
+    "file_name": "AlterEgo+1.iso",
+    "download_url": "https://archive.org/download/alter-ego-1/AlterEgo+1.iso",
+    "size": "410814464"
+  },
+  {
+    "identifier": "ubuntu-21.04-desktop-amd64_20250511",
+    "title": "Ubuntu 21.04 Hirsute Hippo (April, 2021) Desktop 64-bit Official ISO",
+    "file_name": "ubuntu-21.04-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-21.04-desktop-amd64_20250511/ubuntu-21.04-desktop-amd64.iso",
+    "size": "2818738176"
+  },
+  {
+    "identifier": "ubuntu-25.04-desktop-amd64",
+    "title": "ubuntu-25.04-desktop-amd64",
+    "file_name": "ubuntu-25.04-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-25.04-desktop-amd64/ubuntu-25.04-desktop-amd64.iso",
+    "size": "6278520832"
+  },
+  {
+    "identifier": "fdntu-20132",
+    "title": "Fuduntu 2013.2",
+    "file_name": "Fuduntu-2013.2-i686-LiteDVD.iso",
+    "download_url": "https://archive.org/download/fdntu-20132/Fuduntu-2013.2-i686-LiteDVD.iso",
+    "size": "857735168"
+  },
+  {
+    "identifier": "fdntu-20132",
+    "title": "Fuduntu 2013.2",
+    "file_name": "Fuduntu-2013.2-i686-LiveDVD.iso",
+    "download_url": "https://archive.org/download/fdntu-20132/Fuduntu-2013.2-i686-LiveDVD.iso",
+    "size": "1053818880"
+  },
+  {
+    "identifier": "fdntu-20132",
+    "title": "Fuduntu 2013.2",
+    "file_name": "Fuduntu-2013.2-x86_64-LiteDVD.iso",
+    "download_url": "https://archive.org/download/fdntu-20132/Fuduntu-2013.2-x86_64-LiteDVD.iso",
+    "size": "858783744"
+  },
+  {
+    "identifier": "fdntu-20132",
+    "title": "Fuduntu 2013.2",
+    "file_name": "Fuduntu-2013.2-x86_64-LiveDVD.iso",
+    "download_url": "https://archive.org/download/fdntu-20132/Fuduntu-2013.2-x86_64-LiveDVD.iso",
+    "size": "1058013184"
+  },
+  {
+    "identifier": "yoyoos-kokomi-alpha-2",
+    "title": "Yoyo OS \"Kokomi\" Alpha 2",
+    "file_name": "yoyoos-kokomi-alpha2-amd64.iso",
+    "download_url": "https://archive.org/download/yoyoos-kokomi-alpha-2/yoyoos-kokomi-alpha2-amd64.iso",
+    "size": "3252428800"
+  },
+  {
+    "identifier": "ubuntu1710beta2",
+    "title": "Ubuntu 17.10 Beta 2",
+    "file_name": "ubuntu-17.10-beta2-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu1710beta2/ubuntu-17.10-beta2-desktop-amd64.iso",
+    "size": "1488797696"
+  },
+  {
+    "identifier": "ubuntu1710beta2",
+    "title": "Ubuntu 17.10 Beta 2",
+    "file_name": "ubuntu-17.10-beta2-server-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu1710beta2/ubuntu-17.10-beta2-server-amd64.iso",
+    "size": "780140544"
+  },
+  {
+    "identifier": "ubuntu1710beta2",
+    "title": "Ubuntu 17.10 Beta 2",
+    "file_name": "ubuntu-17.10-beta2-server-i386.iso",
+    "download_url": "https://archive.org/download/ubuntu1710beta2/ubuntu-17.10-beta2-server-i386.iso",
+    "size": "780140544"
+  },
+  {
+    "identifier": "yellowdog-6.0-iso",
+    "title": "Yellow Dog Linux 6.0 installer",
+    "file_name": "yellowdog-6.0-DVD_20080207.iso",
+    "download_url": "https://archive.org/download/yellowdog-6.0-iso/yellowdog-6.0-DVD_20080207.iso",
+    "size": "3983831040"
+  },
+  {
+    "identifier": "xubuntu-18.04-desktop-amd64",
+    "title": "Xubuntu 18.04 LTS Bionic Beaver Desktop amd64 (64 Bit)",
+    "file_name": "xubuntu-18.04-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/xubuntu-18.04-desktop-amd64/xubuntu-18.04-desktop-amd64.iso",
+    "size": "1427341312"
+  },
+  {
+    "identifier": "rolling-rhino-2022-03-26",
+    "title": "Rolling Rhino Remix 2022.03.26",
+    "file_name": "rolling-rhino-2022-03-26.iso",
+    "download_url": "https://archive.org/download/rolling-rhino-2022-03-26/rolling-rhino-2022-03-26.iso",
+    "size": "3441039360"
+  },
+  {
+    "identifier": "EndeavourOS",
+    "title": "EndeavourOS",
+    "file_name": "EndeavourOS_Apollo_22_1.iso",
+    "download_url": "https://archive.org/download/EndeavourOS/EndeavourOS_Apollo_22_1.iso",
+    "size": "1913597952"
+  },
+  {
+    "identifier": "EndeavourOS",
+    "title": "EndeavourOS",
+    "file_name": "EndeavourOS_Artemis-22_6.iso",
+    "download_url": "https://archive.org/download/EndeavourOS/EndeavourOS_Artemis-22_6.iso",
+    "size": "1940172800"
+  },
+  {
+    "identifier": "EndeavourOS",
+    "title": "EndeavourOS",
+    "file_name": "EndeavourOS_Artemis_Neo_22.7.iso",
+    "download_url": "https://archive.org/download/EndeavourOS/EndeavourOS_Artemis_Neo_22.7.iso",
+    "size": "1934536704"
+  },
+  {
+    "identifier": "EndeavourOS",
+    "title": "EndeavourOS",
+    "file_name": "EndeavourOS_Cassini_22_12.iso",
+    "download_url": "https://archive.org/download/EndeavourOS/EndeavourOS_Cassini_22_12.iso",
+    "size": "2041393152"
+  },
+  {
+    "identifier": "EndeavourOS",
+    "title": "EndeavourOS",
+    "file_name": "EndeavourOS_Cassini_Neo_22_12.iso",
+    "download_url": "https://archive.org/download/EndeavourOS/EndeavourOS_Cassini_Neo_22_12.iso",
+    "size": "2068672512"
+  },
+  {
+    "identifier": "EndeavourOS",
+    "title": "EndeavourOS",
+    "file_name": "EndeavourOS_Cassini_Nova-03-2023_R1.iso",
+    "download_url": "https://archive.org/download/EndeavourOS/EndeavourOS_Cassini_Nova-03-2023_R1.iso",
+    "size": "2060333056"
+  },
+  {
+    "identifier": "EndeavourOS",
+    "title": "EndeavourOS",
+    "file_name": "Endeavouros-Galileo-11-2023.iso",
+    "download_url": "https://archive.org/download/EndeavourOS/Endeavouros-Galileo-11-2023.iso",
+    "size": "2608148480"
+  },
+  {
+    "identifier": "lunar-linux",
+    "title": "Lunar Linux",
+    "file_name": "lunar_X64.iso",
+    "download_url": "https://archive.org/download/lunar-linux/lunar_X64.iso",
+    "size": "378514500"
+  },
+  {
+    "identifier": "linuxmint-20.3-cinnamon-64bit_202505",
+    "title": "Linux Mint 20.3 Una (January, 2022) 64-bit All Editions Official ISO",
+    "file_name": "linuxmint-20.3-cinnamon-64bit.iso",
+    "download_url": "https://archive.org/download/linuxmint-20.3-cinnamon-64bit_202505/linuxmint-20.3-cinnamon-64bit.iso",
+    "size": "2251653120"
+  },
+  {
+    "identifier": "satux_202111",
+    "title": "Satux 1.5",
+    "file_name": "satux.iso",
+    "download_url": "https://archive.org/download/satux_202111/satux.iso",
+    "size": "1080623104"
+  },
+  {
+    "identifier": "bt-5-1",
+    "title": "BackTrack 5 R2 Live CD 64bit (2012)",
+    "file_name": "BT5(1).ISO",
+    "download_url": "https://archive.org/download/bt-5-1/BT5(1).ISO",
+    "size": "2762113024"
+  },
+  {
+    "identifier": "bayanihandesktop-5-i386",
+    "title": "Bayanihan OS 5.0",
+    "file_name": "bayanihandesktop-5-i386.iso",
+    "download_url": "https://archive.org/download/bayanihandesktop-5-i386/bayanihandesktop-5-i386.iso",
+    "size": "729671680"
+  },
+  {
+    "identifier": "pc-actual-feb-2000-esware-cd-version-1.1",
+    "title": "PC ACTUAL FEB 2000 ESWARE CD VERSION 1.1",
+    "file_name": "PC_ACTUAL_FEB_2000_ESWARE CD VERSION 1.1.ISO",
+    "download_url": "https://archive.org/download/pc-actual-feb-2000-esware-cd-version-1.1/PC_ACTUAL_FEB_2000_ESWARE CD VERSION 1.1.ISO",
+    "size": "647178240"
+  },
+  {
+    "identifier": "shredos-2024.11_27_x86-64_0.38_20250125_vanilla",
+    "title": "shredos-2024.11_27_x86-64_0.38_20250125_vanilla",
+    "file_name": "shredos-2024.11_27_x86-64_0.38_20250125_vanilla.iso",
+    "download_url": "https://archive.org/download/shredos-2024.11_27_x86-64_0.38_20250125_vanilla/shredos-2024.11_27_x86-64_0.38_20250125_vanilla.iso",
+    "size": "281098240"
+  },
+  {
+    "identifier": "backtrack-5-live-cd",
+    "title": "BackTrack 5 R2 Live CD 32bit (2012)",
+    "file_name": "BT5.ISO",
+    "download_url": "https://archive.org/download/backtrack-5-live-cd/BT5.ISO",
+    "size": "2713911296"
+  },
+  {
+    "identifier": "caldera-network-desktop-1.0",
+    "title": "Caldera Network Desktop 1.0",
+    "file_name": "caldera-network-desktop-1.0-boot-disk-pcmcia.img",
+    "download_url": "https://archive.org/download/caldera-network-desktop-1.0/caldera-network-desktop-1.0-boot-disk-pcmcia.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "caldera-network-desktop-1.0",
+    "title": "Caldera Network Desktop 1.0",
+    "file_name": "caldera-network-desktop-1.0-boot-disk.img",
+    "download_url": "https://archive.org/download/caldera-network-desktop-1.0/caldera-network-desktop-1.0-boot-disk.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "q4os-linux-pc-iso",
+    "title": "Q4OS Linux, 32 & 64 bit, PC",
+    "file_name": "q4os-1.8.8-i386-k3.16.iso",
+    "download_url": "https://archive.org/download/q4os-linux-pc-iso/q4os-1.8.8-i386-k3.16.iso",
+    "size": "330301440"
+  },
+  {
+    "identifier": "q4os-linux-pc-iso",
+    "title": "Q4OS Linux, 32 & 64 bit, PC",
+    "file_name": "q4os-1.8.8-x64-k3.16.iso",
+    "download_url": "https://archive.org/download/q4os-linux-pc-iso/q4os-1.8.8-x64-k3.16.iso",
+    "size": "294649856"
+  },
+  {
+    "identifier": "q4os-linux-pc-iso",
+    "title": "Q4OS Linux, 32 & 64 bit, PC",
+    "file_name": "q4os-live-1.8.8-i686pae-k3.16.iso",
+    "download_url": "https://archive.org/download/q4os-linux-pc-iso/q4os-live-1.8.8-i686pae-k3.16.iso",
+    "size": "531628032"
+  },
+  {
+    "identifier": "q4os-linux-pc-iso",
+    "title": "Q4OS Linux, 32 & 64 bit, PC",
+    "file_name": "q4os-live-1.8.8-x64-k3.16.iso",
+    "download_url": "https://archive.org/download/q4os-linux-pc-iso/q4os-live-1.8.8-x64-k3.16.iso",
+    "size": "563085312"
+  },
+  {
+    "identifier": "220108_refract",
+    "title": "[unfinished] G-refracta archive",
+    "file_name": "Manjaro-ARM-minimal-rockpro64-20230219.img",
+    "download_url": "https://archive.org/download/220108_refract/Manjaro-ARM-minimal-rockpro64-20230219.img",
+    "size": "2839543808"
+  },
+  {
+    "identifier": "220108_refract",
+    "title": "[unfinished] G-refracta archive",
+    "file_name": "archlinux-2022.01.01-x86_64.iso",
+    "download_url": "https://archive.org/download/220108_refract/archlinux-2022.01.01-x86_64.iso",
+    "size": "906309632"
+  },
+  {
+    "identifier": "220108_refract",
+    "title": "[unfinished] G-refracta archive",
+    "file_name": "refracta_11_xfce_amd64-20211114_0127.iso",
+    "download_url": "https://archive.org/download/220108_refract/refracta_11_xfce_amd64-20211114_0127.iso",
+    "size": "1270087680"
+  },
+  {
+    "identifier": "xubuntu-18.04-desktop-i386",
+    "title": "Xubuntu 18.04 LTS Bionic Beaver Desktop x86 (32 bit)",
+    "file_name": "xubuntu-18.04-desktop-i386.iso",
+    "download_url": "https://archive.org/download/xubuntu-18.04-desktop-i386/xubuntu-18.04-desktop-i386.iso",
+    "size": "1431568384"
+  },
+  {
+    "identifier": "mx-respin-windowmaker",
+    "title": "MX-23 Respin Window_Maker (updated 2024-10-03)",
+    "file_name": "mx-23-respin-windowmaker-x64-20241003_0000.iso",
+    "download_url": "https://archive.org/download/mx-respin-windowmaker/mx-23-respin-windowmaker-x64-20241003_0000.iso",
+    "size": "1563426816"
+  },
+  {
+    "identifier": "sotl-2002-desktop-sources",
+    "title": "SOT-Linux distros",
+    "file_name": "BL_2000_R2_FINAL.iso",
+    "download_url": "https://archive.org/download/sotl-2002-desktop-sources/BL_2000_R2_FINAL.iso",
+    "size": "609157120"
+  },
+  {
+    "identifier": "senpai-respin-only-mate-mx-21-x64-and-x32",
+    "title": "(Updated to v21.3) Senpai Respin Only Mate MX 21.3 from x32, x64 and x64-AHS",
+    "file_name": "Senpai_Respin_Mate_ MX_21.3-x32_snapshot-20230306_1402.iso",
+    "download_url": "https://archive.org/download/senpai-respin-only-mate-mx-21-x64-and-x32/Senpai_Respin_Mate_ MX_21.3-x32_snapshot-20230306_1402.iso",
+    "size": "1872756736"
+  },
+  {
+    "identifier": "senpai-respin-only-mate-mx-21-x64-and-x32",
+    "title": "(Updated to v21.3) Senpai Respin Only Mate MX 21.3 from x32, x64 and x64-AHS",
+    "file_name": "Senpai_Respin_Mate_MX-AHS_21.3-x64_snapshot-20230307_1354.iso",
+    "download_url": "https://archive.org/download/senpai-respin-only-mate-mx-21-x64-and-x32/Senpai_Respin_Mate_MX-AHS_21.3-x64_snapshot-20230307_1354.iso",
+    "size": "1966080000"
+  },
+  {
+    "identifier": "senpai-respin-only-mate-mx-21-x64-and-x32",
+    "title": "(Updated to v21.3) Senpai Respin Only Mate MX 21.3 from x32, x64 and x64-AHS",
+    "file_name": "Senpai_Respin_Mate_MX_21.3-x64_snapshot-20230306_1414.iso",
+    "download_url": "https://archive.org/download/senpai-respin-only-mate-mx-21-x64-and-x32/Senpai_Respin_Mate_MX_21.3-x64_snapshot-20230306_1414.iso",
+    "size": "1869611008"
+  },
+  {
+    "identifier": "red-hat-rhel-3-es-i386-cd1-installation1",
+    "title": "Red Hat Enterprise Linux 3 (Spanish)",
+    "file_name": "red-hat-rhel-3-es-i386-cd1-installation1.iso",
+    "download_url": "https://archive.org/download/red-hat-rhel-3-es-i386-cd1-installation1/red-hat-rhel-3-es-i386-cd1-installation1.iso",
+    "size": "147107846"
+  },
+  {
+    "identifier": "red-hat-rhel-3-es-i386-cd1-installation1",
+    "title": "Red Hat Enterprise Linux 3 (Spanish)",
+    "file_name": "red-hat-rhel-3-es-i386-cd4-installation4.iso",
+    "download_url": "https://archive.org/download/red-hat-rhel-3-es-i386-cd1-installation1/red-hat-rhel-3-es-i386-cd4-installation4.iso",
+    "size": "107130880"
+  },
+  {
+    "identifier": "red-hat-rhel-3-es-i386-cd1-installation1",
+    "title": "Red Hat Enterprise Linux 3 (Spanish)",
+    "file_name": "red-hat-rhel-3-es-i386-cd9-extras.iso",
+    "download_url": "https://archive.org/download/red-hat-rhel-3-es-i386-cd1-installation1/red-hat-rhel-3-es-i386-cd9-extras.iso",
+    "size": "77574144"
+  },
+  {
+    "identifier": "shredos-2024.11_27_x86-64_0.38_20250125_nomodeset",
+    "title": "shredos-2024.11_27_x86-64_0.38_20250125_nomodeset",
+    "file_name": "shredos-2024.11_27_x86-64_0.38_20250125_nomodeset.iso",
+    "download_url": "https://archive.org/download/shredos-2024.11_27_x86-64_0.38_20250125_nomodeset/shredos-2024.11_27_x86-64_0.38_20250125_nomodeset.iso",
+    "size": "281114624"
+  },
+  {
+    "identifier": "ubuntu-8.04-i-386",
+    "title": "com! 08/2008",
+    "file_name": "Ubuntu 8.04 i386.iso",
+    "download_url": "https://archive.org/download/ubuntu-8.04-i-386/Ubuntu 8.04 i386.iso",
+    "size": "8319899648"
+  },
+  {
+    "identifier": "ubuntu-gnome-16.10",
+    "title": "Ubuntu Gnome 16.10",
+    "file_name": "ubuntu-gnome-16.10-desktop-amd64.iso",
+    "download_url": "https://archive.org/download/ubuntu-gnome-16.10/ubuntu-gnome-16.10-desktop-amd64.iso",
+    "size": "1485881344"
+  },
+  {
+    "identifier": "ubuntu-gnome-16.10",
+    "title": "Ubuntu Gnome 16.10",
+    "file_name": "ubuntu-gnome-16.10-desktop-i386.iso",
+    "download_url": "https://archive.org/download/ubuntu-gnome-16.10/ubuntu-gnome-16.10-desktop-i386.iso",
+    "size": "1487339520"
+  },
+  {
+    "identifier": "com-3-2011",
+    "title": "Com! 03/2011",
+    "file_name": "com 3_2011.iso",
+    "download_url": "https://archive.org/download/com-3-2011/com 3_2011.iso",
+    "size": "7851921408"
+  },
+  {
+    "identifier": "tinfoil2",
+    "title": "Tinfoil Hat Linux",
+    "file_name": "tinfoil2.img",
+    "download_url": "https://archive.org/download/tinfoil2/tinfoil2.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "co-create_linux_2005",
+    "title": "Co-Create Linux 2005",
+    "file_name": "BABY-i386-disc1.iso",
+    "download_url": "https://archive.org/download/co-create_linux_2005/BABY-i386-disc1.iso",
+    "size": "718927872"
+  },
+  {
+    "identifier": "conectiva-redhat-linux-parolin",
+    "title": "Conectiva Red Hat Linux Parolin",
+    "file_name": "CRHL_Parolin.iso",
+    "download_url": "https://archive.org/download/conectiva-redhat-linux-parolin/CRHL_Parolin.iso",
+    "size": "637833216"
+  },
+  {
+    "identifier": "conectiva-redhat-linux-parolin",
+    "title": "Conectiva Red Hat Linux Parolin",
+    "file_name": "bootdisk.img",
+    "download_url": "https://archive.org/download/conectiva-redhat-linux-parolin/bootdisk.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "conectiva-redhat-linux-parolin",
+    "title": "Conectiva Red Hat Linux Parolin",
+    "file_name": "supplementary.img",
+    "download_url": "https://archive.org/download/conectiva-redhat-linux-parolin/supplementary.img",
+    "size": "1474560"
+  },
+  {
+    "identifier": "2008.1-dvd-mandriva-xtreme-2.1.2",
+    "title": "Mandriva Xtreme 2.1.2 2008 32-bit",
+    "file_name": "2008.1-dvd-mandriva-xtreme2.1.2.iso",
+    "download_url": "https://archive.org/download/2008.1-dvd-mandriva-xtreme-2.1.2/2008.1-dvd-mandriva-xtreme2.1.2.iso",
+    "size": "4667670528"
+  },
+  {
+    "identifier": "Hakin9_200503",
+    "title": "Hakin9 2005 - 03 (3) Coverdisk [hakin 9.live]",
+    "file_name": "Hakin9 2005 - 03 [hakin9.live].iso",
+    "download_url": "https://archive.org/download/Hakin9_200503/Hakin9 2005 - 03 [hakin9.live].iso",
+    "size": "649332736"
+  },
+  {
+    "identifier": "linuxmint-21-cinnamon-64bit",
+    "title": "Linux Mint 21 Vanessa (July, 2022) 64-bit All Editions Official ISO",
+    "file_name": "linuxmint-21-cinnamon-64bit.iso",
+    "download_url": "https://archive.org/download/linuxmint-21-cinnamon-64bit/linuxmint-21-cinnamon-64bit.iso",
+    "size": "2449342464"
+  },
+  {
+    "identifier": "linuxmint-21.1-cinnamon-64bit_202505",
+    "title": "Linux Mint 21.1 Vera (December, 2022) 64-bit All Editions Official ISO",
+    "file_name": "linuxmint-21.1-cinnamon-64bit.iso",
+    "download_url": "https://archive.org/download/linuxmint-21.1-cinnamon-64bit_202505/linuxmint-21.1-cinnamon-64bit.iso",
+    "size": "2681571328"
+  },
+  {
+    "identifier": "antergos-17.3-x86_64",
+    "title": "Antergos 17.3 x86_64",
+    "file_name": "antergos-17.3-x86_64.iso",
+    "download_url": "https://archive.org/download/antergos-17.3-x86_64/antergos-17.3-x86_64.iso",
+    "size": "1840087040"
+  },
+  {
+    "identifier": "linux-centos-6.6-i386",
+    "title": "CentOS 6.6 i386",
+    "file_name": "CentOS-6.6-i386-bin-DVD1.iso",
+    "download_url": "https://archive.org/download/linux-centos-6.6-i386/CentOS-6.6-i386-bin-DVD1.iso",
+    "size": "4029677568"
+  },
+  {
+    "identifier": "linux-centos-6.6-i386",
+    "title": "CentOS 6.6 i386",
+    "file_name": "CentOS-6.6-i386-bin-DVD2.iso",
+    "download_url": "https://archive.org/download/linux-centos-6.6-i386/CentOS-6.6-i386-bin-DVD2.iso",
+    "size": "1053083648"
+  },
+  {
+    "identifier": "linux-centos-6.6-i386",
+    "title": "CentOS 6.6 i386",
+    "file_name": "CentOS-6.6-i386-minimal.iso",
+    "download_url": "https://archive.org/download/linux-centos-6.6-i386/CentOS-6.6-i386-minimal.iso",
+    "size": "355467264"
+  },
+  {
+    "identifier": "linux-centos-6.6-i386",
+    "title": "CentOS 6.6 i386",
+    "file_name": "CentOS-6.6-i386-netinstall.iso",
+    "download_url": "https://archive.org/download/linux-centos-6.6-i386/CentOS-6.6-i386-netinstall.iso",
+    "size": "190840832"
+  },
+  {
+    "identifier": "mx-21-respin-enlightenment-20231118_0114",
+    "title": "MX-21 Respin Enlightenment",
+    "file_name": "mx-21-respin-enlightenment-20231118_0114.iso",
+    "download_url": "https://archive.org/download/mx-21-respin-enlightenment-20231118_0114/mx-21-respin-enlightenment-20231118_0114.iso",
+    "size": "1419771904"
+  },
+  {
+    "identifier": "grand-theft-auto-iii_202110",
+    "title": "Grand Theft Auto: III (Retail Edition)",
+    "file_name": "GTAIII (CD1).iso",
+    "download_url": "https://archive.org/download/grand-theft-auto-iii_202110/GTAIII (CD1).iso",
+    "size": "237531136"
+  },
+  {
+    "identifier": "grand-theft-auto-iii_202110",
+    "title": "Grand Theft Auto: III (Retail Edition)",
+    "file_name": "GTAIII (CD2).iso",
+    "download_url": "https://archive.org/download/grand-theft-auto-iii_202110/GTAIII (CD2).iso",
+    "size": "582180864"
+  },
+  {
+    "identifier": "grand-theft-auto-iii_202110",
+    "title": "Grand Theft Auto: III (Retail Edition)",
+    "file_name": "gta3patch1.1.zip",
+    "download_url": "https://archive.org/download/grand-theft-auto-iii_202110/gta3patch1.1.zip",
+    "size": "1102865"
+  },
+  {
+    "identifier": "grand-theft-auto-iii_202110",
+    "title": "Grand Theft Auto: III (Retail Edition)",
+    "file_name": "re3.zip",
+    "download_url": "https://archive.org/download/grand-theft-auto-iii_202110/re3.zip",
+    "size": "9233976"
+  },
+  {
+    "identifier": "com-2011.08",
+    "title": "com! 08/2011",
+    "file_name": "com! 2011.08.iso",
+    "download_url": "https://archive.org/download/com-2011.08/com! 2011.08.iso",
+    "size": "5390127104"
+  }
+]

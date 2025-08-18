@@ -1,3 +1,7 @@
 /Runs/
 /.idea/
+# Ignore Rust build artifacts
+/rust/target/
+# Python cache
+**/__pycache__/
 
