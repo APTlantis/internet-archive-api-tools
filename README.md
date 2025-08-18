@@ -214,3 +214,68 @@ rust/target/release/download-collections tsurugi_linux_2023.2 -o D:\Archive --gl
 Notes:
 - The Rust download-collections currently does not implement checksum verification; it focuses on listing and downloading filtered files.
 - All Rust tools implement simple retry/backoff logic and default timeouts.
+
+---
+
+# Go Counterparts
+
+[![Made with Go](https://img.shields.io/badge/Made%20with-Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+
+Go implementations of the same tools live under `go/` as separate commands, built without external dependencies.
+
+## Build
+
+- Install Go 1.22+ from https://go.dev/dl/
+- From project root:
+
+```powershell
+# Windows PowerShell
+cd go
+# build individual commands
+go build ./cmd/ia_advanced_search
+go build ./cmd/download_from_json
+go build ./cmd/download_collections
+
+# or install into GOPATH/bin (adds to PATH)
+go install ./cmd/ia_advanced_search
+go install ./cmd/download_from_json
+go install ./cmd/download_collections
+```
+
+Binaries will be placed in the current folder when using `go build`, named after the package directory (e.g., `ia_advanced_search.exe` on Windows).
+
+## Go Tooling Parity
+
+1) ia_advanced_search (Go)
+- Mirrors IA-Advanced-Search-v2.py.
+- Flags:
+  - `--query/-q`, `--rows`, `--max-pages`, `--sleep`, `--fields` (space-separated)
+  - `--out/-o`, `--timeout`, `--retries`, `--backoff`, `--user-agent`, `--dry-run`, `-v`
+- Example:
+```powershell
+./ia_advanced_search -q "(format:ISO OR format:IMG) AND mediatype:software" -o iso_metadata.json -v
+```
+
+2) download_from_json (Go)
+- Mirrors Download-From-JSON-v2.py.
+- Flags:
+  - `--input/-i`, `--output-dir/-o`, `--retries`, `--timeout`, `--backoff`, `--chunk-size`
+  - `--resume`, `--no-progress`, `--dry-run`, `--max`, `--include`, `--exclude`, `--user-agent`, `-v`
+- Example:
+```powershell
+./download_from_json -i iso_metadata.json -o S:\Linux-FUCKIN-ISOs --resume -v
+```
+
+3) download_collections (Go)
+- Counterpart to Download-Collections-v2.py; uses IA metadata + direct downloads (no Python dependency).
+- Flags:
+  - `identifier` (positional via `--identifier` or first arg), `--destdir/-o`, `--ignore-existing`, `--glob`, `--retries`, `--dry-run`, `-v`, `--checksum`
+- Example:
+```powershell
+./download_collections --identifier tsurugi_linux_2023.2 --destdir D:\Archive --glob *.iso -v --checksum
+```
+
+Notes:
+- The Go tools implement basic retry/backoff and default timeouts.
+- `download_collections` verifies MD5 checksums when `--checksum` is provided and metadata includes MD5.
+- Progress output is lightweight text-based (no external packages) and auto-updates on the same line when possible.
