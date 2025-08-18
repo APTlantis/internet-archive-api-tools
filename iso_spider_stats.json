@@ -1,0 +1,22 @@
+{
+  "ubuntu_releases": {
+    "items": 0,
+    "isos": 0
+  },
+  "linuxtracker": {
+    "items": 0,
+    "isos": 0
+  },
+  "archlinux_archive": {
+    "items": 0,
+    "isos": 0
+  },
+  "Fedora_Project": {
+    "items": 0,
+    "isos": 0
+  },
+  "debian-cd": {
+    "items": 0,
+    "isos": 0
+  }
+}

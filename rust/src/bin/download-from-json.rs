@@ -182,11 +182,39 @@ async fn download_once(client: &Client, url: &str, dest_path: &PathBuf, chunk_si
     let mut file = if mode == "append" { fs::OpenOptions::new().append(true).open(dest_path).await? } else { fs::File::create(dest_path).await? };
 
     use futures::StreamExt;
-    while let Some(chunk) = stream.next().await {
-        let bytes = chunk?;
-        file.write_all(&bytes).await?;
-        downloaded += bytes.len() as u64;
-        if let Some(pb) = &pb { pb.set_position(downloaded); }
+    if chunk_size == 0 {
+        // Fallback: write through directly
+        while let Some(chunk) = stream.next().await {
+            let bytes = chunk?;
+            file.write_all(&bytes).await?;
+            downloaded += bytes.len() as u64;
+            if let Some(pb) = &pb { pb.set_position(downloaded); }
+        }
+    } else {
+        let mut buffer: Vec<u8> = Vec::with_capacity(chunk_size);
+        while let Some(chunk) = stream.next().await {
+            let bytes = chunk?;
+            buffer.extend_from_slice(&bytes);
+            // Write out in fixed-size chunks
+            let mut start = 0usize;
+            while buffer.len() - start >= chunk_size {
+                let end = start + chunk_size;
+                file.write_all(&buffer[start..end]).await?;
+                downloaded += chunk_size as u64;
+                if let Some(pb) = &pb { pb.set_position(downloaded); }
+                start = end;
+            }
+            // Retain the remainder in buffer
+            if start > 0 {
+                buffer.drain(0..start);
+            }
+        }
+        // Flush any remaining bytes
+        if !buffer.is_empty() {
+            file.write_all(&buffer).await?;
+            downloaded += buffer.len() as u64;
+            if let Some(pb) = &pb { pb.set_position(downloaded); }
+        }
     }
     if let Some(pb) = &pb { pb.finish_and_clear(); }
 

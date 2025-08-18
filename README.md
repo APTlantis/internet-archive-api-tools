@@ -13,6 +13,7 @@ A small set of Python CLI tools for searching and downloading software images fr
 - IA-Advanced-Search-v2.py — advanced search wrapper that produces a JSON list of ISO/IMG/ZIP files.
 - Download-From-JSON-v2.py — downloader for a list produced by the search tool (resume, retries, filters, progress bars).
 - Download-Collections-v2.py — download all or filtered files from a specific Internet Archive item/collection using the official `internetarchive` library.
+- IA-Iso-Spider.py — seed with 3–5 collection IDs or item identifiers, crawls related collections/items prioritizing higher ISO yield; logs and outputs JSONL results.
 - Versions/ — original legacy scripts preserved.
 
 ## Features
@@ -60,6 +61,12 @@ python Download-From-JSON-v2.py -i iso_metadataz.json -o S:\Linux-FUCKIN-ISOs --
 
 3) Download a full Internet Archive item/collection
 
+4) Crawl via Spider (seed collections -> discover more -> prioritize by ISO yield)
+
+```powershell
+python IA-Iso-Spider.py --seeds ubuntu_releases linuxtracker debian-cd -v --max-visits 100 --out-jsonl iso_spider_results.jsonl --stats-json iso_spider_stats.json
+```
+
 ```powershell
 # Download all files listed under a specific identifier
 python Download-Collections-v2.py linuxtracker.org_p1 -o S:\Linux-FUCKIN-ISOs -v --glob *.iso
@@ -92,6 +99,23 @@ Output format (per entry):
   "download_url": "https://archive.org/download/<identifier>/<file>",
   "size": "<bytes or unknown>"
 }
+```
+
+### IA-Iso-Spider.py
+Crawls from a small set of Internet Archive collection IDs, discovers item identifiers and related collections via metadata, and prioritizes crawling of collections that historically yield more ISO files. Outputs JSONL of found ISO entries and writes a stats JSON summarizing yield per collection. A rolling log file records progress.
+
+Key options:
+- `--seeds` 3–5 starting collection IDs or item identifiers (default includes popular Linux release collections, plus vintagesoftware)
+- `--max-visits` cap on number of frontier pops (collections/items processed)
+- `--max-depth` limit expansion depth from seeds
+- `--out-jsonl` path for results (one JSON per line)
+- `--stats-json` path for stats summary (per collection: items, isos)
+- `--sleep`, `--timeout`, `--retries`, `--backoff`, `--user-agent`, `-v`, `--log-file`
+- `--stop-on-dry-spell` stop after N consecutive visits yield no new ISOs
+
+Example:
+```powershell
+python IA-Iso-Spider.py --seeds ubuntu_releases linuxtracker debian-cd -v --max-visits 150
 ```
 
 ### Download-From-JSON-v2.py
