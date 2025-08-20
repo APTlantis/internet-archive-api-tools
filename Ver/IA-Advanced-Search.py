@@ -116,7 +116,7 @@ def main():
                         "size": f.get("size", "unknown")
                     })
 
-    out_file = "../iso_metadata.json"
+    out_file = "../iso_metadata2.json"
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(iso_entries, f, indent=2, ensure_ascii=False)
 

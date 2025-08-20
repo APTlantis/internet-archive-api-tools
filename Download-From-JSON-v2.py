@@ -161,7 +161,7 @@ def download_file(session: requests.Session, url: str, dest_path: str, chunk_siz
 
 def main():
     p = argparse.ArgumentParser(description="Download files from an Internet Archive JSON list (v2)")
-    p.add_argument("--input", "-i", default="iso_metadata.json", help="Path to JSON metadata file (list of items)")
+    p.add_argument("--input", "-i", default="iso_metadata2.json", help="Path to JSON metadata file (list of items)")
     p.add_argument("--output-dir", "-o", default=DEFAULT_OUTPUT_DIR, help="Destination directory for downloads")
     p.add_argument("--retries", type=int, default=DEFAULT_RETRIES, help="Total HTTP retries for transient errors")
     p.add_argument("--timeout", type=int, default=DEFAULT_TIMEOUT, help="Request timeout seconds")

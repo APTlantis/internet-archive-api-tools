@@ -108,9 +108,10 @@ Key options:
 - `--seeds` 3–5 starting collection IDs or item identifiers (default includes popular Linux release collections, plus vintagesoftware)
 - `--max-visits` cap on number of frontier pops (collections/items processed)
 - `--max-depth` limit expansion depth from seeds
-- `--out-jsonl` path for results (one JSON per line)
-- `--stats-json` path for stats summary (per collection: items, isos)
-- `--sleep`, `--timeout`, `--retries`, `--backoff`, `--user-agent`, `-v`, `--log-file`
+- `--out-jsonl` path for results (one JSON per line) [default: Z:\iso_spider_results.jsonl]
+- `--stats-json` path for stats summary (per collection: items, isos) [default: Z:\iso_spider_stats.json]
+- `--sleep`, `--timeout`, `--retries`, `--backoff`, `--user-agent`, `-v`, `--log-file` [default log: Z:\iso_spider.log]
+- `--progress-interval` seconds between periodic progress reports (heartbeat). A background heartbeat runs regardless of network waits and prints elapsed time, rates (visits/min, ISOs/min), ETA to max-visits, and last HTTP status/latency.
 - `--stop-on-dry-spell` stop after N consecutive visits yield no new ISOs
 
 Example:

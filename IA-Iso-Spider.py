@@ -3,6 +3,7 @@ import json
 import logging
 import sys
 import time
+import threading
 from collections import defaultdict, deque
 from dataclasses import dataclass, field
 from typing import Deque, Dict, List, Optional, Set, Tuple
@@ -55,7 +56,87 @@ def setup_logging(verbosity: int, log_file: Optional[str] = None):
         logging.getLogger(name).setLevel(u3_level)
 
 
-def build_session(timeout: int, retries: int, backoff: float, user_agent: Optional[str]) -> requests.Session:
+def _format_duration(seconds: float) -> str:
+    seconds = int(seconds)
+    h = seconds // 3600
+    m = (seconds % 3600) // 60
+    s = seconds % 60
+    if h > 0:
+        return f"{h:02d}:{m:02d}:{s:02d}"
+    return f"{m:02d}:{s:02d}"
+
+
+def _heartbeat_worker(status: Dict[str, object], interval: float):
+    # Runs in a daemon thread and periodically logs progress regardless of main thread state
+    while True:
+        try:
+            if not status.get("running", False):
+                break
+            start = status.get("start_time", time.time())
+            elapsed = time.time() - float(start) if isinstance(start, (int, float)) else 0.0
+            visits = int(status.get("visits", 0) or 0)
+            total_iso = int(status.get("total_iso", 0) or 0)
+            frontier = int(status.get("frontier", 0) or 0)
+            seen_ids = int(status.get("seen_ids", 0) or 0)
+            seen_cols = int(status.get("seen_cols", 0) or 0)
+            max_visits = int(status.get("max_visits", 0) or 0)
+
+            vpm = (visits / elapsed * 60.0) if elapsed > 0 else 0.0
+            ipm = (total_iso / elapsed * 60.0) if elapsed > 0 else 0.0
+            eta_str = "--"
+            if vpm > 0 and max_visits > 0 and visits < max_visits:
+                remaining = max(0, max_visits - visits)
+                eta_min = remaining / vpm
+                eta_str = f"{int(eta_min)}m"
+
+            last_http = status.get("last_http", {}) or {}
+            last_url = str(last_http.get("url", ""))
+            last_status = last_http.get("status")
+            last_rtt = last_http.get("rtt")
+            last_err = last_http.get("error")
+            last_when = last_http.get("t_done") or last_http.get("t_start")
+            age = (time.time() - float(last_when)) if isinstance(last_when, (int, float)) else None
+
+            parts = [
+                f"[HB] elapsed={_format_duration(elapsed)}",
+                f"visits={visits}/{max_visits}" if max_visits else f"visits={visits}",
+                f"isos={total_iso}",
+                f"frontier={frontier}",
+                f"rate={vpm:.1f} v/m, {ipm:.1f} i/m",
+                f"eta={eta_str}",
+            ]
+            # Append last HTTP info succinctly
+            http_parts = []
+            if last_status is not None:
+                http_parts.append(f"status={last_status}")
+            if last_rtt is not None:
+                http_parts.append(f"rtt={last_rtt:.2f}s")
+            if age is not None:
+                http_parts.append(f"age={age:.1f}s")
+            if last_err:
+                http_parts.append(f"err={str(last_err)[:60]}")
+            if last_url:
+                # Only include the tail of the URL to keep it short
+                tail = last_url[-80:]
+                http_parts.append(f"url=...{tail}")
+            if http_parts:
+                parts.append("http{" + ", ".join(http_parts) + "}")
+
+            logging.info(" ".join(parts))
+        except Exception:
+            # Never crash the heartbeat
+            pass
+        time.sleep(max(2.0, float(interval)))
+
+
+def start_heartbeat(status: Dict[str, object], interval: float) -> threading.Thread:
+    t = threading.Thread(target=_heartbeat_worker, args=(status, interval), daemon=True)
+    status["running"] = True
+    t.start()
+    return t
+
+
+def build_session(timeout: int, retries: int, backoff: float, user_agent: Optional[str], status: Optional[Dict[str, object]] = None) -> requests.Session:
     session = requests.Session()
     session.headers.update({"User-Agent": user_agent or DEFAULT_UA})
     retry = Retry(
@@ -71,13 +152,45 @@ def build_session(timeout: int, retries: int, backoff: float, user_agent: Option
     session.mount("https://", adapter)
     session.mount("http://", adapter)
 
-    # Attach default timeout wrapper
+    # Attach default timeout wrapper + timing recorder
     orig_request = session.request
 
     def wrapped(method, url, **kwargs):
+        t0 = time.time()
+        if status is not None:
+            status.setdefault("last_http", {})
+            status["last_http"] = {
+                "t_start": t0,
+                "url": url,
+                "status": None,
+                "rtt": None,
+                "error": None,
+            }
         if "timeout" not in kwargs:
             kwargs["timeout"] = timeout
-        return orig_request(method, url, **kwargs)
+        try:
+            resp = orig_request(method, url, **kwargs)
+            if status is not None:
+                t1 = time.time()
+                info = status.get("last_http", {}) or {}
+                info.update({
+                    "t_done": t1,
+                    "status": getattr(resp, "status_code", None),
+                    "rtt": t1 - t0,
+                })
+                status["last_http"] = info
+            return resp
+        except Exception as e:
+            if status is not None:
+                t1 = time.time()
+                info = status.get("last_http", {}) or {}
+                info.update({
+                    "t_done": t1,
+                    "error": str(e),
+                    "rtt": t1 - t0,
+                })
+                status["last_http"] = info
+            raise
 
     session.request = wrapped  # type: ignore
     return session
@@ -176,15 +289,30 @@ def main():
     parser.add_argument("--timeout", type=int, default=30, help="HTTP timeout seconds")
     parser.add_argument("--retries", type=int, default=5, help="HTTP retries for transient errors")
     parser.add_argument("--backoff", type=float, default=1.0, help="Retry backoff factor")
-    parser.add_argument("--out-jsonl", default="iso_spider_results.jsonl", help="Output JSONL for discovered ISO files")
-    parser.add_argument("--stats-json", default="iso_spider_stats.json", help="Output JSON for crawl stats (collections yield)")
-    parser.add_argument("--log-file", default="iso_spider.log", help="Path to log file")
+    parser.add_argument("--out-jsonl", default="Z:\\iso_spider_results.jsonl", help="Output JSONL for discovered ISO files (default Z:\\)")
+    parser.add_argument("--stats-json", default="Z:\\iso_spider_stats.json", help="Output JSON for crawl stats (collections yield) (default Z:\\)")
+    parser.add_argument("--log-file", default="Z:\\iso_spider.log", help="Path to log file (default Z:\\)")
+    parser.add_argument("--progress-interval", type=float, default=30.0, help="Seconds between periodic progress reports")
     parser.add_argument("-v", action="count", default=0, help="Increase verbosity (-v info, -vv debug)")
     parser.add_argument("--stop-on-dry-spell", type=int, default=25, help="Stop after this many consecutive visits yield no new ISOs")
     args = parser.parse_args()
 
     setup_logging(args.v, args.log_file)
-    session = build_session(args.timeout, args.retries, args.backoff, args.user_agent)
+
+    # Shared status for heartbeat/metrics
+    status: Dict[str, object] = {
+        "start_time": time.time(),
+        "visits": 0,
+        "total_iso": 0,
+        "frontier": 0,
+        "seen_ids": 0,
+        "seen_cols": 0,
+        "max_visits": args.max_visits,
+        "last_http": {},
+        "running": True,
+    }
+
+    session = build_session(args.timeout, args.retries, args.backoff, args.user_agent, status)
 
     # State
     seen_collections: Set[str] = set()
@@ -210,8 +338,34 @@ def main():
     # Output JSONL stream
     out_fp = open(args.out_jsonl, "w", encoding="utf-8")
 
+    logging.info(f"Seeds: {', '.join(args.seeds)}")
+    logging.info(f"Results: {args.out_jsonl} | Stats: {args.stats_json} | Log: {args.log_file}")
+    logging.info(f"Config: max_visits={args.max_visits}, max_depth={args.max_depth}, rows={args.rows}, sleep={args.sleep}, timeout={args.timeout}, retries={args.retries}, backoff={args.backoff}")
+
+    # Start background heartbeat
+    hb_thread = start_heartbeat(status, args.progress_interval)
+
+    next_progress_t = time.time() + max(5.0, args.progress_interval)
+
     try:
         while frontier and visits < args.max_visits:
+            # Update shared status for heartbeat
+            status["visits"] = visits
+            status["total_iso"] = total_iso
+            status["frontier"] = len(frontier)
+            status["seen_ids"] = len(seen_identifiers)
+            status["seen_cols"] = len(seen_collections)
+
+            # Periodic heartbeat report (backup to background heartbeat)
+            now = time.time()
+            if now >= next_progress_t:
+                logging.info(f"[HB] visits={visits}/{args.max_visits} | total_isos={total_iso} | frontier={len(frontier)} | seen_ids={len(seen_identifiers)} | seen_cols={len(seen_collections)}")
+                try:
+                    out_fp.flush()
+                except Exception:
+                    pass
+                next_progress_t = now + max(5.0, args.progress_interval)
+
             node = pop_frontier(frontier)
             if node is None:
                 break
@@ -227,6 +381,8 @@ def main():
 
                 visits += 1
                 seen_collections.add(coll)
+                status["visits"] = visits
+                status["seen_cols"] = len(seen_collections)
                 logging.info(f"[C] Visiting collection '{coll}' (depth={node.depth}) | visits={visits}/{args.max_visits}")
 
                 # Page through items in this collection
@@ -253,7 +409,7 @@ def main():
                             break
                         response_obj = data.get("response") or {}
                     docs = response_obj.get("docs", []) or []
-                    logging.debug(f"{coll} page {p} docs={len(docs)}")
+                    logging.info(f"[C] {coll} page {p}/{total_pages} docs={len(docs)}")
                     for doc in docs:
                         identifier = (doc.get("identifier") or "").strip()
                         title = (doc.get("title") or "").strip()
@@ -278,7 +434,12 @@ def main():
                                     continue
                                 seen_files.add(key)
                                 out_fp.write(json.dumps(e, ensure_ascii=False) + "\n")
+                                try:
+                                    out_fp.flush()
+                                except Exception:
+                                    pass
                                 total_iso += 1
+                                status["total_iso"] = total_iso
                                 new_isos_from_coll += 1
                         # Discover related collections from this item and push to frontier
                         rel_cols = related_collections_from_meta(meta)
@@ -328,6 +489,8 @@ def main():
                     continue
                 visits += 1
                 seen_identifiers.add(ident)
+                status["visits"] = visits
+                status["seen_ids"] = len(seen_identifiers)
                 logging.info(f"[I] Visiting identifier '{ident}' (depth={node.depth}) | visits={visits}/{args.max_visits}")
 
                 time.sleep(args.sleep)
@@ -348,7 +511,12 @@ def main():
                             continue
                         seen_files.add(key)
                         out_fp.write(json.dumps(e, ensure_ascii=False) + "\n")
+                        try:
+                            out_fp.flush()
+                        except Exception:
+                            pass
                         total_iso += 1
+                        status["total_iso"] = total_iso
 
                 # Parent collections of this item become future crawl targets
                 rel_cols = related_collections_from_meta(meta)
@@ -369,6 +537,12 @@ def main():
         logging.info(f"Finished crawl. Visits={visits}, total_isos={total_iso}, unique_items={len(seen_identifiers)}, unique_collections={len(seen_collections)}")
     finally:
         out_fp.close()
+
+    # Stop heartbeat
+    try:
+        status["running"] = False
+    except Exception:
+        pass
 
     # Write stats JSON
     try:
