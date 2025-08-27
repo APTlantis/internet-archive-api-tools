@@ -1,9 +1,5 @@
 /Runs/
 /.idea/
-# Ignore Rust build artifacts
-/rust/target/
-# Python cache
-**/__pycache__/
-
-/Jen/test_data/
+/__pycache__/
 /Lists-TODO/
+/misc.json
