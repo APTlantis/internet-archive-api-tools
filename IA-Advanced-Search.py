@@ -12,7 +12,7 @@ DOWNLOAD_BASE_URL = "https://archive.org/download"
 # - Only software media type
 # - ISO or IMG files are likely
 # - Mention "linux" in title/subject/description (subject:"linux" is common)
-QUERY = '(format:ISO OR format:IMG) AND mediatype:software AND description:"linux, distribution"'
+QUERY = '(format:ISO OR format:IMG) AND mediatype:software AND description:"linux" AND description:"distribution"'
 
 FIELDS = ["identifier", "title", "date", "creator"]
 ROWS_PER_PAGE = 500  # IA allows up to 1000; use 500 to be gentle
@@ -116,7 +116,7 @@ def main():
                         "size": f.get("size", "unknown")
                     })
 
-    out_file = "../iso_metadata2.json"
+    out_file = "Lists-TODO/pear.json"
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(iso_entries, f, indent=2, ensure_ascii=False)
 

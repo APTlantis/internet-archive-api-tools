@@ -1,0 +1,52 @@
+[
+{"identifier": "debian-13-trixie-collection",
+  "title": "Debian 13 \"Trixie\" ISO Collection",
+  "file_name": "13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-cinnamon.iso",
+  "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-cinnamon.iso",
+  "size": "4043309056"},
+{
+  "identifier": "debian-13-trixie-collection",
+  "title": "Debian 13 \"Trixie\" ISO Collection",
+  "file_name": "13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-gnome.iso",
+  "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-gnome.iso",
+  "size": "4039360512"
+},
+{
+  "identifier": "debian-13-trixie-collection",
+  "title": "Debian 13 \"Trixie\" ISO Collection", "file_name": "13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-kde.iso",
+  "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-kde.iso",
+  "size": "4127195136"},
+{
+  "identifier": "debian-13-trixie-collection",
+  "title": "Debian 13 \"Trixie\" ISO Collection",
+  "file_name": "13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-lxde.iso",
+  "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-lxde.iso",
+  "size": "3741319168"
+},
+{
+  "identifier": "debian-13-trixie-collection",
+  "title": "Debian 13 \"Trixie\" ISO Collection",
+  "file_name": "13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-lxqt.iso",
+  "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-lxqt.iso",
+  "size": "3925868544"
+},
+{
+  "identifier": "debian-13-trixie-collection",
+  "title": "Debian 13 \"Trixie\" ISO Collection",
+  "file_name": "13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-mate.iso",
+  "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-mate.iso",
+  "size": "3901456384"
+},
+{
+	"identifier": "debian-13-trixie-collection", "title": "Debian 13 \"Trixie\" ISO Collection", "file_name": "13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-standard.iso", "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian Live (amd64)/debian-live-13.0.0-amd64-standard.iso", "size": "1959100416"},
+{
+	"identifier": "debian-13-trixie-collection", "title": "Debian 13 \"Trixie\" ISO Collection", "file_name": "13.0/Debian online (netinst)/debian-13.0.0-amd64-netinst.iso", "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian online (netinst)/debian-13.0.0-amd64-netinst.iso", "size": "790626304"},
+{
+	"identifier": "debian-13-trixie-collection", "title": "Debian 13 \"Trixie\" ISO Collection", "file_name": "13.0/Debian online (netinst)/debian-13.0.0-arm64-netinst.iso", "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian online (netinst)/debian-13.0.0-arm64-netinst.iso", "size": "737456128"},
+{
+	"identifier": "debian-13-trixie-collection", "title": "Debian 13 \"Trixie\" ISO Collection", "file_name": "13.0/Debian online (netinst)/debian-13.0.0-riscv64-netinst.iso", "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian online (netinst)/debian-13.0.0-riscv64-netinst.iso", "size": "615821312"},
+{
+	"identifier": "debian-13-trixie-collection", "title": "Debian 13 \"Trixie\" ISO Collection", "file_name": "13.0/Debian online (netinst)/debian-13.0.0-s390x-netinst.iso", "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian online (netinst)/debian-13.0.0-s390x-netinst.iso", "size": "442183680"},
+{"identifier": "debian-13-trixie-collection", "title": "Debian 13 \"Trixie\" ISO Collection", "file_name": "13.0/Debian online (netinst)/debian-edu-13.0.0-amd64-netinst.iso", "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian online (netinst)/debian-edu-13.0.0-amd64-netinst.iso", "size": "800063488"},
+{"identifier": "debian-13-trixie-collection", "title": "Debian 13 \"Trixie\" ISO Collection", "file_name": "13.0/Debian online (netinst)/debian-mac-13.0.0-amd64-netinst.iso", "download_url": "https://archive.org/download/debian-13-trixie-collection/13.0/Debian online (netinst)/debian-mac-13.0.0-amd64-netinst.iso", "size": "792723456"}
+]

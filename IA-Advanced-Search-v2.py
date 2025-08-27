@@ -105,7 +105,7 @@ def main():
     parser.add_argument("--max-pages", type=int, help="Limit number of pages to fetch")
     parser.add_argument("--sleep", type=float, default=1.0, help="Sleep seconds between requests")
     parser.add_argument("--fields", nargs="*", default=DEFAULT_FIELDS, help="Fields to fetch in search results")
-    parser.add_argument("--out", "-o", default="iso_metadata2.json", help="Output JSON file for results")
+    parser.add_argument("--out", "-o", default="pear.json", help="Output JSON file for results")
     parser.add_argument("--timeout", type=int, default=30, help="Request timeout seconds")
     parser.add_argument("--retries", type=int, default=5, help="HTTP retries for transient errors")
     parser.add_argument("--backoff", type=float, default=1.0, help="Retry backoff factor")

@@ -5,11 +5,11 @@ import sys
 import time
 
 # Load the ISO metadata (explicit UTF-8 to avoid Windows cp1252 decode issues)
-with open("../crawler-results.json", "r", encoding="utf-8") as f:
+with open("misc.json", "r", encoding="utf-8") as f:
     iso_list = json.load(f)
 
 # Make sure the output directory exists
-output_dir = "S:/Linux-FUCKIN-ISOs/"
+output_dir = "G:/Linux-ISOs/"
 os.makedirs(output_dir, exist_ok=True)
 
 BAR_WIDTH = 40

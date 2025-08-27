@@ -1,1 +1,0 @@
-fn main() { println!("download-collections (Rust) placeholder"); }

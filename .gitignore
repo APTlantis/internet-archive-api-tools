@@ -5,3 +5,5 @@
 # Python cache
 **/__pycache__/
 
+/Jen/test_data/
+/Lists-TODO/

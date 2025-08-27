@@ -304,3 +304,73 @@ Notes:
 - The Go tools implement basic retry/backoff and default timeouts.
 - `download_collections` verifies MD5 checksums when `--checksum` is provided and metadata includes MD5.
 - Progress output is lightweight text-based (no external packages) and auto-updates on the same line when possible.
+
+---
+
+# Kotlin Prototype (Jen)
+
+A minimal, dependency-free Kotlin spider prototype lives at `Jen/kotlin/jen/src/Main.kt`. It performs a simple BFS crawl from seed URLs, extracts links via a basic regex, restricts navigation to the same host by default, and writes:
+- JSONL results to `Jen/test_data/iso_spider_results.jsonl` (one visit record per line)
+- Stats summary to `Jen/test_data/iso_spider_stats.json`
+
+Build and run (PowerShell example without a Gradle build, using the Kotlin command-line compiler):
+
+```powershell
+# compile
+& "C:\Program Files\Kotlin\bin\kotlinc.bat" Jen\kotlin\jen\src\Main.kt -include-runtime -d jen.jar
+
+# run
+& "C:\Users\Herb\.jdks\temurin-24.0.2\bin\java.exe" -jar .\jen.jar --ia-default-seeds --max-visits 10 -v
+
+# Options
+#   --seeds <csv>          Comma-separated seed URLs
+#   --ia-default-seeds     Use curated IA/Wayback seeds (Debian CDs, Ubuntu releases, LinuxTracker, vintagesoftware, TempleOS, CrunchBang)
+#   --max-visits <int>     Cap total visits (default 25)
+#   --max-depth <int>      Max BFS depth from seeds (default 2)
+#   --same-host-only       Restrict to same host (default)
+#   --no-same-host-only    Allow cross-host following
+#   --user-agent <ua>      Custom User-Agent
+#   --timeout <ms>         HTTP timeout in milliseconds (default 15000)
+#   --sleep-ms <ms>        Polite delay between visits (default 0)
+#   --out-jsonl <path>     Results JSONL output path
+#   --stats-json <path>    Stats JSON output path
+#   --log-file <path>      Log file path (default Jen\test_data\iso_spider.log)
+#   -v, --verbose          Verbose logs
+```
+
+Notes:
+- This is an early Kotlin port/prototype of “Jen, the web scraper spider.” For more robust HTML parsing and robots/ETag handling, we can add dependencies (e.g., jsoup/OkHttp) once a Gradle build is set up.
+- Output formats are lightweight and intended to be compatible with the repo’s existing JSONL/logging style.
+
+
+
+
+## Kotlin Jen Smoke Test
+
+A simple PowerShell script is included to compile the Kotlin prototype and run a tiny crawl, verifying that result, stats, and log files are produced and non-empty.
+
+Requirements:
+- Java Runtime (java) on PATH
+- Kotlin compiler (kotlinc) on PATH
+
+Note: If kotlinc is not found on PATH, the smoke test will SKIP gracefully and exit 0.
+
+Run from the repository root:
+
+```powershell
+# Allow running local scripts if needed
+# Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+# Execute the smoke test
+./Jen/target_helpers/jen_smoke_test.ps1
+```
+
+The script will:
+- Compile Jen\kotlin\jen\src\Main.kt into jen.smoke.jar
+- Run a crawl against curated IA/Wayback seeds with --max-visits 5
+- Assert that the following files exist and are non-empty:
+  - Jen\test_data\iso_spider_results.jsonl
+  - Jen\test_data\iso_spider_stats.json
+  - Jen\test_data\iso_spider.log
+
+It prints a [TEST] PASS/FAIL summary and exits with a corresponding code.
